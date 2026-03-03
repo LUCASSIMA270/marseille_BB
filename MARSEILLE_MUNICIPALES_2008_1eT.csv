@@ -1,0 +1,2154 @@
+entete;10 mars 2008;01:27;Elections municipales 2008;1;09.03.2008;754;8
+commune;01;GAUDIN-MUSELIER;109 930;41,03;1
+commune;02;GUERINI;104 876;39,14;0
+commune;03;MODEM;14 844;5,54;0
+commune;04;FN;23 475;8,76;0
+commune;05;MNR;608;0,23;0
+commune;06;DIVERS DROITE;819;0,31;0
+commune;07;EXTREME GAUCHE;13 398;5,00;0
+commune_tot;474 806;274 151;57,74;267 950;56,43;6 201;2,26
+detail;SECTEUR;01;candidat;01;CHEVASSU Armelle;1 909;7,57;0
+detail;SECTEUR;01;candidat;02;BRUN-POTHIN Stephanie;145;0,58;0
+detail;SECTEUR;01;candidat;03;BLANC Jackie;1 671;6,63;0
+detail;SECTEUR;01;candidat;04;MULLER Childeric;1 533;6,08;0
+detail;SECTEUR;01;candidat;05;MENNUCCI Patrick;9 886;39,21;0
+detail;SECTEUR;01;candidat;06;ROATTA Jean;10 069;39,94;1
+total;42 882;25 801;60,17;25 213;58,80;588;2,28
+liste_bv;detail_bv;0101;candidat;01;CHEVASSU Armelle;65;13,86;0;0102;candidat;01;CHEVASSU Armelle;22;5,84;0
+liste_bv;detail_bv;0101;candidat;02;BRUN-POTHIN Stephanie;7;1,49;0;0102;candidat;02;BRUN-POTHIN Stephanie;3;0,80;0
+liste_bv;detail_bv;0101;candidat;03;BLANC Jackie;20;4,26;0;0102;candidat;03;BLANC Jackie;20;5,31;0
+liste_bv;detail_bv;0101;candidat;04;MULLER Childeric;31;6,61;0;0102;candidat;04;MULLER Childeric;14;3,71;0
+liste_bv;detail_bv;0101;candidat;05;MENNUCCI Patrick;230;49,04;1;0102;candidat;05;MENNUCCI Patrick;204;54,11;1
+liste_bv;detail_bv;0101;candidat;06;ROATTA Jean;116;24,73;0;0102;candidat;06;ROATTA Jean;114;30,24;0
+liste_bv;total_bv;1 097;476;43,39;469;42,75;7;1,47;698;388;55,59;377;54,01;11;2,84
+liste_bv;detail_bv;0104;candidat;01;CHEVASSU Armelle;26;6,79;0;0121;candidat;01;CHEVASSU Armelle;44;7,68;0
+liste_bv;detail_bv;0104;candidat;02;BRUN-POTHIN Stephanie;16;4,18;0;0121;candidat;02;BRUN-POTHIN Stephanie;10;1,75;0
+liste_bv;detail_bv;0104;candidat;03;BLANC Jackie;10;2,61;0;0121;candidat;03;BLANC Jackie;41;7,16;0
+liste_bv;detail_bv;0104;candidat;04;MULLER Childeric;18;4,70;0;0121;candidat;04;MULLER Childeric;40;6,98;0
+liste_bv;detail_bv;0104;candidat;05;MENNUCCI Patrick;233;60,84;1;0121;candidat;05;MENNUCCI Patrick;253;44,15;1
+liste_bv;detail_bv;0104;candidat;06;ROATTA Jean;80;20,89;0;0121;candidat;06;ROATTA Jean;185;32,29;0
+liste_bv;total_bv;733;394;53,75;383;52,25;11;2,79;1 084;583;53,78;573;52,86;10;1,72
+liste_bv;detail_bv;0122;candidat;01;CHEVASSU Armelle;89;15,84;0;0125;candidat;01;CHEVASSU Armelle;35;6,62;0
+liste_bv;detail_bv;0122;candidat;02;BRUN-POTHIN Stephanie;9;1,60;0;0125;candidat;02;BRUN-POTHIN Stephanie;1;0,19;0
+liste_bv;detail_bv;0122;candidat;03;BLANC Jackie;24;4,27;0;0125;candidat;03;BLANC Jackie;20;3,78;0
+liste_bv;detail_bv;0122;candidat;04;MULLER Childeric;34;6,05;0;0125;candidat;04;MULLER Childeric;37;6,99;0
+liste_bv;detail_bv;0122;candidat;05;MENNUCCI Patrick;263;46,80;1;0125;candidat;05;MENNUCCI Patrick;215;40,64;0
+liste_bv;detail_bv;0122;candidat;06;ROATTA Jean;143;25,44;0;0125;candidat;06;ROATTA Jean;221;41,78;1
+liste_bv;total_bv;1 139;578;50,75;562;49,34;16;2,77;895;542;60,56;529;59,11;13;2,40
+liste_bv;detail_bv;0126;candidat;01;CHEVASSU Armelle;93;17,42;0;0127;candidat;01;CHEVASSU Armelle;70;13,70;0
+liste_bv;detail_bv;0126;candidat;02;BRUN-POTHIN Stephanie;5;0,94;0;0127;candidat;02;BRUN-POTHIN Stephanie;2;0,39;0
+liste_bv;detail_bv;0126;candidat;03;BLANC Jackie;24;4,49;0;0127;candidat;03;BLANC Jackie;37;7,24;0
+liste_bv;detail_bv;0126;candidat;04;MULLER Childeric;37;6,93;0;0127;candidat;04;MULLER Childeric;37;7,24;0
+liste_bv;detail_bv;0126;candidat;05;MENNUCCI Patrick;255;47,75;1;0127;candidat;05;MENNUCCI Patrick;240;46,97;1
+liste_bv;detail_bv;0126;candidat;06;ROATTA Jean;120;22,47;0;0127;candidat;06;ROATTA Jean;125;24,46;0
+liste_bv;total_bv;930;542;58,28;534;57,42;8;1,48;870;527;60,57;511;58,74;16;3,04
+liste_bv;detail_bv;0128;candidat;01;CHEVASSU Armelle;80;14,08;0;0141;candidat;01;CHEVASSU Armelle;42;12,84;0
+liste_bv;detail_bv;0128;candidat;02;BRUN-POTHIN Stephanie;1;0,18;0;0141;candidat;02;BRUN-POTHIN Stephanie;6;1,83;0
+liste_bv;detail_bv;0128;candidat;03;BLANC Jackie;25;4,40;0;0141;candidat;03;BLANC Jackie;10;3,06;0
+liste_bv;detail_bv;0128;candidat;04;MULLER Childeric;41;7,22;0;0141;candidat;04;MULLER Childeric;14;4,28;0
+liste_bv;detail_bv;0128;candidat;05;MENNUCCI Patrick;268;47,18;1;0141;candidat;05;MENNUCCI Patrick;175;53,52;1
+liste_bv;detail_bv;0128;candidat;06;ROATTA Jean;153;26,94;0;0141;candidat;06;ROATTA Jean;80;24,46;0
+liste_bv;total_bv;935;585;62,57;568;60,75;17;2,91;713;342;47,97;327;45,86;15;4,39
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0142;candidat;01;CHEVASSU Armelle;29;6,49;0;0181;candidat;01;CHEVASSU Armelle;80;11,35;0
+liste_bv;detail_bv;0142;candidat;02;BRUN-POTHIN Stephanie;24;5,37;0;0181;candidat;02;BRUN-POTHIN Stephanie;6;0,85;0
+liste_bv;detail_bv;0142;candidat;03;BLANC Jackie;14;3,13;0;0181;candidat;03;BLANC Jackie;39;5,53;0
+liste_bv;detail_bv;0142;candidat;04;MULLER Childeric;19;4,25;0;0181;candidat;04;MULLER Childeric;43;6,10;0
+liste_bv;detail_bv;0142;candidat;05;MENNUCCI Patrick;271;60,63;1;0181;candidat;05;MENNUCCI Patrick;342;48,51;1
+liste_bv;detail_bv;0142;candidat;06;ROATTA Jean;90;20,13;0;0181;candidat;06;ROATTA Jean;195;27,66;0
+liste_bv;total_bv;809;461;56,98;447;55,25;14;3,04;1 279;716;55,98;705;55,12;11;1,54
+liste_bv;detail_bv;0182;candidat;01;CHEVASSU Armelle;69;14,41;0;0183;candidat;01;CHEVASSU Armelle;103;14,69;0
+liste_bv;detail_bv;0182;candidat;02;BRUN-POTHIN Stephanie;1;0,21;0;0183;candidat;02;BRUN-POTHIN Stephanie;5;0,71;0
+liste_bv;detail_bv;0182;candidat;03;BLANC Jackie;22;4,59;0;0183;candidat;03;BLANC Jackie;46;6,56;0
+liste_bv;detail_bv;0182;candidat;04;MULLER Childeric;41;8,56;0;0183;candidat;04;MULLER Childeric;52;7,42;0
+liste_bv;detail_bv;0182;candidat;05;MENNUCCI Patrick;188;39,25;1;0183;candidat;05;MENNUCCI Patrick;286;40,80;1
+liste_bv;detail_bv;0182;candidat;06;ROATTA Jean;158;32,99;0;0183;candidat;06;ROATTA Jean;209;29,81;0
+liste_bv;total_bv;806;492;61,04;479;59,43;13;2,64;1 158;712;61,49;701;60,54;11;1,54
+liste_bv;detail_bv;0184;candidat;01;CHEVASSU Armelle;111;17,37;0;0186;candidat;01;CHEVASSU Armelle;102;12,98;0
+liste_bv;detail_bv;0184;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0;0186;candidat;02;BRUN-POTHIN Stephanie;6;0,76;0
+liste_bv;detail_bv;0184;candidat;03;BLANC Jackie;44;6,89;0;0186;candidat;03;BLANC Jackie;52;6,62;0
+liste_bv;detail_bv;0184;candidat;04;MULLER Childeric;35;5,48;0;0186;candidat;04;MULLER Childeric;63;8,02;0
+liste_bv;detail_bv;0184;candidat;05;MENNUCCI Patrick;272;42,57;1;0186;candidat;05;MENNUCCI Patrick;303;38,55;1
+liste_bv;detail_bv;0184;candidat;06;ROATTA Jean;177;27,70;0;0186;candidat;06;ROATTA Jean;260;33,08;0
+liste_bv;total_bv;1 230;657;53,41;639;51,95;18;2,74;1 276;797;62,46;786;61,60;11;1,38
+liste_bv;detail_bv;0187;candidat;01;CHEVASSU Armelle;92;12,37;0;0188;candidat;01;CHEVASSU Armelle;51;6,68;0
+liste_bv;detail_bv;0187;candidat;02;BRUN-POTHIN Stephanie;5;0,67;0;0188;candidat;02;BRUN-POTHIN Stephanie;3;0,39;0
+liste_bv;detail_bv;0187;candidat;03;BLANC Jackie;47;6,32;0;0188;candidat;03;BLANC Jackie;66;8,65;0
+liste_bv;detail_bv;0187;candidat;04;MULLER Childeric;77;10,35;0;0188;candidat;04;MULLER Childeric;58;7,60;0
+liste_bv;detail_bv;0187;candidat;05;MENNUCCI Patrick;265;35,62;1;0188;candidat;05;MENNUCCI Patrick;306;40,10;1
+liste_bv;detail_bv;0187;candidat;06;ROATTA Jean;258;34,68;0;0188;candidat;06;ROATTA Jean;279;36,57;0
+liste_bv;total_bv;1 233;760;61,64;744;60,34;16;2,11;1 282;770;60,06;763;59,52;7;0,91
+liste_bv;detail_bv;0701;candidat;01;CHEVASSU Armelle;18;3,88;0;0702;candidat;01;CHEVASSU Armelle;23;4,88;0
+liste_bv;detail_bv;0701;candidat;02;BRUN-POTHIN Stephanie;2;0,43;0;0702;candidat;02;BRUN-POTHIN Stephanie;2;0,42;0
+liste_bv;detail_bv;0701;candidat;03;BLANC Jackie;20;4,31;0;0702;candidat;03;BLANC Jackie;31;6,58;0
+liste_bv;detail_bv;0701;candidat;04;MULLER Childeric;22;4,74;0;0702;candidat;04;MULLER Childeric;29;6,16;0
+liste_bv;detail_bv;0701;candidat;05;MENNUCCI Patrick;178;38,36;0;0702;candidat;05;MENNUCCI Patrick;166;35,24;0
+liste_bv;detail_bv;0701;candidat;06;ROATTA Jean;224;48,28;1;0702;candidat;06;ROATTA Jean;220;46,71;1
+liste_bv;total_bv;842;474;56,29;464;55,11;10;2,11;802;483;60,22;471;58,73;12;2,48
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0703;candidat;01;CHEVASSU Armelle;28;5,21;0;0721;candidat;01;CHEVASSU Armelle;5;8,06;0
+liste_bv;detail_bv;0703;candidat;02;BRUN-POTHIN Stephanie;1;0,19;0;0721;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0
+liste_bv;detail_bv;0703;candidat;03;BLANC Jackie;27;5,03;0;0721;candidat;03;BLANC Jackie;5;8,06;0
+liste_bv;detail_bv;0703;candidat;04;MULLER Childeric;36;6,70;0;0721;candidat;04;MULLER Childeric;0;0,00;0
+liste_bv;detail_bv;0703;candidat;05;MENNUCCI Patrick;194;36,13;0;0721;candidat;05;MENNUCCI Patrick;34;54,84;1
+liste_bv;detail_bv;0703;candidat;06;ROATTA Jean;251;46,74;1;0721;candidat;06;ROATTA Jean;18;29,03;0
+liste_bv;total_bv;901;556;61,71;537;59,60;19;3,42;89;65;73,03;62;69,66;3;4,62
+liste_bv;detail_bv;0751;candidat;01;CHEVASSU Armelle;29;3,90;0;0752;candidat;01;CHEVASSU Armelle;15;3,39;0
+liste_bv;detail_bv;0751;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0;0752;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0
+liste_bv;detail_bv;0751;candidat;03;BLANC Jackie;61;8,21;0;0752;candidat;03;BLANC Jackie;49;11,09;0
+liste_bv;detail_bv;0751;candidat;04;MULLER Childeric;42;5,65;0;0752;candidat;04;MULLER Childeric;27;6,11;0
+liste_bv;detail_bv;0751;candidat;05;MENNUCCI Patrick;285;38,36;0;0752;candidat;05;MENNUCCI Patrick;147;33,26;0
+liste_bv;detail_bv;0751;candidat;06;ROATTA Jean;326;43,88;1;0752;candidat;06;ROATTA Jean;204;46,15;1
+liste_bv;total_bv;1 253;758;60,49;743;59,30;15;1,98;763;456;59,76;442;57,93;14;3,07
+liste_bv;detail_bv;0753;candidat;01;CHEVASSU Armelle;23;3,26;0;0754;candidat;01;CHEVASSU Armelle;17;2,96;0
+liste_bv;detail_bv;0753;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0;0754;candidat;02;BRUN-POTHIN Stephanie;2;0,35;0
+liste_bv;detail_bv;0753;candidat;03;BLANC Jackie;59;8,37;0;0754;candidat;03;BLANC Jackie;50;8,71;0
+liste_bv;detail_bv;0753;candidat;04;MULLER Childeric;28;3,97;0;0754;candidat;04;MULLER Childeric;27;4,70;0
+liste_bv;detail_bv;0753;candidat;05;MENNUCCI Patrick;280;39,72;0;0754;candidat;05;MENNUCCI Patrick;216;37,63;0
+liste_bv;detail_bv;0753;candidat;06;ROATTA Jean;315;44,68;1;0754;candidat;06;ROATTA Jean;262;45,64;1
+liste_bv;total_bv;1 164;727;62,46;705;60,57;22;3,03;911;586;64,32;574;63,01;12;2,05
+liste_bv;detail_bv;0755;candidat;01;CHEVASSU Armelle;10;1,94;0;0756;candidat;01;CHEVASSU Armelle;28;4,39;0
+liste_bv;detail_bv;0755;candidat;02;BRUN-POTHIN Stephanie;1;0,19;0;0756;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0
+liste_bv;detail_bv;0755;candidat;03;BLANC Jackie;44;8,54;0;0756;candidat;03;BLANC Jackie;57;8,93;0
+liste_bv;detail_bv;0755;candidat;04;MULLER Childeric;17;3,30;0;0756;candidat;04;MULLER Childeric;26;4,08;0
+liste_bv;detail_bv;0755;candidat;05;MENNUCCI Patrick;183;35,53;0;0756;candidat;05;MENNUCCI Patrick;242;37,93;0
+liste_bv;detail_bv;0755;candidat;06;ROATTA Jean;260;50,49;1;0756;candidat;06;ROATTA Jean;285;44,67;1
+liste_bv;total_bv;864;529;61,23;515;59,61;14;2,65;1 044;656;62,84;638;61,11;18;2,74
+liste_bv;detail_bv;0757;candidat;01;CHEVASSU Armelle;28;4,08;0;0759;candidat;01;CHEVASSU Armelle;37;5,76;0
+liste_bv;detail_bv;0757;candidat;02;BRUN-POTHIN Stephanie;3;0,44;0;0759;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0
+liste_bv;detail_bv;0757;candidat;03;BLANC Jackie;73;10,64;0;0759;candidat;03;BLANC Jackie;68;10,59;0
+liste_bv;detail_bv;0757;candidat;04;MULLER Childeric;37;5,39;0;0759;candidat;04;MULLER Childeric;37;5,76;0
+liste_bv;detail_bv;0757;candidat;05;MENNUCCI Patrick;248;36,15;0;0759;candidat;05;MENNUCCI Patrick;248;38,63;0
+liste_bv;detail_bv;0757;candidat;06;ROATTA Jean;297;43,29;1;0759;candidat;06;ROATTA Jean;252;39,25;1
+liste_bv;total_bv;1 130;709;62,74;686;60,71;23;3,24;1 141;658;57,67;642;56,27;16;2,43
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0760;candidat;01;CHEVASSU Armelle;40;6,23;0;0761;candidat;01;CHEVASSU Armelle;19;4,43;0
+liste_bv;detail_bv;0760;candidat;02;BRUN-POTHIN Stephanie;1;0,16;0;0761;candidat;02;BRUN-POTHIN Stephanie;1;0,23;0
+liste_bv;detail_bv;0760;candidat;03;BLANC Jackie;45;7,01;0;0761;candidat;03;BLANC Jackie;36;8,39;0
+liste_bv;detail_bv;0760;candidat;04;MULLER Childeric;46;7,17;0;0761;candidat;04;MULLER Childeric;28;6,53;0
+liste_bv;detail_bv;0760;candidat;05;MENNUCCI Patrick;244;38,01;0;0761;candidat;05;MENNUCCI Patrick;185;43,12;1
+liste_bv;detail_bv;0760;candidat;06;ROATTA Jean;266;41,43;1;0761;candidat;06;ROATTA Jean;160;37,30;0
+liste_bv;total_bv;1 113;655;58,85;642;57,68;13;1,98;728;448;61,54;429;58,93;19;4,24
+liste_bv;detail_bv;0762;candidat;01;CHEVASSU Armelle;34;5,96;0;0763;candidat;01;CHEVASSU Armelle;38;6,82;0
+liste_bv;detail_bv;0762;candidat;02;BRUN-POTHIN Stephanie;3;0,53;0;0763;candidat;02;BRUN-POTHIN Stephanie;2;0,36;0
+liste_bv;detail_bv;0762;candidat;03;BLANC Jackie;44;7,72;0;0763;candidat;03;BLANC Jackie;39;7,00;0
+liste_bv;detail_bv;0762;candidat;04;MULLER Childeric;28;4,91;0;0763;candidat;04;MULLER Childeric;38;6,82;0
+liste_bv;detail_bv;0762;candidat;05;MENNUCCI Patrick;239;41,93;1;0763;candidat;05;MENNUCCI Patrick;207;37,16;0
+liste_bv;detail_bv;0762;candidat;06;ROATTA Jean;222;38,95;0;0763;candidat;06;ROATTA Jean;233;41,83;1
+liste_bv;total_bv;886;580;65,46;570;64,33;10;1,72;873;571;65,41;557;63,80;14;2,45
+liste_bv;detail_bv;0764;candidat;01;CHEVASSU Armelle;24;3,75;0;0766;candidat;01;CHEVASSU Armelle;53;7,58;0
+liste_bv;detail_bv;0764;candidat;02;BRUN-POTHIN Stephanie;2;0,31;0;0766;candidat;02;BRUN-POTHIN Stephanie;1;0,14;0
+liste_bv;detail_bv;0764;candidat;03;BLANC Jackie;50;7,81;0;0766;candidat;03;BLANC Jackie;65;9,30;0
+liste_bv;detail_bv;0764;candidat;04;MULLER Childeric;21;3,28;0;0766;candidat;04;MULLER Childeric;38;5,44;0
+liste_bv;detail_bv;0764;candidat;05;MENNUCCI Patrick;270;42,19;0;0766;candidat;05;MENNUCCI Patrick;287;41,06;1
+liste_bv;detail_bv;0764;candidat;06;ROATTA Jean;273;42,66;1;0766;candidat;06;ROATTA Jean;255;36,48;0
+liste_bv;total_bv;1 061;668;62,96;640;60,32;28;4,19;1 094;716;65,45;699;63,89;17;2,37
+liste_bv;detail_bv;0767;candidat;01;CHEVASSU Armelle;41;6,75;0;0768;candidat;01;CHEVASSU Armelle;24;5,58;0
+liste_bv;detail_bv;0767;candidat;02;BRUN-POTHIN Stephanie;2;0,33;0;0768;candidat;02;BRUN-POTHIN Stephanie;0;0,00;0
+liste_bv;detail_bv;0767;candidat;03;BLANC Jackie;36;5,93;0;0768;candidat;03;BLANC Jackie;32;7,44;0
+liste_bv;detail_bv;0767;candidat;04;MULLER Childeric;30;4,94;0;0768;candidat;04;MULLER Childeric;19;4,42;0
+liste_bv;detail_bv;0767;candidat;05;MENNUCCI Patrick;182;29,98;0;0768;candidat;05;MENNUCCI Patrick;113;26,28;0
+liste_bv;detail_bv;0767;candidat;06;ROATTA Jean;316;52,06;1;0768;candidat;06;ROATTA Jean;242;56,28;1
+liste_bv;total_bv;942;618;65,61;607;64,44;11;1,78;711;439;61,74;430;60,48;9;2,05
+liste_bv;detail_bv;0769;candidat;01;CHEVASSU Armelle;32;6,64;0;0770;candidat;01;CHEVASSU Armelle;20;3,49;0
+liste_bv;detail_bv;0769;candidat;02;BRUN-POTHIN Stephanie;1;0,21;0;0770;candidat;02;BRUN-POTHIN Stephanie;1;0,17;0
+liste_bv;detail_bv;0769;candidat;03;BLANC Jackie;39;8,09;0;0770;candidat;03;BLANC Jackie;30;5,24;0
+liste_bv;detail_bv;0769;candidat;04;MULLER Childeric;39;8,09;0;0770;candidat;04;MULLER Childeric;38;6,63;0
+liste_bv;detail_bv;0769;candidat;05;MENNUCCI Patrick;139;28,84;0;0770;candidat;05;MENNUCCI Patrick;167;29,14;0
+liste_bv;detail_bv;0769;candidat;06;ROATTA Jean;232;48,13;1;0770;candidat;06;ROATTA Jean;317;55,32;1
+liste_bv;total_bv;754;497;65,92;482;63,93;15;3,02;882;577;65,42;573;64,97;4;0,69
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0771;candidat;01;CHEVASSU Armelle;20;4,13;0;0772;candidat;01;CHEVASSU Armelle;31;4,70;0
+liste_bv;detail_bv;0771;candidat;02;BRUN-POTHIN Stephanie;1;0,21;0;0772;candidat;02;BRUN-POTHIN Stephanie;2;0,30;0
+liste_bv;detail_bv;0771;candidat;03;BLANC Jackie;27;5,58;0;0772;candidat;03;BLANC Jackie;32;4,85;0
+liste_bv;detail_bv;0771;candidat;04;MULLER Childeric;37;7,64;0;0772;candidat;04;MULLER Childeric;45;6,82;0
+liste_bv;detail_bv;0771;candidat;05;MENNUCCI Patrick;149;30,79;0;0772;candidat;05;MENNUCCI Patrick;197;29,85;0
+liste_bv;detail_bv;0771;candidat;06;ROATTA Jean;250;51,65;1;0772;candidat;06;ROATTA Jean;353;53,48;1
+liste_bv;total_bv;744;490;65,86;484;65,05;6;1,22;1 064;668;62,78;660;62,03;8;1,20
+liste_bv;detail_bv;0773;candidat;01;CHEVASSU Armelle;26;3,63;0;0774;candidat;01;CHEVASSU Armelle;23;2,74;0
+liste_bv;detail_bv;0773;candidat;02;BRUN-POTHIN Stephanie;3;0,42;0;0774;candidat;02;BRUN-POTHIN Stephanie;2;0,24;0
+liste_bv;detail_bv;0773;candidat;03;BLANC Jackie;30;4,19;0;0774;candidat;03;BLANC Jackie;48;5,73;0
+liste_bv;detail_bv;0773;candidat;04;MULLER Childeric;47;6,56;0;0774;candidat;04;MULLER Childeric;47;5,61;0
+liste_bv;detail_bv;0773;candidat;05;MENNUCCI Patrick;171;23,88;0;0774;candidat;05;MENNUCCI Patrick;225;26,85;0
+liste_bv;detail_bv;0773;candidat;06;ROATTA Jean;439;61,31;1;0774;candidat;06;ROATTA Jean;493;58,83;1
+liste_bv;total_bv;1 102;725;65,79;716;64,97;9;1,24;1 309;854;65,24;838;64,02;16;1,87
+liste_bv;detail_bv;0775;candidat;01;CHEVASSU Armelle;20;6,45;0;;;;;;;
+liste_bv;detail_bv;0775;candidat;02;BRUN-POTHIN Stephanie;2;0,65;0;;;;;;;
+liste_bv;detail_bv;0775;candidat;03;BLANC Jackie;13;4,19;0;;;;;;;
+liste_bv;detail_bv;0775;candidat;04;MULLER Childeric;13;4,19;0;;;;;;;
+liste_bv;detail_bv;0775;candidat;05;MENNUCCI Patrick;121;39,03;0;;;;;;;
+liste_bv;detail_bv;0775;candidat;06;ROATTA Jean;141;45,48;1;;;;;;;
+liste_bv;total_bv;548;316;57,66;310;56,57;6;1,90;;;;;;;
+detail;SECTEUR;02;candidat;01;ROCCASERRA Jacques;4 262;26,32;0
+detail;SECTEUR;02;candidat;02;LOMBARDI Roland;1 439;8,88;0
+detail;SECTEUR;02;candidat;03;ARVOIS Emmanuel;987;6,09;0
+detail;SECTEUR;02;candidat;04;BISTAGNE Florence;616;3,80;0
+detail;SECTEUR;02;candidat;05;NARDUCCI Lisette;8 892;54,90;1
+total;31 024;16 664;53,71;16 196;52,20;468;2,81
+liste_bv;detail_bv;0201;candidat;01;ROCCASERRA Jacques;244;38,01;0;0202;candidat;01;ROCCASERRA Jacques;282;50,27;1
+liste_bv;detail_bv;0201;candidat;02;LOMBARDI Roland;44;6,85;0;0202;candidat;02;LOMBARDI Roland;40;7,13;0
+liste_bv;detail_bv;0201;candidat;03;ARVOIS Emmanuel;45;7,01;0;0202;candidat;03;ARVOIS Emmanuel;28;4,99;0
+liste_bv;detail_bv;0201;candidat;04;BISTAGNE Florence;29;4,52;0;0202;candidat;04;BISTAGNE Florence;19;3,39;0
+liste_bv;detail_bv;0201;candidat;05;NARDUCCI Lisette;280;43,61;1;0202;candidat;05;NARDUCCI Lisette;192;34,22;0
+liste_bv;total_bv;988;655;66,30;642;64,98;13;1,98;804;577;71,77;561;69,78;16;2,77
+liste_bv;detail_bv;0204;candidat;01;ROCCASERRA Jacques;146;29,32;0;0231;candidat;01;ROCCASERRA Jacques;83;18,04;0
+liste_bv;detail_bv;0204;candidat;02;LOMBARDI Roland;38;7,63;0;0231;candidat;02;LOMBARDI Roland;15;3,26;0
+liste_bv;detail_bv;0204;candidat;03;ARVOIS Emmanuel;42;8,43;0;0231;candidat;03;ARVOIS Emmanuel;63;13,70;0
+liste_bv;detail_bv;0204;candidat;04;BISTAGNE Florence;23;4,62;0;0231;candidat;04;BISTAGNE Florence;23;5,00;0
+liste_bv;detail_bv;0204;candidat;05;NARDUCCI Lisette;249;50,00;1;0231;candidat;05;NARDUCCI Lisette;276;60,00;1
+liste_bv;total_bv;811;512;63,13;498;61,41;14;2,73;823;485;58,93;460;55,89;25;5,15
+liste_bv;detail_bv;0233;candidat;01;ROCCASERRA Jacques;164;25,71;0;0235;candidat;01;ROCCASERRA Jacques;105;20,55;0
+liste_bv;detail_bv;0233;candidat;02;LOMBARDI Roland;49;7,68;0;0235;candidat;02;LOMBARDI Roland;32;6,26;0
+liste_bv;detail_bv;0233;candidat;03;ARVOIS Emmanuel;51;7,99;0;0235;candidat;03;ARVOIS Emmanuel;25;4,89;0
+liste_bv;detail_bv;0233;candidat;04;BISTAGNE Florence;23;3,61;0;0235;candidat;04;BISTAGNE Florence;20;3,91;0
+liste_bv;detail_bv;0233;candidat;05;NARDUCCI Lisette;351;55,02;1;0235;candidat;05;NARDUCCI Lisette;329;64,38;1
+liste_bv;total_bv;972;652;67,08;638;65,64;14;2,15;1 016;520;51,18;511;50,30;9;1,73
+liste_bv;detail_bv;0237;candidat;01;ROCCASERRA Jacques;66;26,61;0;0238;candidat;01;ROCCASERRA Jacques;102;18,82;0
+liste_bv;detail_bv;0237;candidat;02;LOMBARDI Roland;12;4,84;0;0238;candidat;02;LOMBARDI Roland;16;2,95;0
+liste_bv;detail_bv;0237;candidat;03;ARVOIS Emmanuel;6;2,42;0;0238;candidat;03;ARVOIS Emmanuel;87;16,05;0
+liste_bv;detail_bv;0237;candidat;04;BISTAGNE Florence;7;2,82;0;0238;candidat;04;BISTAGNE Florence;21;3,87;0
+liste_bv;detail_bv;0237;candidat;05;NARDUCCI Lisette;157;63,31;1;0238;candidat;05;NARDUCCI Lisette;316;58,30;1
+liste_bv;total_bv;468;253;54,06;248;52,99;5;1,98;917;565;61,61;542;59,11;23;4,07
+liste_bv;detail_bv;0251;candidat;01;ROCCASERRA Jacques;115;26,02;0;0252;candidat;01;ROCCASERRA Jacques;177;24,02;0
+liste_bv;detail_bv;0251;candidat;02;LOMBARDI Roland;19;4,30;0;0252;candidat;02;LOMBARDI Roland;54;7,33;0
+liste_bv;detail_bv;0251;candidat;03;ARVOIS Emmanuel;21;4,75;0;0252;candidat;03;ARVOIS Emmanuel;42;5,70;0
+liste_bv;detail_bv;0251;candidat;04;BISTAGNE Florence;12;2,71;0;0252;candidat;04;BISTAGNE Florence;19;2,58;0
+liste_bv;detail_bv;0251;candidat;05;NARDUCCI Lisette;275;62,22;1;0252;candidat;05;NARDUCCI Lisette;445;60,38;1
+liste_bv;total_bv;931;454;48,76;442;47,48;12;2,64;1 297;758;58,44;737;56,82;21;2,77
+liste_bv;detail_bv;0253;candidat;01;ROCCASERRA Jacques;143;29,85;0;0254;candidat;01;ROCCASERRA Jacques;162;32,40;0
+liste_bv;detail_bv;0253;candidat;02;LOMBARDI Roland;28;5,85;0;0254;candidat;02;LOMBARDI Roland;52;10,40;0
+liste_bv;detail_bv;0253;candidat;03;ARVOIS Emmanuel;18;3,76;0;0254;candidat;03;ARVOIS Emmanuel;32;6,40;0
+liste_bv;detail_bv;0253;candidat;04;BISTAGNE Florence;9;1,88;0;0254;candidat;04;BISTAGNE Florence;17;3,40;0
+liste_bv;detail_bv;0253;candidat;05;NARDUCCI Lisette;281;58,66;1;0254;candidat;05;NARDUCCI Lisette;237;47,40;1
+liste_bv;total_bv;914;483;52,84;479;52,41;4;0,83;903;514;56,92;500;55,37;14;2,72
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0255;candidat;01;ROCCASERRA Jacques;130;29,08;0;0281;candidat;01;ROCCASERRA Jacques;49;21,30;0
+liste_bv;detail_bv;0255;candidat;02;LOMBARDI Roland;40;8,95;0;0281;candidat;02;LOMBARDI Roland;17;7,39;0
+liste_bv;detail_bv;0255;candidat;03;ARVOIS Emmanuel;13;2,91;0;0281;candidat;03;ARVOIS Emmanuel;15;6,52;0
+liste_bv;detail_bv;0255;candidat;04;BISTAGNE Florence;13;2,91;0;0281;candidat;04;BISTAGNE Florence;6;2,61;0
+liste_bv;detail_bv;0255;candidat;05;NARDUCCI Lisette;251;56,15;1;0281;candidat;05;NARDUCCI Lisette;143;62,17;1
+liste_bv;total_bv;985;465;47,21;447;45,38;18;3,87;441;236;53,51;230;52,15;6;2,54
+liste_bv;detail_bv;0301;candidat;01;ROCCASERRA Jacques;122;36,53;0;0302;candidat;01;ROCCASERRA Jacques;132;34,02;0
+liste_bv;detail_bv;0301;candidat;02;LOMBARDI Roland;38;11,38;0;0302;candidat;02;LOMBARDI Roland;44;11,34;0
+liste_bv;detail_bv;0301;candidat;03;ARVOIS Emmanuel;9;2,69;0;0302;candidat;03;ARVOIS Emmanuel;16;4,12;0
+liste_bv;detail_bv;0301;candidat;04;BISTAGNE Florence;14;4,19;0;0302;candidat;04;BISTAGNE Florence;16;4,12;0
+liste_bv;detail_bv;0301;candidat;05;NARDUCCI Lisette;151;45,21;1;0302;candidat;05;NARDUCCI Lisette;180;46,39;1
+liste_bv;total_bv;633;346;54,66;334;52,76;12;3,47;704;399;56,68;388;55,11;11;2,76
+liste_bv;detail_bv;0303;candidat;01;ROCCASERRA Jacques;151;34,24;0;0351;candidat;01;ROCCASERRA Jacques;111;26,12;0
+liste_bv;detail_bv;0303;candidat;02;LOMBARDI Roland;47;10,66;0;0351;candidat;02;LOMBARDI Roland;44;10,35;0
+liste_bv;detail_bv;0303;candidat;03;ARVOIS Emmanuel;21;4,76;0;0351;candidat;03;ARVOIS Emmanuel;7;1,65;0
+liste_bv;detail_bv;0303;candidat;04;BISTAGNE Florence;18;4,08;0;0351;candidat;04;BISTAGNE Florence;13;3,06;0
+liste_bv;detail_bv;0303;candidat;05;NARDUCCI Lisette;204;46,26;1;0351;candidat;05;NARDUCCI Lisette;250;58,82;1
+liste_bv;total_bv;783;453;57,85;441;56,32;12;2,65;747;439;58,77;425;56,89;14;3,19
+liste_bv;detail_bv;0352;candidat;01;ROCCASERRA Jacques;136;26,67;0;0353;candidat;01;ROCCASERRA Jacques;75;22,06;0
+liste_bv;detail_bv;0352;candidat;02;LOMBARDI Roland;61;11,96;0;0353;candidat;02;LOMBARDI Roland;32;9,41;0
+liste_bv;detail_bv;0352;candidat;03;ARVOIS Emmanuel;35;6,86;0;0353;candidat;03;ARVOIS Emmanuel;17;5,00;0
+liste_bv;detail_bv;0352;candidat;04;BISTAGNE Florence;20;3,92;0;0353;candidat;04;BISTAGNE Florence;12;3,53;0
+liste_bv;detail_bv;0352;candidat;05;NARDUCCI Lisette;258;50,59;1;0353;candidat;05;NARDUCCI Lisette;204;60,00;1
+liste_bv;total_bv;1 041;525;50,43;510;48,99;15;2,86;739;347;46,96;340;46,01;7;2,02
+liste_bv;detail_bv;0354;candidat;01;ROCCASERRA Jacques;128;28,13;0;0356;candidat;01;ROCCASERRA Jacques;148;24,03;0
+liste_bv;detail_bv;0354;candidat;02;LOMBARDI Roland;33;7,25;0;0356;candidat;02;LOMBARDI Roland;41;6,66;0
+liste_bv;detail_bv;0354;candidat;03;ARVOIS Emmanuel;28;6,15;0;0356;candidat;03;ARVOIS Emmanuel;27;4,38;0
+liste_bv;detail_bv;0354;candidat;04;BISTAGNE Florence;22;4,84;0;0356;candidat;04;BISTAGNE Florence;33;5,36;0
+liste_bv;detail_bv;0354;candidat;05;NARDUCCI Lisette;244;53,63;1;0356;candidat;05;NARDUCCI Lisette;367;59,58;1
+liste_bv;total_bv;925;466;50,38;455;49,19;11;2,36;1 238;626;50,57;616;49,76;10;1,60
+liste_bv;detail_bv;0357;candidat;01;ROCCASERRA Jacques;86;18,78;0;0358;candidat;01;ROCCASERRA Jacques;96;16,30;0
+liste_bv;detail_bv;0357;candidat;02;LOMBARDI Roland;22;4,80;0;0358;candidat;02;LOMBARDI Roland;31;5,26;0
+liste_bv;detail_bv;0357;candidat;03;ARVOIS Emmanuel;17;3,71;0;0358;candidat;03;ARVOIS Emmanuel;16;2,72;0
+liste_bv;detail_bv;0357;candidat;04;BISTAGNE Florence;18;3,93;0;0358;candidat;04;BISTAGNE Florence;17;2,89;0
+liste_bv;detail_bv;0357;candidat;05;NARDUCCI Lisette;315;68,78;1;0358;candidat;05;NARDUCCI Lisette;429;72,84;1
+liste_bv;total_bv;1 115;469;42,06;458;41,08;11;2,35;1 293;605;46,79;589;45,55;16;2,64
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0360;candidat;01;ROCCASERRA Jacques;99;22,71;0;0361;candidat;01;ROCCASERRA Jacques;52;19,62;0
+liste_bv;detail_bv;0360;candidat;02;LOMBARDI Roland;67;15,37;0;0361;candidat;02;LOMBARDI Roland;39;14,72;0
+liste_bv;detail_bv;0360;candidat;03;ARVOIS Emmanuel;19;4,36;0;0361;candidat;03;ARVOIS Emmanuel;13;4,91;0
+liste_bv;detail_bv;0360;candidat;04;BISTAGNE Florence;21;4,82;0;0361;candidat;04;BISTAGNE Florence;15;5,66;0
+liste_bv;detail_bv;0360;candidat;05;NARDUCCI Lisette;230;52,75;1;0361;candidat;05;NARDUCCI Lisette;146;55,09;1
+liste_bv;total_bv;806;452;56,08;436;54,09;16;3,54;526;273;51,90;265;50,38;8;2,93
+liste_bv;detail_bv;0362;candidat;01;ROCCASERRA Jacques;89;20,37;0;0363;candidat;01;ROCCASERRA Jacques;112;24,30;0
+liste_bv;detail_bv;0362;candidat;02;LOMBARDI Roland;55;12,59;0;0363;candidat;02;LOMBARDI Roland;49;10,63;0
+liste_bv;detail_bv;0362;candidat;03;ARVOIS Emmanuel;25;5,72;0;0363;candidat;03;ARVOIS Emmanuel;30;6,51;0
+liste_bv;detail_bv;0362;candidat;04;BISTAGNE Florence;17;3,89;0;0363;candidat;04;BISTAGNE Florence;19;4,12;0
+liste_bv;detail_bv;0362;candidat;05;NARDUCCI Lisette;251;57,44;1;0363;candidat;05;NARDUCCI Lisette;251;54,45;1
+liste_bv;total_bv;967;452;46,74;437;45,19;15;3,32;1 085;477;43,96;461;42,49;16;3,35
+liste_bv;detail_bv;0364;candidat;01;ROCCASERRA Jacques;113;24,41;0;0365;candidat;01;ROCCASERRA Jacques;49;16,39;0
+liste_bv;detail_bv;0364;candidat;02;LOMBARDI Roland;53;11,45;0;0365;candidat;02;LOMBARDI Roland;63;21,07;0
+liste_bv;detail_bv;0364;candidat;03;ARVOIS Emmanuel;39;8,42;0;0365;candidat;03;ARVOIS Emmanuel;22;7,36;0
+liste_bv;detail_bv;0364;candidat;04;BISTAGNE Florence;16;3,46;0;0365;candidat;04;BISTAGNE Florence;16;5,35;0
+liste_bv;detail_bv;0364;candidat;05;NARDUCCI Lisette;242;52,27;1;0365;candidat;05;NARDUCCI Lisette;149;49,83;1
+liste_bv;total_bv;887;472;53,21;463;52,20;9;1,91;590;309;52,37;299;50,68;10;3,24
+liste_bv;detail_bv;0366;candidat;01;ROCCASERRA Jacques;105;18,65;0;0368;candidat;01;ROCCASERRA Jacques;116;23,25;0
+liste_bv;detail_bv;0366;candidat;02;LOMBARDI Roland;46;8,17;0;0368;candidat;02;LOMBARDI Roland;65;13,03;0
+liste_bv;detail_bv;0366;candidat;03;ARVOIS Emmanuel;42;7,46;0;0368;candidat;03;ARVOIS Emmanuel;27;5,41;0
+liste_bv;detail_bv;0366;candidat;04;BISTAGNE Florence;25;4,44;0;0368;candidat;04;BISTAGNE Florence;17;3,41;0
+liste_bv;detail_bv;0366;candidat;05;NARDUCCI Lisette;345;61,28;1;0368;candidat;05;NARDUCCI Lisette;274;54,91;1
+liste_bv;total_bv;1 122;576;51,34;563;50,18;13;2,26;980;515;52,55;499;50,92;16;3,11
+liste_bv;detail_bv;0369;candidat;01;ROCCASERRA Jacques;91;28,44;0;0370;candidat;01;ROCCASERRA Jacques;141;29,25;0
+liste_bv;detail_bv;0369;candidat;02;LOMBARDI Roland;32;10,00;0;0370;candidat;02;LOMBARDI Roland;65;13,49;0
+liste_bv;detail_bv;0369;candidat;03;ARVOIS Emmanuel;24;7,50;0;0370;candidat;03;ARVOIS Emmanuel;36;7,47;0
+liste_bv;detail_bv;0369;candidat;04;BISTAGNE Florence;16;5,00;0;0370;candidat;04;BISTAGNE Florence;14;2,90;0
+liste_bv;detail_bv;0369;candidat;05;NARDUCCI Lisette;157;49,06;1;0370;candidat;05;NARDUCCI Lisette;226;46,89;1
+liste_bv;total_bv;635;331;52,13;320;50,39;11;3,32;996;506;50,80;482;48,39;24;4,74
+liste_bv;detail_bv;0371;candidat;01;ROCCASERRA Jacques;142;29,58;0;;;;;;;
+liste_bv;detail_bv;0371;candidat;02;LOMBARDI Roland;56;11,67;0;;;;;;;
+liste_bv;detail_bv;0371;candidat;03;ARVOIS Emmanuel;29;6,04;0;;;;;;;
+liste_bv;detail_bv;0371;candidat;04;BISTAGNE Florence;16;3,33;0;;;;;;;
+liste_bv;detail_bv;0371;candidat;05;NARDUCCI Lisette;237;49,38;1;;;;;;;
+liste_bv;total_bv;942;497;52,76;480;50,96;17;3,42;;;;;;;
+detail;SECTEUR;03;candidat;01;MADROLLE Christophe;2 038;6,30;0
+detail;SECTEUR;03;candidat;02;RAYNAUD Corinne;131;0,41;0
+detail;SECTEUR;03;candidat;03;MIH Gilda;2 030;6,28;0
+detail;SECTEUR;03;candidat;04;GUERINI Jean-Noël;12 127;37,51;0
+detail;SECTEUR;03;candidat;05;CANTREL Nicole;197;0,61;0
+detail;SECTEUR;03;candidat;06;ROUX MOUMANE Camille;1 864;5,77;0
+detail;SECTEUR;03;candidat;07;SAVON Hubert;316;0,98;0
+detail;SECTEUR;03;candidat;08;MUSELIER Renaud;13 630;42,16;1
+total;53 967;33 022;61,19;32 333;59,91;689;2,09
+liste_bv;detail_bv;0401;candidat;01;MADROLLE Christophe;39;5,88;0;0402;candidat;01;MADROLLE Christophe;60;8,61;0
+liste_bv;detail_bv;0401;candidat;02;RAYNAUD Corinne;2;0,30;0;0402;candidat;02;RAYNAUD Corinne;3;0,43;0
+liste_bv;detail_bv;0401;candidat;03;MIH Gilda;46;6,94;0;0402;candidat;03;MIH Gilda;34;4,88;0
+liste_bv;detail_bv;0401;candidat;04;GUERINI Jean-Noël;275;41,48;1;0402;candidat;04;GUERINI Jean-Noël;269;38,59;1
+liste_bv;detail_bv;0401;candidat;05;CANTREL Nicole;2;0,30;0;0402;candidat;05;CANTREL Nicole;4;0,57;0
+liste_bv;detail_bv;0401;candidat;06;ROUX MOUMANE Camille;47;7,09;0;0402;candidat;06;ROUX MOUMANE Camille;61;8,75;0
+liste_bv;detail_bv;0401;candidat;07;SAVON Hubert;5;0,75;0;0402;candidat;07;SAVON Hubert;1;0,14;0
+liste_bv;detail_bv;0401;candidat;08;MUSELIER Renaud;247;37,25;0;0402;candidat;08;MUSELIER Renaud;265;38,02;0
+liste_bv;total_bv;1 095;684;62,47;663;60,55;21;3,07;1 222;709;58,02;697;57,04;12;1,69
+liste_bv;detail_bv;0404;candidat;01;MADROLLE Christophe;32;4,36;0;0406;candidat;01;MADROLLE Christophe;37;4,99;0
+liste_bv;detail_bv;0404;candidat;02;RAYNAUD Corinne;1;0,14;0;0406;candidat;02;RAYNAUD Corinne;5;0,67;0
+liste_bv;detail_bv;0404;candidat;03;MIH Gilda;68;9,26;0;0406;candidat;03;MIH Gilda;39;5,26;0
+liste_bv;detail_bv;0404;candidat;04;GUERINI Jean-Noël;252;34,33;0;0406;candidat;04;GUERINI Jean-Noël;266;35,85;0
+liste_bv;detail_bv;0404;candidat;05;CANTREL Nicole;3;0,41;0;0406;candidat;05;CANTREL Nicole;1;0,13;0
+liste_bv;detail_bv;0404;candidat;06;ROUX MOUMANE Camille;44;5,99;0;0406;candidat;06;ROUX MOUMANE Camille;37;4,99;0
+liste_bv;detail_bv;0404;candidat;07;SAVON Hubert;12;1,63;0;0406;candidat;07;SAVON Hubert;5;0,67;0
+liste_bv;detail_bv;0404;candidat;08;MUSELIER Renaud;322;43,87;1;0406;candidat;08;MUSELIER Renaud;352;47,44;1
+liste_bv;total_bv;1 175;755;64,26;734;62,47;21;2,78;1 297;755;58,21;742;57,21;13;1,72
+liste_bv;detail_bv;0407;candidat;01;MADROLLE Christophe;49;7,95;0;0408;candidat;01;MADROLLE Christophe;22;5,51;0
+liste_bv;detail_bv;0407;candidat;02;RAYNAUD Corinne;2;0,32;0;0408;candidat;02;RAYNAUD Corinne;0;0,00;0
+liste_bv;detail_bv;0407;candidat;03;MIH Gilda;39;6,33;0;0408;candidat;03;MIH Gilda;23;5,76;0
+liste_bv;detail_bv;0407;candidat;04;GUERINI Jean-Noël;206;33,44;0;0408;candidat;04;GUERINI Jean-Noël;175;43,86;1
+liste_bv;detail_bv;0407;candidat;05;CANTREL Nicole;3;0,49;0;0408;candidat;05;CANTREL Nicole;4;1,00;0
+liste_bv;detail_bv;0407;candidat;06;ROUX MOUMANE Camille;35;5,68;0;0408;candidat;06;ROUX MOUMANE Camille;15;3,76;0
+liste_bv;detail_bv;0407;candidat;07;SAVON Hubert;10;1,62;0;0408;candidat;07;SAVON Hubert;7;1,75;0
+liste_bv;detail_bv;0407;candidat;08;MUSELIER Renaud;272;44,16;1;0408;candidat;08;MUSELIER Renaud;153;38,35;0
+liste_bv;total_bv;1 155;624;54,03;616;53,33;8;1,28;722;409;56,65;399;55,26;10;2,44
+liste_bv;detail_bv;0409;candidat;01;MADROLLE Christophe;33;6,88;0;0410;candidat;01;MADROLLE Christophe;24;6,20;0
+liste_bv;detail_bv;0409;candidat;02;RAYNAUD Corinne;1;0,21;0;0410;candidat;02;RAYNAUD Corinne;3;0,78;0
+liste_bv;detail_bv;0409;candidat;03;MIH Gilda;24;5,00;0;0410;candidat;03;MIH Gilda;36;9,30;0
+liste_bv;detail_bv;0409;candidat;04;GUERINI Jean-Noël;187;38,96;0;0410;candidat;04;GUERINI Jean-Noël;152;39,28;1
+liste_bv;detail_bv;0409;candidat;05;CANTREL Nicole;8;1,67;0;0410;candidat;05;CANTREL Nicole;2;0,52;0
+liste_bv;detail_bv;0409;candidat;06;ROUX MOUMANE Camille;14;2,92;0;0410;candidat;06;ROUX MOUMANE Camille;13;3,36;0
+liste_bv;detail_bv;0409;candidat;07;SAVON Hubert;3;0,63;0;0410;candidat;07;SAVON Hubert;7;1,81;0
+liste_bv;detail_bv;0409;candidat;08;MUSELIER Renaud;210;43,75;1;0410;candidat;08;MUSELIER Renaud;150;38,76;0
+liste_bv;total_bv;865;487;56,30;480;55,49;7;1,44;786;397;50,51;387;49,24;10;2,52
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0421;candidat;01;MADROLLE Christophe;42;5,35;0;0422;candidat;01;MADROLLE Christophe;40;5,52;0
+liste_bv;detail_bv;0421;candidat;02;RAYNAUD Corinne;5;0,64;0;0422;candidat;02;RAYNAUD Corinne;1;0,14;0
+liste_bv;detail_bv;0421;candidat;03;MIH Gilda;96;12,23;0;0422;candidat;03;MIH Gilda;53;7,32;0
+liste_bv;detail_bv;0421;candidat;04;GUERINI Jean-Noël;304;38,73;1;0422;candidat;04;GUERINI Jean-Noël;258;35,64;0
+liste_bv;detail_bv;0421;candidat;05;CANTREL Nicole;8;1,02;0;0422;candidat;05;CANTREL Nicole;7;0,97;0
+liste_bv;detail_bv;0421;candidat;06;ROUX MOUMANE Camille;40;5,10;0;0422;candidat;06;ROUX MOUMANE Camille;38;5,25;0
+liste_bv;detail_bv;0421;candidat;07;SAVON Hubert;4;0,51;0;0422;candidat;07;SAVON Hubert;7;0,97;0
+liste_bv;detail_bv;0421;candidat;08;MUSELIER Renaud;286;36,43;0;0422;candidat;08;MUSELIER Renaud;320;44,20;1
+liste_bv;total_bv;1 380;799;57,90;785;56,88;14;1,75;1 241;748;60,27;724;58,34;24;3,21
+liste_bv;detail_bv;0424;candidat;01;MADROLLE Christophe;21;3,67;0;0425;candidat;01;MADROLLE Christophe;13;2,51;0
+liste_bv;detail_bv;0424;candidat;02;RAYNAUD Corinne;2;0,35;0;0425;candidat;02;RAYNAUD Corinne;1;0,19;0
+liste_bv;detail_bv;0424;candidat;03;MIH Gilda;40;6,99;0;0425;candidat;03;MIH Gilda;45;8,70;0
+liste_bv;detail_bv;0424;candidat;04;GUERINI Jean-Noël;178;31,12;0;0425;candidat;04;GUERINI Jean-Noël;157;30,37;0
+liste_bv;detail_bv;0424;candidat;05;CANTREL Nicole;3;0,52;0;0425;candidat;05;CANTREL Nicole;4;0,77;0
+liste_bv;detail_bv;0424;candidat;06;ROUX MOUMANE Camille;33;5,77;0;0425;candidat;06;ROUX MOUMANE Camille;26;5,03;0
+liste_bv;detail_bv;0424;candidat;07;SAVON Hubert;9;1,57;0;0425;candidat;07;SAVON Hubert;4;0,77;0
+liste_bv;detail_bv;0424;candidat;08;MUSELIER Renaud;286;50,00;1;0425;candidat;08;MUSELIER Renaud;267;51,64;1
+liste_bv;total_bv;921;584;63,41;572;62,11;12;2,05;869;535;61,57;517;59,49;18;3,36
+liste_bv;detail_bv;0426;candidat;01;MADROLLE Christophe;27;5,65;0;0427;candidat;01;MADROLLE Christophe;18;5,07;0
+liste_bv;detail_bv;0426;candidat;02;RAYNAUD Corinne;4;0,84;0;0427;candidat;02;RAYNAUD Corinne;0;0,00;0
+liste_bv;detail_bv;0426;candidat;03;MIH Gilda;36;7,53;0;0427;candidat;03;MIH Gilda;21;5,92;0
+liste_bv;detail_bv;0426;candidat;04;GUERINI Jean-Noël;177;37,03;0;0427;candidat;04;GUERINI Jean-Noël;154;43,38;1
+liste_bv;detail_bv;0426;candidat;05;CANTREL Nicole;2;0,42;0;0427;candidat;05;CANTREL Nicole;3;0,85;0
+liste_bv;detail_bv;0426;candidat;06;ROUX MOUMANE Camille;22;4,60;0;0427;candidat;06;ROUX MOUMANE Camille;15;4,23;0
+liste_bv;detail_bv;0426;candidat;07;SAVON Hubert;10;2,09;0;0427;candidat;07;SAVON Hubert;3;0,85;0
+liste_bv;detail_bv;0426;candidat;08;MUSELIER Renaud;200;41,84;1;0427;candidat;08;MUSELIER Renaud;141;39,72;0
+liste_bv;total_bv;789;490;62,10;478;60,58;12;2,45;660;360;54,55;355;53,79;5;1,39
+liste_bv;detail_bv;0428;candidat;01;MADROLLE Christophe;31;4,19;0;0441;candidat;01;MADROLLE Christophe;27;5,93;0
+liste_bv;detail_bv;0428;candidat;02;RAYNAUD Corinne;2;0,27;0;0441;candidat;02;RAYNAUD Corinne;0;0,00;0
+liste_bv;detail_bv;0428;candidat;03;MIH Gilda;47;6,35;0;0441;candidat;03;MIH Gilda;30;6,59;0
+liste_bv;detail_bv;0428;candidat;04;GUERINI Jean-Noël;321;43,38;1;0441;candidat;04;GUERINI Jean-Noël;171;37,58;0
+liste_bv;detail_bv;0428;candidat;05;CANTREL Nicole;8;1,08;0;0441;candidat;05;CANTREL Nicole;1;0,22;0
+liste_bv;detail_bv;0428;candidat;06;ROUX MOUMANE Camille;33;4,46;0;0441;candidat;06;ROUX MOUMANE Camille;26;5,71;0
+liste_bv;detail_bv;0428;candidat;07;SAVON Hubert;10;1,35;0;0441;candidat;07;SAVON Hubert;8;1,76;0
+liste_bv;detail_bv;0428;candidat;08;MUSELIER Renaud;288;38,92;0;0441;candidat;08;MUSELIER Renaud;192;42,20;1
+liste_bv;total_bv;1 347;764;56,72;740;54,94;24;3,14;768;466;60,68;455;59,24;11;2,36
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0442;candidat;01;MADROLLE Christophe;25;5,23;0;0443;candidat;01;MADROLLE Christophe;28;4,84;0
+liste_bv;detail_bv;0442;candidat;02;RAYNAUD Corinne;0;0,00;0;0443;candidat;02;RAYNAUD Corinne;1;0,17;0
+liste_bv;detail_bv;0442;candidat;03;MIH Gilda;32;6,69;0;0443;candidat;03;MIH Gilda;47;8,12;0
+liste_bv;detail_bv;0442;candidat;04;GUERINI Jean-Noël;183;38,28;0;0443;candidat;04;GUERINI Jean-Noël;222;38,34;0
+liste_bv;detail_bv;0442;candidat;05;CANTREL Nicole;2;0,42;0;0443;candidat;05;CANTREL Nicole;4;0,69;0
+liste_bv;detail_bv;0442;candidat;06;ROUX MOUMANE Camille;20;4,18;0;0443;candidat;06;ROUX MOUMANE Camille;21;3,63;0
+liste_bv;detail_bv;0442;candidat;07;SAVON Hubert;1;0,21;0;0443;candidat;07;SAVON Hubert;9;1,55;0
+liste_bv;detail_bv;0442;candidat;08;MUSELIER Renaud;215;44,98;1;0443;candidat;08;MUSELIER Renaud;247;42,66;1
+liste_bv;total_bv;778;497;63,88;478;61,44;19;3,82;906;596;65,78;579;63,91;17;2,85
+liste_bv;detail_bv;0451;candidat;01;MADROLLE Christophe;66;10,44;0;0452;candidat;01;MADROLLE Christophe;45;6,94;0
+liste_bv;detail_bv;0451;candidat;02;RAYNAUD Corinne;3;0,47;0;0452;candidat;02;RAYNAUD Corinne;7;1,08;0
+liste_bv;detail_bv;0451;candidat;03;MIH Gilda;29;4,59;0;0452;candidat;03;MIH Gilda;35;5,40;0
+liste_bv;detail_bv;0451;candidat;04;GUERINI Jean-Noël;239;37,82;1;0452;candidat;04;GUERINI Jean-Noël;228;35,19;0
+liste_bv;detail_bv;0451;candidat;05;CANTREL Nicole;2;0,32;0;0452;candidat;05;CANTREL Nicole;5;0,77;0
+liste_bv;detail_bv;0451;candidat;06;ROUX MOUMANE Camille;67;10,60;0;0452;candidat;06;ROUX MOUMANE Camille;35;5,40;0
+liste_bv;detail_bv;0451;candidat;07;SAVON Hubert;2;0,32;0;0452;candidat;07;SAVON Hubert;3;0,46;0
+liste_bv;detail_bv;0451;candidat;08;MUSELIER Renaud;224;35,44;0;0452;candidat;08;MUSELIER Renaud;290;44,75;1
+liste_bv;total_bv;1 010;646;63,96;632;62,57;14;2,17;1 034;660;63,83;648;62,67;12;1,82
+liste_bv;detail_bv;0453;candidat;01;MADROLLE Christophe;31;5,39;0;0454;candidat;01;MADROLLE Christophe;41;5,94;0
+liste_bv;detail_bv;0453;candidat;02;RAYNAUD Corinne;3;0,52;0;0454;candidat;02;RAYNAUD Corinne;0;0,00;0
+liste_bv;detail_bv;0453;candidat;03;MIH Gilda;35;6,09;0;0454;candidat;03;MIH Gilda;51;7,39;0
+liste_bv;detail_bv;0453;candidat;04;GUERINI Jean-Noël;196;34,09;0;0454;candidat;04;GUERINI Jean-Noël;246;35,65;0
+liste_bv;detail_bv;0453;candidat;05;CANTREL Nicole;2;0,35;0;0454;candidat;05;CANTREL Nicole;5;0,72;0
+liste_bv;detail_bv;0453;candidat;06;ROUX MOUMANE Camille;34;5,91;0;0454;candidat;06;ROUX MOUMANE Camille;17;2,46;0
+liste_bv;detail_bv;0453;candidat;07;SAVON Hubert;9;1,57;0;0454;candidat;07;SAVON Hubert;4;0,58;0
+liste_bv;detail_bv;0453;candidat;08;MUSELIER Renaud;265;46,09;1;0454;candidat;08;MUSELIER Renaud;326;47,25;1
+liste_bv;total_bv;898;588;65,48;575;64,03;13;2,21;1 083;706;65,19;690;63,71;16;2,27
+liste_bv;detail_bv;0455;candidat;01;MADROLLE Christophe;24;4,47;0;0456;candidat;01;MADROLLE Christophe;36;5,75;0
+liste_bv;detail_bv;0455;candidat;02;RAYNAUD Corinne;2;0,37;0;0456;candidat;02;RAYNAUD Corinne;2;0,32;0
+liste_bv;detail_bv;0455;candidat;03;MIH Gilda;29;5,40;0;0456;candidat;03;MIH Gilda;48;7,67;0
+liste_bv;detail_bv;0455;candidat;04;GUERINI Jean-Noël;190;35,38;0;0456;candidat;04;GUERINI Jean-Noël;203;32,43;0
+liste_bv;detail_bv;0455;candidat;05;CANTREL Nicole;1;0,19;0;0456;candidat;05;CANTREL Nicole;1;0,16;0
+liste_bv;detail_bv;0455;candidat;06;ROUX MOUMANE Camille;21;3,91;0;0456;candidat;06;ROUX MOUMANE Camille;38;6,07;0
+liste_bv;detail_bv;0455;candidat;07;SAVON Hubert;8;1,49;0;0456;candidat;07;SAVON Hubert;2;0,32;0
+liste_bv;detail_bv;0455;candidat;08;MUSELIER Renaud;262;48,79;1;0456;candidat;08;MUSELIER Renaud;296;47,28;1
+liste_bv;total_bv;831;549;66,06;537;64,62;12;2,19;946;635;67,12;626;66,17;9;1,42
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0471;candidat;01;MADROLLE Christophe;52;8,44;0;0473;candidat;01;MADROLLE Christophe;37;5,34;0
+liste_bv;detail_bv;0471;candidat;02;RAYNAUD Corinne;1;0,16;0;0473;candidat;02;RAYNAUD Corinne;4;0,58;0
+liste_bv;detail_bv;0471;candidat;03;MIH Gilda;35;5,68;0;0473;candidat;03;MIH Gilda;48;6,93;0
+liste_bv;detail_bv;0471;candidat;04;GUERINI Jean-Noël;207;33,60;0;0473;candidat;04;GUERINI Jean-Noël;228;32,90;0
+liste_bv;detail_bv;0471;candidat;05;CANTREL Nicole;9;1,46;0;0473;candidat;05;CANTREL Nicole;6;0,87;0
+liste_bv;detail_bv;0471;candidat;06;ROUX MOUMANE Camille;31;5,03;0;0473;candidat;06;ROUX MOUMANE Camille;17;2,45;0
+liste_bv;detail_bv;0471;candidat;07;SAVON Hubert;11;1,79;0;0473;candidat;07;SAVON Hubert;12;1,73;0
+liste_bv;detail_bv;0471;candidat;08;MUSELIER Renaud;270;43,83;1;0473;candidat;08;MUSELIER Renaud;341;49,21;1
+liste_bv;total_bv;1 054;624;59,20;616;58,44;8;1,28;1 130;714;63,19;693;61,33;21;2,94
+liste_bv;detail_bv;0474;candidat;01;MADROLLE Christophe;46;5,95;0;0475;candidat;01;MADROLLE Christophe;31;6,24;0
+liste_bv;detail_bv;0474;candidat;02;RAYNAUD Corinne;2;0,26;0;0475;candidat;02;RAYNAUD Corinne;3;0,60;0
+liste_bv;detail_bv;0474;candidat;03;MIH Gilda;54;6,99;0;0475;candidat;03;MIH Gilda;17;3,42;0
+liste_bv;detail_bv;0474;candidat;04;GUERINI Jean-Noël;297;38,42;0;0475;candidat;04;GUERINI Jean-Noël;216;43,46;1
+liste_bv;detail_bv;0474;candidat;05;CANTREL Nicole;5;0,65;0;0475;candidat;05;CANTREL Nicole;3;0,60;0
+liste_bv;detail_bv;0474;candidat;06;ROUX MOUMANE Camille;33;4,27;0;0475;candidat;06;ROUX MOUMANE Camille;16;3,22;0
+liste_bv;detail_bv;0474;candidat;07;SAVON Hubert;6;0,78;0;0475;candidat;07;SAVON Hubert;3;0,60;0
+liste_bv;detail_bv;0474;candidat;08;MUSELIER Renaud;330;42,69;1;0475;candidat;08;MUSELIER Renaud;208;41,85;0
+liste_bv;total_bv;1 242;794;63,93;773;62,24;21;2,64;873;508;58,19;497;56,93;11;2,17
+liste_bv;detail_bv;0491;candidat;01;MADROLLE Christophe;25;3,95;0;0501;candidat;01;MADROLLE Christophe;54;7,01;0
+liste_bv;detail_bv;0491;candidat;02;RAYNAUD Corinne;6;0,95;0;0501;candidat;02;RAYNAUD Corinne;6;0,78;0
+liste_bv;detail_bv;0491;candidat;03;MIH Gilda;27;4,27;0;0501;candidat;03;MIH Gilda;43;5,58;0
+liste_bv;detail_bv;0491;candidat;04;GUERINI Jean-Noël;258;40,76;0;0501;candidat;04;GUERINI Jean-Noël;343;44,55;1
+liste_bv;detail_bv;0491;candidat;05;CANTREL Nicole;8;1,26;0;0501;candidat;05;CANTREL Nicole;2;0,26;0
+liste_bv;detail_bv;0491;candidat;06;ROUX MOUMANE Camille;23;3,63;0;0501;candidat;06;ROUX MOUMANE Camille;96;12,47;0
+liste_bv;detail_bv;0491;candidat;07;SAVON Hubert;8;1,26;0;0501;candidat;07;SAVON Hubert;5;0,65;0
+liste_bv;detail_bv;0491;candidat;08;MUSELIER Renaud;278;43,92;1;0501;candidat;08;MUSELIER Renaud;221;28,70;0
+liste_bv;total_bv;1 184;639;53,97;633;53,46;6;0,94;1 211;791;65,32;770;63,58;21;2,65
+liste_bv;detail_bv;0502;candidat;01;MADROLLE Christophe;62;8,66;0;0504;candidat;01;MADROLLE Christophe;47;8,41;0
+liste_bv;detail_bv;0502;candidat;02;RAYNAUD Corinne;3;0,42;0;0504;candidat;02;RAYNAUD Corinne;5;0,89;0
+liste_bv;detail_bv;0502;candidat;03;MIH Gilda;27;3,77;0;0504;candidat;03;MIH Gilda;27;4,83;0
+liste_bv;detail_bv;0502;candidat;04;GUERINI Jean-Noël;295;41,20;1;0504;candidat;04;GUERINI Jean-Noël;229;40,97;1
+liste_bv;detail_bv;0502;candidat;05;CANTREL Nicole;4;0,56;0;0504;candidat;05;CANTREL Nicole;3;0,54;0
+liste_bv;detail_bv;0502;candidat;06;ROUX MOUMANE Camille;76;10,61;0;0504;candidat;06;ROUX MOUMANE Camille;58;10,38;0
+liste_bv;detail_bv;0502;candidat;07;SAVON Hubert;6;0,84;0;0504;candidat;07;SAVON Hubert;1;0,18;0
+liste_bv;detail_bv;0502;candidat;08;MUSELIER Renaud;243;33,94;0;0504;candidat;08;MUSELIER Renaud;189;33,81;0
+liste_bv;total_bv;1 178;730;61,97;716;60,78;14;1,92;880;567;64,43;559;63,52;8;1,41
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0505;candidat;01;MADROLLE Christophe;49;8,07;0;0506;candidat;01;MADROLLE Christophe;75;9,82;0
+liste_bv;detail_bv;0505;candidat;02;RAYNAUD Corinne;1;0,16;0;0506;candidat;02;RAYNAUD Corinne;4;0,52;0
+liste_bv;detail_bv;0505;candidat;03;MIH Gilda;44;7,25;0;0506;candidat;03;MIH Gilda;34;4,45;0
+liste_bv;detail_bv;0505;candidat;04;GUERINI Jean-Noël;260;42,83;1;0506;candidat;04;GUERINI Jean-Noël;322;42,15;1
+liste_bv;detail_bv;0505;candidat;05;CANTREL Nicole;3;0,49;0;0506;candidat;05;CANTREL Nicole;3;0,39;0
+liste_bv;detail_bv;0505;candidat;06;ROUX MOUMANE Camille;64;10,54;0;0506;candidat;06;ROUX MOUMANE Camille;84;10,99;0
+liste_bv;detail_bv;0505;candidat;07;SAVON Hubert;6;0,99;0;0506;candidat;07;SAVON Hubert;4;0,52;0
+liste_bv;detail_bv;0505;candidat;08;MUSELIER Renaud;180;29,65;0;0506;candidat;08;MUSELIER Renaud;238;31,15;0
+liste_bv;total_bv;1 003;622;62,01;607;60,52;15;2,41;1 242;778;62,64;764;61,51;14;1,80
+liste_bv;detail_bv;0508;candidat;01;MADROLLE Christophe;46;6,78;0;0510;candidat;01;MADROLLE Christophe;45;7,21;0
+liste_bv;detail_bv;0508;candidat;02;RAYNAUD Corinne;4;0,59;0;0510;candidat;02;RAYNAUD Corinne;3;0,48;0
+liste_bv;detail_bv;0508;candidat;03;MIH Gilda;34;5,01;0;0510;candidat;03;MIH Gilda;45;7,21;0
+liste_bv;detail_bv;0508;candidat;04;GUERINI Jean-Noël;306;45,13;1;0510;candidat;04;GUERINI Jean-Noël;227;36,38;0
+liste_bv;detail_bv;0508;candidat;05;CANTREL Nicole;3;0,44;0;0510;candidat;05;CANTREL Nicole;7;1,12;0
+liste_bv;detail_bv;0508;candidat;06;ROUX MOUMANE Camille;57;8,41;0;0510;candidat;06;ROUX MOUMANE Camille;44;7,05;0
+liste_bv;detail_bv;0508;candidat;07;SAVON Hubert;4;0,59;0;0510;candidat;07;SAVON Hubert;4;0,64;0
+liste_bv;detail_bv;0508;candidat;08;MUSELIER Renaud;224;33,04;0;0510;candidat;08;MUSELIER Renaud;249;39,90;1
+liste_bv;total_bv;1 170;685;58,55;678;57,95;7;1,02;1 004;631;62,85;624;62,15;7;1,11
+liste_bv;detail_bv;0511;candidat;01;MADROLLE Christophe;34;7,16;0;0512;candidat;01;MADROLLE Christophe;50;7,17;0
+liste_bv;detail_bv;0511;candidat;02;RAYNAUD Corinne;0;0,00;0;0512;candidat;02;RAYNAUD Corinne;6;0,86;0
+liste_bv;detail_bv;0511;candidat;03;MIH Gilda;26;5,47;0;0512;candidat;03;MIH Gilda;41;5,88;0
+liste_bv;detail_bv;0511;candidat;04;GUERINI Jean-Noël;166;34,95;0;0512;candidat;04;GUERINI Jean-Noël;219;31,42;0
+liste_bv;detail_bv;0511;candidat;05;CANTREL Nicole;0;0,00;0;0512;candidat;05;CANTREL Nicole;3;0,43;0
+liste_bv;detail_bv;0511;candidat;06;ROUX MOUMANE Camille;38;8,00;0;0512;candidat;06;ROUX MOUMANE Camille;35;5,02;0
+liste_bv;detail_bv;0511;candidat;07;SAVON Hubert;5;1,05;0;0512;candidat;07;SAVON Hubert;5;0,72;0
+liste_bv;detail_bv;0511;candidat;08;MUSELIER Renaud;206;43,37;1;0512;candidat;08;MUSELIER Renaud;338;48,49;1
+liste_bv;total_bv;771;491;63,68;475;61,61;16;3,26;1 073;712;66,36;697;64,96;15;2,11
+liste_bv;detail_bv;0513;candidat;01;MADROLLE Christophe;51;7,92;0;0514;candidat;01;MADROLLE Christophe;48;6,65;0
+liste_bv;detail_bv;0513;candidat;02;RAYNAUD Corinne;2;0,31;0;0514;candidat;02;RAYNAUD Corinne;4;0,55;0
+liste_bv;detail_bv;0513;candidat;03;MIH Gilda;39;6,06;0;0514;candidat;03;MIH Gilda;36;4,99;0
+liste_bv;detail_bv;0513;candidat;04;GUERINI Jean-Noël;232;36,02;0;0514;candidat;04;GUERINI Jean-Noël;238;32,96;0
+liste_bv;detail_bv;0513;candidat;05;CANTREL Nicole;1;0,16;0;0514;candidat;05;CANTREL Nicole;3;0,42;0
+liste_bv;detail_bv;0513;candidat;06;ROUX MOUMANE Camille;48;7,45;0;0514;candidat;06;ROUX MOUMANE Camille;18;2,49;0
+liste_bv;detail_bv;0513;candidat;07;SAVON Hubert;6;0,93;0;0514;candidat;07;SAVON Hubert;6;0,83;0
+liste_bv;detail_bv;0513;candidat;08;MUSELIER Renaud;265;41,15;1;0514;candidat;08;MUSELIER Renaud;369;51,11;1
+liste_bv;total_bv;1 019;661;64,87;644;63,20;17;2,57;1 130;738;65,31;722;63,89;16;2,17
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0515;candidat;01;MADROLLE Christophe;38;6,63;0;0551;candidat;01;MADROLLE Christophe;49;6,52;0
+liste_bv;detail_bv;0515;candidat;02;RAYNAUD Corinne;3;0,52;0;0551;candidat;02;RAYNAUD Corinne;5;0,66;0
+liste_bv;detail_bv;0515;candidat;03;MIH Gilda;35;6,11;0;0551;candidat;03;MIH Gilda;49;6,52;0
+liste_bv;detail_bv;0515;candidat;04;GUERINI Jean-Noël;193;33,68;0;0551;candidat;04;GUERINI Jean-Noël;261;34,71;0
+liste_bv;detail_bv;0515;candidat;05;CANTREL Nicole;4;0,70;0;0551;candidat;05;CANTREL Nicole;2;0,27;0
+liste_bv;detail_bv;0515;candidat;06;ROUX MOUMANE Camille;25;4,36;0;0551;candidat;06;ROUX MOUMANE Camille;54;7,18;0
+liste_bv;detail_bv;0515;candidat;07;SAVON Hubert;6;1,05;0;0551;candidat;07;SAVON Hubert;9;1,20;0
+liste_bv;detail_bv;0515;candidat;08;MUSELIER Renaud;269;46,95;1;0551;candidat;08;MUSELIER Renaud;323;42,95;1
+liste_bv;total_bv;940;583;62,02;573;60,96;10;1,72;1 314;759;57,76;752;57,23;7;0,92
+liste_bv;detail_bv;0552;candidat;01;MADROLLE Christophe;42;6,47;0;0554;candidat;01;MADROLLE Christophe;58;8,16;0
+liste_bv;detail_bv;0552;candidat;02;RAYNAUD Corinne;0;0,00;0;0554;candidat;02;RAYNAUD Corinne;3;0,42;0
+liste_bv;detail_bv;0552;candidat;03;MIH Gilda;56;8,63;0;0554;candidat;03;MIH Gilda;48;6,75;0
+liste_bv;detail_bv;0552;candidat;04;GUERINI Jean-Noël;253;38,98;1;0554;candidat;04;GUERINI Jean-Noël;283;39,80;1
+liste_bv;detail_bv;0552;candidat;05;CANTREL Nicole;2;0,31;0;0554;candidat;05;CANTREL Nicole;4;0,56;0
+liste_bv;detail_bv;0552;candidat;06;ROUX MOUMANE Camille;39;6,01;0;0554;candidat;06;ROUX MOUMANE Camille;37;5,20;0
+liste_bv;detail_bv;0552;candidat;07;SAVON Hubert;6;0,92;0;0554;candidat;07;SAVON Hubert;10;1,41;0
+liste_bv;detail_bv;0552;candidat;08;MUSELIER Renaud;251;38,67;0;0554;candidat;08;MUSELIER Renaud;268;37,69;0
+liste_bv;total_bv;1 088;668;61,40;649;59,65;19;2,84;1 305;726;55,63;711;54,48;15;2,07
+liste_bv;detail_bv;0555;candidat;01;MADROLLE Christophe;43;8,08;0;0556;candidat;01;MADROLLE Christophe;52;6,75;0
+liste_bv;detail_bv;0555;candidat;02;RAYNAUD Corinne;2;0,38;0;0556;candidat;02;RAYNAUD Corinne;2;0,26;0
+liste_bv;detail_bv;0555;candidat;03;MIH Gilda;27;5,08;0;0556;candidat;03;MIH Gilda;49;6,36;0
+liste_bv;detail_bv;0555;candidat;04;GUERINI Jean-Noël;207;38,91;0;0556;candidat;04;GUERINI Jean-Noël;291;37,79;0
+liste_bv;detail_bv;0555;candidat;05;CANTREL Nicole;6;1,13;0;0556;candidat;05;CANTREL Nicole;9;1,17;0
+liste_bv;detail_bv;0555;candidat;06;ROUX MOUMANE Camille;35;6,58;0;0556;candidat;06;ROUX MOUMANE Camille;44;5,71;0
+liste_bv;detail_bv;0555;candidat;07;SAVON Hubert;3;0,56;0;0556;candidat;07;SAVON Hubert;11;1,43;0
+liste_bv;detail_bv;0555;candidat;08;MUSELIER Renaud;209;39,29;1;0556;candidat;08;MUSELIER Renaud;312;40,52;1
+liste_bv;total_bv;976;540;55,33;532;54,51;8;1,48;1 350;789;58,44;770;57,04;19;2,41
+liste_bv;detail_bv;0557;candidat;01;MADROLLE Christophe;35;4,94;0;0558;candidat;01;MADROLLE Christophe;16;4,48;0
+liste_bv;detail_bv;0557;candidat;02;RAYNAUD Corinne;1;0,14;0;0558;candidat;02;RAYNAUD Corinne;3;0,84;0
+liste_bv;detail_bv;0557;candidat;03;MIH Gilda;30;4,24;0;0558;candidat;03;MIH Gilda;25;7,00;0
+liste_bv;detail_bv;0557;candidat;04;GUERINI Jean-Noël;257;36,30;0;0558;candidat;04;GUERINI Jean-Noël;146;40,90;1
+liste_bv;detail_bv;0557;candidat;05;CANTREL Nicole;5;0,71;0;0558;candidat;05;CANTREL Nicole;2;0,56;0
+liste_bv;detail_bv;0557;candidat;06;ROUX MOUMANE Camille;25;3,53;0;0558;candidat;06;ROUX MOUMANE Camille;22;6,16;0
+liste_bv;detail_bv;0557;candidat;07;SAVON Hubert;3;0,42;0;0558;candidat;07;SAVON Hubert;1;0,28;0
+liste_bv;detail_bv;0557;candidat;08;MUSELIER Renaud;352;49,72;1;0558;candidat;08;MUSELIER Renaud;142;39,78;0
+liste_bv;total_bv;1 088;714;65,63;708;65,07;6;0,84;600;364;60,67;357;59,50;7;1,92
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0559;candidat;01;MADROLLE Christophe;50;6,50;0;0560;candidat;01;MADROLLE Christophe;23;3,93;0
+liste_bv;detail_bv;0559;candidat;02;RAYNAUD Corinne;5;0,65;0;0560;candidat;02;RAYNAUD Corinne;0;0,00;0
+liste_bv;detail_bv;0559;candidat;03;MIH Gilda;48;6,24;0;0560;candidat;03;MIH Gilda;26;4,44;0
+liste_bv;detail_bv;0559;candidat;04;GUERINI Jean-Noël;267;34,72;0;0560;candidat;04;GUERINI Jean-Noël;207;35,38;0
+liste_bv;detail_bv;0559;candidat;05;CANTREL Nicole;2;0,26;0;0560;candidat;05;CANTREL Nicole;6;1,03;0
+liste_bv;detail_bv;0559;candidat;06;ROUX MOUMANE Camille;20;2,60;0;0560;candidat;06;ROUX MOUMANE Camille;20;3,42;0
+liste_bv;detail_bv;0559;candidat;07;SAVON Hubert;7;0,91;0;0560;candidat;07;SAVON Hubert;7;1,20;0
+liste_bv;detail_bv;0559;candidat;08;MUSELIER Renaud;370;48,11;1;0560;candidat;08;MUSELIER Renaud;296;50,60;1
+liste_bv;total_bv;1 235;777;62,91;769;62,27;8;1,03;948;592;62,45;585;61,71;7;1,18
+liste_bv;detail_bv;0561;candidat;01;MADROLLE Christophe;45;6,83;0;0563;candidat;01;MADROLLE Christophe;24;3,47;0
+liste_bv;detail_bv;0561;candidat;02;RAYNAUD Corinne;1;0,15;0;0563;candidat;02;RAYNAUD Corinne;2;0,29;0
+liste_bv;detail_bv;0561;candidat;03;MIH Gilda;43;6,53;0;0563;candidat;03;MIH Gilda;34;4,92;0
+liste_bv;detail_bv;0561;candidat;04;GUERINI Jean-Noël;218;33,08;0;0563;candidat;04;GUERINI Jean-Noël;292;42,26;0
+liste_bv;detail_bv;0561;candidat;05;CANTREL Nicole;3;0,46;0;0563;candidat;05;CANTREL Nicole;4;0,58;0
+liste_bv;detail_bv;0561;candidat;06;ROUX MOUMANE Camille;31;4,70;0;0563;candidat;06;ROUX MOUMANE Camille;22;3,18;0
+liste_bv;detail_bv;0561;candidat;07;SAVON Hubert;5;0,76;0;0563;candidat;07;SAVON Hubert;13;1,88;0
+liste_bv;detail_bv;0561;candidat;08;MUSELIER Renaud;313;47,50;1;0563;candidat;08;MUSELIER Renaud;300;43,42;1
+liste_bv;total_bv;1 113;674;60,56;659;59,21;15;2,23;1 068;708;66,29;691;64,70;17;2,40
+detail;SECTEUR;04;candidat;01;BENNAHMIAS Jean-Luc;3 511;7,75;0
+detail;SECTEUR;04;candidat;02;GAUDIN Jean-Claude;23 600;52,09;1
+detail;SECTEUR;04;candidat;03;FRANCESCHI François;12 895;28,46;0
+detail;SECTEUR;04;candidat;04;BARDE Mireille;2 927;6,46;0
+detail;SECTEUR;04;candidat;05;PIRROTTINA Louis-Michel;2 376;5,24;0
+total;77 501;46 290;59,73;45 309;58,46;981;2,12
+liste_bv;detail_bv;0601;candidat;01;BENNAHMIAS Jean-Luc;66;10,87;0;0602;candidat;01;BENNAHMIAS Jean-Luc;40;10,90;0
+liste_bv;detail_bv;0601;candidat;02;GAUDIN Jean-Claude;136;22,41;0;0602;candidat;02;GAUDIN Jean-Claude;155;42,23;1
+liste_bv;detail_bv;0601;candidat;03;FRANCESCHI François;274;45,14;1;0602;candidat;03;FRANCESCHI François;122;33,24;0
+liste_bv;detail_bv;0601;candidat;04;BARDE Mireille;27;4,45;0;0602;candidat;04;BARDE Mireille;23;6,27;0
+liste_bv;detail_bv;0601;candidat;05;PIRROTTINA Louis-Michel;104;17,13;0;0602;candidat;05;PIRROTTINA Louis-Michel;27;7,36;0
+liste_bv;total_bv;1 086;613;56,45;607;55,89;6;0,98;579;373;64,42;367;63,39;6;1,61
+liste_bv;detail_bv;0603;candidat;01;BENNAHMIAS Jean-Luc;62;10,42;0;0604;candidat;01;BENNAHMIAS Jean-Luc;68;8,91;0
+liste_bv;detail_bv;0603;candidat;02;GAUDIN Jean-Claude;164;27,56;0;0604;candidat;02;GAUDIN Jean-Claude;314;41,15;1
+liste_bv;detail_bv;0603;candidat;03;FRANCESCHI François;225;37,82;1;0604;candidat;03;FRANCESCHI François;256;33,55;0
+liste_bv;detail_bv;0603;candidat;04;BARDE Mireille;42;7,06;0;0604;candidat;04;BARDE Mireille;61;7,99;0
+liste_bv;detail_bv;0603;candidat;05;PIRROTTINA Louis-Michel;102;17,14;0;0604;candidat;05;PIRROTTINA Louis-Michel;64;8,39;0
+liste_bv;total_bv;1 062;604;56,87;595;56,03;9;1,49;1 297;780;60,14;763;58,83;17;2,18
+liste_bv;detail_bv;0605;candidat;01;BENNAHMIAS Jean-Luc;72;10,21;0;0607;candidat;01;BENNAHMIAS Jean-Luc;56;8,63;0
+liste_bv;detail_bv;0605;candidat;02;GAUDIN Jean-Claude;260;36,88;1;0607;candidat;02;GAUDIN Jean-Claude;357;55,01;1
+liste_bv;detail_bv;0605;candidat;03;FRANCESCHI François;259;36,74;0;0607;candidat;03;FRANCESCHI François;177;27,27;0
+liste_bv;detail_bv;0605;candidat;04;BARDE Mireille;41;5,82;0;0607;candidat;04;BARDE Mireille;27;4,16;0
+liste_bv;detail_bv;0605;candidat;05;PIRROTTINA Louis-Michel;73;10,35;0;0607;candidat;05;PIRROTTINA Louis-Michel;32;4,93;0
+liste_bv;total_bv;1 322;719;54,39;705;53,33;14;1,95;1 146;659;57,50;649;56,63;10;1,52
+liste_bv;detail_bv;0608;candidat;01;BENNAHMIAS Jean-Luc;66;8,89;0;0609;candidat;01;BENNAHMIAS Jean-Luc;53;9,31;0
+liste_bv;detail_bv;0608;candidat;02;GAUDIN Jean-Claude;341;45,96;1;0609;candidat;02;GAUDIN Jean-Claude;267;46,92;1
+liste_bv;detail_bv;0608;candidat;03;FRANCESCHI François;263;35,44;0;0609;candidat;03;FRANCESCHI François;176;30,93;0
+liste_bv;detail_bv;0608;candidat;04;BARDE Mireille;40;5,39;0;0609;candidat;04;BARDE Mireille;30;5,27;0
+liste_bv;detail_bv;0608;candidat;05;PIRROTTINA Louis-Michel;32;4,31;0;0609;candidat;05;PIRROTTINA Louis-Michel;43;7,56;0
+liste_bv;total_bv;1 278;749;58,61;742;58,06;7;0,93;1 044;578;55,36;569;54,50;9;1,56
+liste_bv;detail_bv;0611;candidat;01;BENNAHMIAS Jean-Luc;59;8,66;0;0613;candidat;01;BENNAHMIAS Jean-Luc;63;8,84;0
+liste_bv;detail_bv;0611;candidat;02;GAUDIN Jean-Claude;353;51,84;1;0613;candidat;02;GAUDIN Jean-Claude;309;43,34;1
+liste_bv;detail_bv;0611;candidat;03;FRANCESCHI François;187;27,46;0;0613;candidat;03;FRANCESCHI François;237;33,24;0
+liste_bv;detail_bv;0611;candidat;04;BARDE Mireille;40;5,87;0;0613;candidat;04;BARDE Mireille;49;6,87;0
+liste_bv;detail_bv;0611;candidat;05;PIRROTTINA Louis-Michel;42;6,17;0;0613;candidat;05;PIRROTTINA Louis-Michel;55;7,71;0
+liste_bv;total_bv;1 189;700;58,87;681;57,28;19;2,71;1 318;739;56,07;713;54,10;26;3,52
+liste_bv;detail_bv;0621;candidat;01;BENNAHMIAS Jean-Luc;28;6,78;0;0622;candidat;01;BENNAHMIAS Jean-Luc;58;8,76;0
+liste_bv;detail_bv;0621;candidat;02;GAUDIN Jean-Claude;176;42,62;1;0622;candidat;02;GAUDIN Jean-Claude;312;47,13;1
+liste_bv;detail_bv;0621;candidat;03;FRANCESCHI François;139;33,66;0;0622;candidat;03;FRANCESCHI François;224;33,84;0
+liste_bv;detail_bv;0621;candidat;04;BARDE Mireille;34;8,23;0;0622;candidat;04;BARDE Mireille;39;5,89;0
+liste_bv;detail_bv;0621;candidat;05;PIRROTTINA Louis-Michel;36;8,72;0;0622;candidat;05;PIRROTTINA Louis-Michel;29;4,38;0
+liste_bv;total_bv;764;419;54,84;413;54,06;6;1,43;1 149;678;59,01;662;57,62;16;2,36
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0625;candidat;01;BENNAHMIAS Jean-Luc;56;8,07;0;0641;candidat;01;BENNAHMIAS Jean-Luc;42;8,62;0
+liste_bv;detail_bv;0625;candidat;02;GAUDIN Jean-Claude;291;41,93;1;0641;candidat;02;GAUDIN Jean-Claude;144;29,57;0
+liste_bv;detail_bv;0625;candidat;03;FRANCESCHI François;266;38,33;0;0641;candidat;03;FRANCESCHI François;183;37,58;1
+liste_bv;detail_bv;0625;candidat;04;BARDE Mireille;47;6,77;0;0641;candidat;04;BARDE Mireille;27;5,54;0
+liste_bv;detail_bv;0625;candidat;05;PIRROTTINA Louis-Michel;34;4,90;0;0641;candidat;05;PIRROTTINA Louis-Michel;91;18,69;0
+liste_bv;total_bv;1 183;698;59,00;694;58,66;4;0,57;796;494;62,06;487;61,18;7;1,42
+liste_bv;detail_bv;0651;candidat;01;BENNAHMIAS Jean-Luc;69;10,92;0;0652;candidat;01;BENNAHMIAS Jean-Luc;42;9,84;0
+liste_bv;detail_bv;0651;candidat;02;GAUDIN Jean-Claude;198;31,33;0;0652;candidat;02;GAUDIN Jean-Claude;125;29,27;0
+liste_bv;detail_bv;0651;candidat;03;FRANCESCHI François;225;35,60;1;0652;candidat;03;FRANCESCHI François;165;38,64;1
+liste_bv;detail_bv;0651;candidat;04;BARDE Mireille;48;7,59;0;0652;candidat;04;BARDE Mireille;30;7,03;0
+liste_bv;detail_bv;0651;candidat;05;PIRROTTINA Louis-Michel;92;14,56;0;0652;candidat;05;PIRROTTINA Louis-Michel;65;15,22;0
+liste_bv;total_bv;1 024;645;62,99;632;61,72;13;2,02;753;430;57,10;427;56,71;3;0,70
+liste_bv;detail_bv;0661;candidat;01;BENNAHMIAS Jean-Luc;54;11,13;0;0662;candidat;01;BENNAHMIAS Jean-Luc;51;11,49;0
+liste_bv;detail_bv;0661;candidat;02;GAUDIN Jean-Claude;230;47,42;1;0662;candidat;02;GAUDIN Jean-Claude;195;43,92;1
+liste_bv;detail_bv;0661;candidat;03;FRANCESCHI François;145;29,90;0;0662;candidat;03;FRANCESCHI François;131;29,50;0
+liste_bv;detail_bv;0661;candidat;04;BARDE Mireille;27;5,57;0;0662;candidat;04;BARDE Mireille;30;6,76;0
+liste_bv;detail_bv;0661;candidat;05;PIRROTTINA Louis-Michel;29;5,98;0;0662;candidat;05;PIRROTTINA Louis-Michel;37;8,33;0
+liste_bv;total_bv;861;495;57,49;485;56,33;10;2,02;845;450;53,25;444;52,54;6;1,33
+liste_bv;detail_bv;0663;candidat;01;BENNAHMIAS Jean-Luc;45;7,28;0;0664;candidat;01;BENNAHMIAS Jean-Luc;57;7,76;0
+liste_bv;detail_bv;0663;candidat;02;GAUDIN Jean-Claude;353;57,12;1;0664;candidat;02;GAUDIN Jean-Claude;402;54,69;1
+liste_bv;detail_bv;0663;candidat;03;FRANCESCHI François;174;28,16;0;0664;candidat;03;FRANCESCHI François;184;25,03;0
+liste_bv;detail_bv;0663;candidat;04;BARDE Mireille;38;6,15;0;0664;candidat;04;BARDE Mireille;76;10,34;0
+liste_bv;detail_bv;0663;candidat;05;PIRROTTINA Louis-Michel;8;1,29;0;0664;candidat;05;PIRROTTINA Louis-Michel;16;2,18;0
+liste_bv;total_bv;1 046;626;59,85;618;59,08;8;1,28;1 183;753;63,65;735;62,13;18;2,39
+liste_bv;detail_bv;0671;candidat;01;BENNAHMIAS Jean-Luc;79;9,79;0;0672;candidat;01;BENNAHMIAS Jean-Luc;43;7,26;0
+liste_bv;detail_bv;0671;candidat;02;GAUDIN Jean-Claude;397;49,19;1;0672;candidat;02;GAUDIN Jean-Claude;286;48,31;1
+liste_bv;detail_bv;0671;candidat;03;FRANCESCHI François;267;33,09;0;0672;candidat;03;FRANCESCHI François;193;32,60;0
+liste_bv;detail_bv;0671;candidat;04;BARDE Mireille;30;3,72;0;0672;candidat;04;BARDE Mireille;33;5,57;0
+liste_bv;detail_bv;0671;candidat;05;PIRROTTINA Louis-Michel;34;4,21;0;0672;candidat;05;PIRROTTINA Louis-Michel;37;6,25;0
+liste_bv;total_bv;1 370;818;59,71;807;58,91;11;1,34;979;601;61,39;592;60,47;9;1,50
+liste_bv;detail_bv;0673;candidat;01;BENNAHMIAS Jean-Luc;46;11,68;0;0674;candidat;01;BENNAHMIAS Jean-Luc;30;7,21;0
+liste_bv;detail_bv;0673;candidat;02;GAUDIN Jean-Claude;167;42,39;1;0674;candidat;02;GAUDIN Jean-Claude;136;32,69;0
+liste_bv;detail_bv;0673;candidat;03;FRANCESCHI François;136;34,52;0;0674;candidat;03;FRANCESCHI François;166;39,90;1
+liste_bv;detail_bv;0673;candidat;04;BARDE Mireille;23;5,84;0;0674;candidat;04;BARDE Mireille;42;10,10;0
+liste_bv;detail_bv;0673;candidat;05;PIRROTTINA Louis-Michel;22;5,58;0;0674;candidat;05;PIRROTTINA Louis-Michel;42;10,10;0
+liste_bv;total_bv;704;408;57,95;394;55,97;14;3,43;764;432;56,54;416;54,45;16;3,70
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0801;candidat;01;BENNAHMIAS Jean-Luc;53;7,71;0;0802;candidat;01;BENNAHMIAS Jean-Luc;50;6,68;0
+liste_bv;detail_bv;0801;candidat;02;GAUDIN Jean-Claude;451;65,65;1;0802;candidat;02;GAUDIN Jean-Claude;499;66,71;1
+liste_bv;detail_bv;0801;candidat;03;FRANCESCHI François;137;19,94;0;0802;candidat;03;FRANCESCHI François;139;18,58;0
+liste_bv;detail_bv;0801;candidat;04;BARDE Mireille;33;4,80;0;0802;candidat;04;BARDE Mireille;45;6,02;0
+liste_bv;detail_bv;0801;candidat;05;PIRROTTINA Louis-Michel;13;1,89;0;0802;candidat;05;PIRROTTINA Louis-Michel;15;2,01;0
+liste_bv;total_bv;1 238;706;57,03;687;55,49;19;2,69;1 259;763;60,60;748;59,41;15;1,97
+liste_bv;detail_bv;0803;candidat;01;BENNAHMIAS Jean-Luc;43;5,69;0;0804;candidat;01;BENNAHMIAS Jean-Luc;48;7,33;0
+liste_bv;detail_bv;0803;candidat;02;GAUDIN Jean-Claude;528;69,84;1;0804;candidat;02;GAUDIN Jean-Claude;418;63,82;1
+liste_bv;detail_bv;0803;candidat;03;FRANCESCHI François;139;18,39;0;0804;candidat;03;FRANCESCHI François;149;22,75;0
+liste_bv;detail_bv;0803;candidat;04;BARDE Mireille;35;4,63;0;0804;candidat;04;BARDE Mireille;31;4,73;0
+liste_bv;detail_bv;0803;candidat;05;PIRROTTINA Louis-Michel;11;1,46;0;0804;candidat;05;PIRROTTINA Louis-Michel;9;1,37;0
+liste_bv;total_bv;1 348;772;57,27;756;56,08;16;2,07;1 199;667;55,63;655;54,63;12;1,80
+liste_bv;detail_bv;0805;candidat;01;BENNAHMIAS Jean-Luc;35;6,28;0;0806;candidat;01;BENNAHMIAS Jean-Luc;25;3,69;0
+liste_bv;detail_bv;0805;candidat;02;GAUDIN Jean-Claude;381;68,40;1;0806;candidat;02;GAUDIN Jean-Claude;489;72,23;1
+liste_bv;detail_bv;0805;candidat;03;FRANCESCHI François;92;16,52;0;0806;candidat;03;FRANCESCHI François;111;16,40;0
+liste_bv;detail_bv;0805;candidat;04;BARDE Mireille;34;6,10;0;0806;candidat;04;BARDE Mireille;36;5,32;0
+liste_bv;detail_bv;0805;candidat;05;PIRROTTINA Louis-Michel;15;2,69;0;0806;candidat;05;PIRROTTINA Louis-Michel;16;2,36;0
+liste_bv;total_bv;954;570;59,75;557;58,39;13;2,28;1 128;694;61,52;677;60,02;17;2,45
+liste_bv;detail_bv;0807;candidat;01;BENNAHMIAS Jean-Luc;41;5,26;0;0808;candidat;01;BENNAHMIAS Jean-Luc;27;4,31;0
+liste_bv;detail_bv;0807;candidat;02;GAUDIN Jean-Claude;560;71,89;1;0808;candidat;02;GAUDIN Jean-Claude;434;69,22;1
+liste_bv;detail_bv;0807;candidat;03;FRANCESCHI François;137;17,59;0;0808;candidat;03;FRANCESCHI François;113;18,02;0
+liste_bv;detail_bv;0807;candidat;04;BARDE Mireille;25;3,21;0;0808;candidat;04;BARDE Mireille;38;6,06;0
+liste_bv;detail_bv;0807;candidat;05;PIRROTTINA Louis-Michel;16;2,05;0;0808;candidat;05;PIRROTTINA Louis-Michel;15;2,39;0
+liste_bv;total_bv;1 241;793;63,90;779;62,77;14;1,77;1 094;637;58,23;627;57,31;10;1,57
+liste_bv;detail_bv;0809;candidat;01;BENNAHMIAS Jean-Luc;42;5,95;0;0810;candidat;01;BENNAHMIAS Jean-Luc;33;5,81;0
+liste_bv;detail_bv;0809;candidat;02;GAUDIN Jean-Claude;488;69,12;1;0810;candidat;02;GAUDIN Jean-Claude;266;46,83;1
+liste_bv;detail_bv;0809;candidat;03;FRANCESCHI François;140;19,83;0;0810;candidat;03;FRANCESCHI François;174;30,63;0
+liste_bv;detail_bv;0809;candidat;04;BARDE Mireille;26;3,68;0;0810;candidat;04;BARDE Mireille;65;11,44;0
+liste_bv;detail_bv;0809;candidat;05;PIRROTTINA Louis-Michel;10;1,42;0;0810;candidat;05;PIRROTTINA Louis-Michel;30;5,28;0
+liste_bv;total_bv;1 108;732;66,06;706;63,72;26;3,55;1 042;584;56,05;568;54,51;16;2,74
+liste_bv;detail_bv;0811;candidat;01;BENNAHMIAS Jean-Luc;57;8,41;0;0812;candidat;01;BENNAHMIAS Jean-Luc;36;6,52;0
+liste_bv;detail_bv;0811;candidat;02;GAUDIN Jean-Claude;331;48,82;1;0812;candidat;02;GAUDIN Jean-Claude;293;53,08;1
+liste_bv;detail_bv;0811;candidat;03;FRANCESCHI François;208;30,68;0;0812;candidat;03;FRANCESCHI François;161;29,17;0
+liste_bv;detail_bv;0811;candidat;04;BARDE Mireille;34;5,01;0;0812;candidat;04;BARDE Mireille;46;8,33;0
+liste_bv;detail_bv;0811;candidat;05;PIRROTTINA Louis-Michel;48;7,08;0;0812;candidat;05;PIRROTTINA Louis-Michel;16;2,90;0
+liste_bv;total_bv;1 122;695;61,94;678;60,43;17;2,45;952;562;59,03;552;57,98;10;1,78
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0813;candidat;01;BENNAHMIAS Jean-Luc;39;6,47;0;0814;candidat;01;BENNAHMIAS Jean-Luc;21;5,83;0
+liste_bv;detail_bv;0813;candidat;02;GAUDIN Jean-Claude;346;57,38;1;0814;candidat;02;GAUDIN Jean-Claude;170;47,22;1
+liste_bv;detail_bv;0813;candidat;03;FRANCESCHI François;157;26,04;0;0814;candidat;03;FRANCESCHI François;125;34,72;0
+liste_bv;detail_bv;0813;candidat;04;BARDE Mireille;39;6,47;0;0814;candidat;04;BARDE Mireille;22;6,11;0
+liste_bv;detail_bv;0813;candidat;05;PIRROTTINA Louis-Michel;22;3,65;0;0814;candidat;05;PIRROTTINA Louis-Michel;22;6,11;0
+liste_bv;total_bv;1 058;622;58,79;603;56,99;19;3,05;732;364;49,73;360;49,18;4;1,10
+liste_bv;detail_bv;0815;candidat;01;BENNAHMIAS Jean-Luc;47;7,38;0;0816;candidat;01;BENNAHMIAS Jean-Luc;52;8,32;0
+liste_bv;detail_bv;0815;candidat;02;GAUDIN Jean-Claude;358;56,20;1;0816;candidat;02;GAUDIN Jean-Claude;264;42,24;1
+liste_bv;detail_bv;0815;candidat;03;FRANCESCHI François;178;27,94;0;0816;candidat;03;FRANCESCHI François;192;30,72;0
+liste_bv;detail_bv;0815;candidat;04;BARDE Mireille;34;5,34;0;0816;candidat;04;BARDE Mireille;62;9,92;0
+liste_bv;detail_bv;0815;candidat;05;PIRROTTINA Louis-Michel;20;3,14;0;0816;candidat;05;PIRROTTINA Louis-Michel;55;8,80;0
+liste_bv;total_bv;1 147;644;56,15;637;55,54;7;1,09;1 095;648;59,18;625;57,08;23;3,55
+liste_bv;detail_bv;0817;candidat;01;BENNAHMIAS Jean-Luc;34;5,56;0;0818;candidat;01;BENNAHMIAS Jean-Luc;22;3,56;0
+liste_bv;detail_bv;0817;candidat;02;GAUDIN Jean-Claude;330;54,01;1;0818;candidat;02;GAUDIN Jean-Claude;305;49,35;1
+liste_bv;detail_bv;0817;candidat;03;FRANCESCHI François;151;24,71;0;0818;candidat;03;FRANCESCHI François;198;32,04;0
+liste_bv;detail_bv;0817;candidat;04;BARDE Mireille;65;10,64;0;0818;candidat;04;BARDE Mireille;71;11,49;0
+liste_bv;detail_bv;0817;candidat;05;PIRROTTINA Louis-Michel;31;5,07;0;0818;candidat;05;PIRROTTINA Louis-Michel;22;3,56;0
+liste_bv;total_bv;1 184;619;52,28;611;51,60;8;1,29;1 112;627;56,38;618;55,58;9;1,44
+liste_bv;detail_bv;0830;candidat;01;BENNAHMIAS Jean-Luc;33;9,32;0;0831;candidat;01;BENNAHMIAS Jean-Luc;36;7,03;0
+liste_bv;detail_bv;0830;candidat;02;GAUDIN Jean-Claude;172;48,59;1;0831;candidat;02;GAUDIN Jean-Claude;299;58,40;1
+liste_bv;detail_bv;0830;candidat;03;FRANCESCHI François;98;27,68;0;0831;candidat;03;FRANCESCHI François;132;25,78;0
+liste_bv;detail_bv;0830;candidat;04;BARDE Mireille;29;8,19;0;0831;candidat;04;BARDE Mireille;26;5,08;0
+liste_bv;detail_bv;0830;candidat;05;PIRROTTINA Louis-Michel;22;6,21;0;0831;candidat;05;PIRROTTINA Louis-Michel;19;3,71;0
+liste_bv;total_bv;654;366;55,96;354;54,13;12;3,28;907;527;58,10;512;56,45;15;2,85
+liste_bv;detail_bv;0832;candidat;01;BENNAHMIAS Jean-Luc;55;9,17;0;0833;candidat;01;BENNAHMIAS Jean-Luc;27;6,16;0
+liste_bv;detail_bv;0832;candidat;02;GAUDIN Jean-Claude;353;58,83;1;0833;candidat;02;GAUDIN Jean-Claude;324;73,97;1
+liste_bv;detail_bv;0832;candidat;03;FRANCESCHI François;153;25,50;0;0833;candidat;03;FRANCESCHI François;66;15,07;0
+liste_bv;detail_bv;0832;candidat;04;BARDE Mireille;29;4,83;0;0833;candidat;04;BARDE Mireille;13;2,97;0
+liste_bv;detail_bv;0832;candidat;05;PIRROTTINA Louis-Michel;10;1,67;0;0833;candidat;05;PIRROTTINA Louis-Michel;8;1,83;0
+liste_bv;total_bv;1 049;615;58,63;600;57,20;15;2,44;741;441;59,51;438;59,11;3;0,68
+liste_bv;detail_bv;0834;candidat;01;BENNAHMIAS Jean-Luc;23;2,90;0;0835;candidat;01;BENNAHMIAS Jean-Luc;26;4,95;0
+liste_bv;detail_bv;0834;candidat;02;GAUDIN Jean-Claude;637;80,33;1;0835;candidat;02;GAUDIN Jean-Claude;354;67,43;1
+liste_bv;detail_bv;0834;candidat;03;FRANCESCHI François;91;11,48;0;0835;candidat;03;FRANCESCHI François;105;20,00;0
+liste_bv;detail_bv;0834;candidat;04;BARDE Mireille;39;4,92;0;0835;candidat;04;BARDE Mireille;32;6,10;0
+liste_bv;detail_bv;0834;candidat;05;PIRROTTINA Louis-Michel;3;0,38;0;0835;candidat;05;PIRROTTINA Louis-Michel;8;1,52;0
+liste_bv;total_bv;1 317;808;61,35;793;60,21;15;1,86;844;535;63,39;525;62,20;10;1,87
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0836;candidat;01;BENNAHMIAS Jean-Luc;42;9,72;0;0850;candidat;01;BENNAHMIAS Jean-Luc;51;7,38;0
+liste_bv;detail_bv;0836;candidat;02;GAUDIN Jean-Claude;273;63,19;1;0850;candidat;02;GAUDIN Jean-Claude;342;49,49;1
+liste_bv;detail_bv;0836;candidat;03;FRANCESCHI François;81;18,75;0;0850;candidat;03;FRANCESCHI François;237;34,30;0
+liste_bv;detail_bv;0836;candidat;04;BARDE Mireille;24;5,56;0;0850;candidat;04;BARDE Mireille;40;5,79;0
+liste_bv;detail_bv;0836;candidat;05;PIRROTTINA Louis-Michel;12;2,78;0;0850;candidat;05;PIRROTTINA Louis-Michel;21;3,04;0
+liste_bv;total_bv;706;444;62,89;432;61,19;12;2,70;1 128;708;62,77;691;61,26;17;2,40
+liste_bv;detail_bv;0851;candidat;01;BENNAHMIAS Jean-Luc;35;7,13;0;0852;candidat;01;BENNAHMIAS Jean-Luc;62;8,93;0
+liste_bv;detail_bv;0851;candidat;02;GAUDIN Jean-Claude;197;40,12;0;0852;candidat;02;GAUDIN Jean-Claude;367;52,88;1
+liste_bv;detail_bv;0851;candidat;03;FRANCESCHI François;202;41,14;1;0852;candidat;03;FRANCESCHI François;177;25,50;0
+liste_bv;detail_bv;0851;candidat;04;BARDE Mireille;24;4,89;0;0852;candidat;04;BARDE Mireille;69;9,94;0
+liste_bv;detail_bv;0851;candidat;05;PIRROTTINA Louis-Michel;33;6,72;0;0852;candidat;05;PIRROTTINA Louis-Michel;19;2,74;0
+liste_bv;total_bv;831;510;61,37;491;59,09;19;3,73;1 101;719;65,30;694;63,03;25;3,48
+liste_bv;detail_bv;0853;candidat;01;BENNAHMIAS Jean-Luc;22;3,91;0;0854;candidat;01;BENNAHMIAS Jean-Luc;48;8,51;0
+liste_bv;detail_bv;0853;candidat;02;GAUDIN Jean-Claude;345;61,28;1;0854;candidat;02;GAUDIN Jean-Claude;313;55,50;1
+liste_bv;detail_bv;0853;candidat;03;FRANCESCHI François;139;24,69;0;0854;candidat;03;FRANCESCHI François;145;25,71;0
+liste_bv;detail_bv;0853;candidat;04;BARDE Mireille;35;6,22;0;0854;candidat;04;BARDE Mireille;37;6,56;0
+liste_bv;detail_bv;0853;candidat;05;PIRROTTINA Louis-Michel;22;3,91;0;0854;candidat;05;PIRROTTINA Louis-Michel;21;3,72;0
+liste_bv;total_bv;945;573;60,63;563;59,58;10;1,75;910;573;62,97;564;61,98;9;1,57
+liste_bv;detail_bv;0855;candidat;01;BENNAHMIAS Jean-Luc;46;6,52;0;0856;candidat;01;BENNAHMIAS Jean-Luc;51;7,09;0
+liste_bv;detail_bv;0855;candidat;02;GAUDIN Jean-Claude;437;61,90;1;0856;candidat;02;GAUDIN Jean-Claude;400;55,63;1
+liste_bv;detail_bv;0855;candidat;03;FRANCESCHI François;164;23,23;0;0856;candidat;03;FRANCESCHI François;192;26,70;0
+liste_bv;detail_bv;0855;candidat;04;BARDE Mireille;39;5,52;0;0856;candidat;04;BARDE Mireille;44;6,12;0
+liste_bv;detail_bv;0855;candidat;05;PIRROTTINA Louis-Michel;20;2,83;0;0856;candidat;05;PIRROTTINA Louis-Michel;32;4,45;0
+liste_bv;total_bv;1 120;722;64,46;706;63,04;16;2,22;1 283;748;58,30;719;56,04;29;3,88
+liste_bv;detail_bv;0857;candidat;01;BENNAHMIAS Jean-Luc;62;9,70;0;0858;candidat;01;BENNAHMIAS Jean-Luc;57;8,17;0
+liste_bv;detail_bv;0857;candidat;02;GAUDIN Jean-Claude;313;48,98;1;0858;candidat;02;GAUDIN Jean-Claude;363;52,01;1
+liste_bv;detail_bv;0857;candidat;03;FRANCESCHI François;193;30,20;0;0858;candidat;03;FRANCESCHI François;202;28,94;0
+liste_bv;detail_bv;0857;candidat;04;BARDE Mireille;41;6,42;0;0858;candidat;04;BARDE Mireille;58;8,31;0
+liste_bv;detail_bv;0857;candidat;05;PIRROTTINA Louis-Michel;30;4,69;0;0858;candidat;05;PIRROTTINA Louis-Michel;18;2,58;0
+liste_bv;total_bv;1 095;659;60,18;639;58,36;20;3,03;1 209;709;58,64;698;57,73;11;1,55
+liste_bv;detail_bv;0859;candidat;01;BENNAHMIAS Jean-Luc;54;6,61;0;0860;candidat;01;BENNAHMIAS Jean-Luc;54;7,12;0
+liste_bv;detail_bv;0859;candidat;02;GAUDIN Jean-Claude;404;49,45;1;0860;candidat;02;GAUDIN Jean-Claude;389;51,32;1
+liste_bv;detail_bv;0859;candidat;03;FRANCESCHI François;257;31,46;0;0860;candidat;03;FRANCESCHI François;236;31,13;0
+liste_bv;detail_bv;0859;candidat;04;BARDE Mireille;62;7,59;0;0860;candidat;04;BARDE Mireille;46;6,07;0
+liste_bv;detail_bv;0859;candidat;05;PIRROTTINA Louis-Michel;40;4,90;0;0860;candidat;05;PIRROTTINA Louis-Michel;33;4,35;0
+liste_bv;total_bv;1 350;839;62,15;817;60,52;22;2,62;1 325;765;57,74;758;57,21;7;0,92
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0861;candidat;01;BENNAHMIAS Jean-Luc;47;8,44;0;0862;candidat;01;BENNAHMIAS Jean-Luc;71;10,64;0
+liste_bv;detail_bv;0861;candidat;02;GAUDIN Jean-Claude;280;50,27;1;0862;candidat;02;GAUDIN Jean-Claude;271;40,63;1
+liste_bv;detail_bv;0861;candidat;03;FRANCESCHI François;169;30,34;0;0862;candidat;03;FRANCESCHI François;233;34,93;0
+liste_bv;detail_bv;0861;candidat;04;BARDE Mireille;37;6,64;0;0862;candidat;04;BARDE Mireille;39;5,85;0
+liste_bv;detail_bv;0861;candidat;05;PIRROTTINA Louis-Michel;24;4,31;0;0862;candidat;05;PIRROTTINA Louis-Michel;53;7,95;0
+liste_bv;total_bv;906;565;62,36;557;61,48;8;1,42;1 063;680;63,97;667;62,75;13;1,91
+liste_bv;detail_bv;0863;candidat;01;BENNAHMIAS Jean-Luc;81;11,30;0;0864;candidat;01;BENNAHMIAS Jean-Luc;53;7,68;0
+liste_bv;detail_bv;0863;candidat;02;GAUDIN Jean-Claude;310;43,24;1;0864;candidat;02;GAUDIN Jean-Claude;383;55,51;1
+liste_bv;detail_bv;0863;candidat;03;FRANCESCHI François;227;31,66;0;0864;candidat;03;FRANCESCHI François;168;24,35;0
+liste_bv;detail_bv;0863;candidat;04;BARDE Mireille;50;6,97;0;0864;candidat;04;BARDE Mireille;58;8,41;0
+liste_bv;detail_bv;0863;candidat;05;PIRROTTINA Louis-Michel;49;6,83;0;0864;candidat;05;PIRROTTINA Louis-Michel;28;4,06;0
+liste_bv;total_bv;1 217;728;59,82;717;58,92;11;1,51;1 246;709;56,90;690;55,38;19;2,68
+liste_bv;detail_bv;0865;candidat;01;BENNAHMIAS Jean-Luc;49;7,64;0;0866;candidat;01;BENNAHMIAS Jean-Luc;74;9,32;0
+liste_bv;detail_bv;0865;candidat;02;GAUDIN Jean-Claude;353;55,07;1;0866;candidat;02;GAUDIN Jean-Claude;420;52,90;1
+liste_bv;detail_bv;0865;candidat;03;FRANCESCHI François;174;27,15;0;0866;candidat;03;FRANCESCHI François;202;25,44;0
+liste_bv;detail_bv;0865;candidat;04;BARDE Mireille;44;6,86;0;0866;candidat;04;BARDE Mireille;60;7,56;0
+liste_bv;detail_bv;0865;candidat;05;PIRROTTINA Louis-Michel;21;3,28;0;0866;candidat;05;PIRROTTINA Louis-Michel;38;4,79;0
+liste_bv;total_bv;1 068;663;62,08;641;60,02;22;3,32;1 304;810;62,12;794;60,89;16;1,98
+liste_bv;detail_bv;0867;candidat;01;BENNAHMIAS Jean-Luc;85;10,84;0;0868;candidat;01;BENNAHMIAS Jean-Luc;45;6,29;0
+liste_bv;detail_bv;0867;candidat;02;GAUDIN Jean-Claude;401;51,15;1;0868;candidat;02;GAUDIN Jean-Claude;398;55,66;1
+liste_bv;detail_bv;0867;candidat;03;FRANCESCHI François;197;25,13;0;0868;candidat;03;FRANCESCHI François;189;26,43;0
+liste_bv;detail_bv;0867;candidat;04;BARDE Mireille;56;7,14;0;0868;candidat;04;BARDE Mireille;54;7,55;0
+liste_bv;detail_bv;0867;candidat;05;PIRROTTINA Louis-Michel;45;5,74;0;0868;candidat;05;PIRROTTINA Louis-Michel;29;4,06;0
+liste_bv;total_bv;1 224;797;65,11;784;64,05;13;1,63;1 156;728;62,98;715;61,85;13;1,79
+liste_bv;detail_bv;0869;candidat;01;BENNAHMIAS Jean-Luc;47;6,58;0;0870;candidat;01;BENNAHMIAS Jean-Luc;25;3,85;0
+liste_bv;detail_bv;0869;candidat;02;GAUDIN Jean-Claude;386;54,06;1;0870;candidat;02;GAUDIN Jean-Claude;303;46,69;1
+liste_bv;detail_bv;0869;candidat;03;FRANCESCHI François;199;27,87;0;0870;candidat;03;FRANCESCHI François;228;35,13;0
+liste_bv;detail_bv;0869;candidat;04;BARDE Mireille;33;4,62;0;0870;candidat;04;BARDE Mireille;61;9,40;0
+liste_bv;detail_bv;0869;candidat;05;PIRROTTINA Louis-Michel;49;6,86;0;0870;candidat;05;PIRROTTINA Louis-Michel;32;4,93;0
+liste_bv;total_bv;1 168;736;63,01;714;61,13;22;2,99;1 052;671;63,78;649;61,69;22;3,28
+liste_bv;detail_bv;0871;candidat;01;BENNAHMIAS Jean-Luc;33;5,59;0;0872;candidat;01;BENNAHMIAS Jean-Luc;45;6,94;0
+liste_bv;detail_bv;0871;candidat;02;GAUDIN Jean-Claude;276;46,78;1;0872;candidat;02;GAUDIN Jean-Claude;318;49,07;1
+liste_bv;detail_bv;0871;candidat;03;FRANCESCHI François;196;33,22;0;0872;candidat;03;FRANCESCHI François;201;31,02;0
+liste_bv;detail_bv;0871;candidat;04;BARDE Mireille;43;7,29;0;0872;candidat;04;BARDE Mireille;33;5,09;0
+liste_bv;detail_bv;0871;candidat;05;PIRROTTINA Louis-Michel;42;7,12;0;0872;candidat;05;PIRROTTINA Louis-Michel;51;7,87;0
+liste_bv;total_bv;992;600;60,48;590;59,48;10;1,67;1 034;668;64,60;648;62,67;20;2,99
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0873;candidat;01;BENNAHMIAS Jean-Luc;62;12,20;0;;;;;;;
+liste_bv;detail_bv;0873;candidat;02;GAUDIN Jean-Claude;240;47,24;1;;;;;;;
+liste_bv;detail_bv;0873;candidat;03;FRANCESCHI François;167;32,87;0;;;;;;;
+liste_bv;detail_bv;0873;candidat;04;BARDE Mireille;27;5,31;0;;;;;;;
+liste_bv;detail_bv;0873;candidat;05;PIRROTTINA Louis-Michel;12;2,36;0;;;;;;;
+liste_bv;total_bv;801;514;64,17;508;63,42;6;1,17;;;;;;;
+detail;SECTEUR;05;candidat;01;TEISSIER Guy;21 493;48,81;1
+detail;SECTEUR;05;candidat;02;ZAOUI Patrick;2 546;5,78;0
+detail;SECTEUR;05;candidat;03;COLOMB Nicole;1 784;4,05;0
+detail;SECTEUR;05;candidat;04;OLMETA Rene;14 097;32,01;0
+detail;SECTEUR;05;candidat;05;COMAS Laurent;4 116;9,35;0
+total;76 730;44 841;58,44;44 036;57,39;805;1,80
+liste_bv;detail_bv;0901;candidat;01;TEISSIER Guy;55;39,01;1;0921;candidat;01;TEISSIER Guy;326;56,01;1
+liste_bv;detail_bv;0901;candidat;02;ZAOUI Patrick;6;4,26;0;0921;candidat;02;ZAOUI Patrick;38;6,53;0
+liste_bv;detail_bv;0901;candidat;03;COLOMB Nicole;2;1,42;0;0921;candidat;03;COLOMB Nicole;20;3,44;0
+liste_bv;detail_bv;0901;candidat;04;OLMETA Rene;51;36,17;0;0921;candidat;04;OLMETA Rene;149;25,60;0
+liste_bv;detail_bv;0901;candidat;05;COMAS Laurent;27;19,15;0;0921;candidat;05;COMAS Laurent;49;8,42;0
+liste_bv;total_bv;332;143;43,07;141;42,47;2;1,40;951;587;61,72;582;61,20;5;0,85
+liste_bv;detail_bv;0922;candidat;01;TEISSIER Guy;153;46,79;1;0923;candidat;01;TEISSIER Guy;177;43,60;1
+liste_bv;detail_bv;0922;candidat;02;ZAOUI Patrick;9;2,75;0;0923;candidat;02;ZAOUI Patrick;23;5,67;0
+liste_bv;detail_bv;0922;candidat;03;COLOMB Nicole;17;5,20;0;0923;candidat;03;COLOMB Nicole;18;4,43;0
+liste_bv;detail_bv;0922;candidat;04;OLMETA Rene;112;34,25;0;0923;candidat;04;OLMETA Rene;143;35,22;0
+liste_bv;detail_bv;0922;candidat;05;COMAS Laurent;36;11,01;0;0923;candidat;05;COMAS Laurent;45;11,08;0
+liste_bv;total_bv;547;332;60,69;327;59,78;5;1,51;887;415;46,79;406;45,77;9;2,17
+liste_bv;detail_bv;0924;candidat;01;TEISSIER Guy;211;46,89;1;0925;candidat;01;TEISSIER Guy;240;52,17;1
+liste_bv;detail_bv;0924;candidat;02;ZAOUI Patrick;33;7,33;0;0925;candidat;02;ZAOUI Patrick;25;5,43;0
+liste_bv;detail_bv;0924;candidat;03;COLOMB Nicole;18;4,00;0;0925;candidat;03;COLOMB Nicole;13;2,83;0
+liste_bv;detail_bv;0924;candidat;04;OLMETA Rene;148;32,89;0;0925;candidat;04;OLMETA Rene;141;30,65;0
+liste_bv;detail_bv;0924;candidat;05;COMAS Laurent;40;8,89;0;0925;candidat;05;COMAS Laurent;41;8,91;0
+liste_bv;total_bv;719;458;63,70;450;62,59;8;1,75;849;479;56,42;460;54,18;19;3,97
+liste_bv;detail_bv;0926;candidat;01;TEISSIER Guy;137;45,21;1;0927;candidat;01;TEISSIER Guy;399;51,68;1
+liste_bv;detail_bv;0926;candidat;02;ZAOUI Patrick;13;4,29;0;0927;candidat;02;ZAOUI Patrick;50;6,48;0
+liste_bv;detail_bv;0926;candidat;03;COLOMB Nicole;11;3,63;0;0927;candidat;03;COLOMB Nicole;34;4,40;0
+liste_bv;detail_bv;0926;candidat;04;OLMETA Rene;105;34,65;0;0927;candidat;04;OLMETA Rene;225;29,15;0
+liste_bv;detail_bv;0926;candidat;05;COMAS Laurent;37;12,21;0;0927;candidat;05;COMAS Laurent;64;8,29;0
+liste_bv;total_bv;593;308;51,94;303;51,10;5;1,62;1 347;788;58,50;772;57,31;16;2,03
+liste_bv;detail_bv;0928;candidat;01;TEISSIER Guy;332;44,93;1;0929;candidat;01;TEISSIER Guy;296;57,36;1
+liste_bv;detail_bv;0928;candidat;02;ZAOUI Patrick;43;5,82;0;0929;candidat;02;ZAOUI Patrick;40;7,75;0
+liste_bv;detail_bv;0928;candidat;03;COLOMB Nicole;43;5,82;0;0929;candidat;03;COLOMB Nicole;8;1,55;0
+liste_bv;detail_bv;0928;candidat;04;OLMETA Rene;225;30,45;0;0929;candidat;04;OLMETA Rene;126;24,42;0
+liste_bv;detail_bv;0928;candidat;05;COMAS Laurent;96;12,99;0;0929;candidat;05;COMAS Laurent;46;8,91;0
+liste_bv;total_bv;1 260;747;59,29;739;58,65;8;1,07;919;519;56,47;516;56,15;3;0,58
+liste_bv;detail_bv;0930;candidat;01;TEISSIER Guy;320;55,75;1;0931;candidat;01;TEISSIER Guy;307;47,16;1
+liste_bv;detail_bv;0930;candidat;02;ZAOUI Patrick;27;4,70;0;0931;candidat;02;ZAOUI Patrick;46;7,07;0
+liste_bv;detail_bv;0930;candidat;03;COLOMB Nicole;14;2,44;0;0931;candidat;03;COLOMB Nicole;21;3,23;0
+liste_bv;detail_bv;0930;candidat;04;OLMETA Rene;170;29,62;0;0931;candidat;04;OLMETA Rene;221;33,95;0
+liste_bv;detail_bv;0930;candidat;05;COMAS Laurent;43;7,49;0;0931;candidat;05;COMAS Laurent;56;8,60;0
+liste_bv;total_bv;1 003;588;58,62;574;57,23;14;2,38;1 250;660;52,80;651;52,08;9;1,36
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0932;candidat;01;TEISSIER Guy;221;40,70;1;0934;candidat;01;TEISSIER Guy;274;44,55;1
+liste_bv;detail_bv;0932;candidat;02;ZAOUI Patrick;37;6,81;0;0934;candidat;02;ZAOUI Patrick;26;4,23;0
+liste_bv;detail_bv;0932;candidat;03;COLOMB Nicole;37;6,81;0;0934;candidat;03;COLOMB Nicole;30;4,88;0
+liste_bv;detail_bv;0932;candidat;04;OLMETA Rene;175;32,23;0;0934;candidat;04;OLMETA Rene;194;31,54;0
+liste_bv;detail_bv;0932;candidat;05;COMAS Laurent;73;13,44;0;0934;candidat;05;COMAS Laurent;91;14,80;0
+liste_bv;total_bv;994;560;56,34;543;54,63;17;3,04;1 078;625;57,98;615;57,05;10;1,60
+liste_bv;detail_bv;0935;candidat;01;TEISSIER Guy;154;53,47;1;0936;candidat;01;TEISSIER Guy;192;47,88;1
+liste_bv;detail_bv;0935;candidat;02;ZAOUI Patrick;15;5,21;0;0936;candidat;02;ZAOUI Patrick;11;2,74;0
+liste_bv;detail_bv;0935;candidat;03;COLOMB Nicole;7;2,43;0;0936;candidat;03;COLOMB Nicole;28;6,98;0
+liste_bv;detail_bv;0935;candidat;04;OLMETA Rene;89;30,90;0;0936;candidat;04;OLMETA Rene;142;35,41;0
+liste_bv;detail_bv;0935;candidat;05;COMAS Laurent;23;7,99;0;0936;candidat;05;COMAS Laurent;28;6,98;0
+liste_bv;total_bv;529;295;55,77;288;54,44;7;2,37;719;412;57,30;401;55,77;11;2,67
+liste_bv;detail_bv;0949;candidat;01;TEISSIER Guy;190;48,22;1;0950;candidat;01;TEISSIER Guy;239;52,18;1
+liste_bv;detail_bv;0949;candidat;02;ZAOUI Patrick;25;6,35;0;0950;candidat;02;ZAOUI Patrick;46;10,04;0
+liste_bv;detail_bv;0949;candidat;03;COLOMB Nicole;15;3,81;0;0950;candidat;03;COLOMB Nicole;26;5,68;0
+liste_bv;detail_bv;0949;candidat;04;OLMETA Rene;126;31,98;0;0950;candidat;04;OLMETA Rene;121;26,42;0
+liste_bv;detail_bv;0949;candidat;05;COMAS Laurent;38;9,64;0;0950;candidat;05;COMAS Laurent;26;5,68;0
+liste_bv;total_bv;648;400;61,73;394;60,80;6;1,50;725;470;64,83;458;63,17;12;2,55
+liste_bv;detail_bv;0951;candidat;01;TEISSIER Guy;388;53,30;1;0952;candidat;01;TEISSIER Guy;480;56,34;1
+liste_bv;detail_bv;0951;candidat;02;ZAOUI Patrick;45;6,18;0;0952;candidat;02;ZAOUI Patrick;37;4,34;0
+liste_bv;detail_bv;0951;candidat;03;COLOMB Nicole;29;3,98;0;0952;candidat;03;COLOMB Nicole;32;3,76;0
+liste_bv;detail_bv;0951;candidat;04;OLMETA Rene;197;27,06;0;0952;candidat;04;OLMETA Rene;222;26,06;0
+liste_bv;detail_bv;0951;candidat;05;COMAS Laurent;69;9,48;0;0952;candidat;05;COMAS Laurent;81;9,51;0
+liste_bv;total_bv;1 209;749;61,95;728;60,22;21;2,80;1 353;874;64,60;852;62,97;22;2,52
+liste_bv;detail_bv;0953;candidat;01;TEISSIER Guy;291;52,53;1;0954;candidat;01;TEISSIER Guy;208;42,11;1
+liste_bv;detail_bv;0953;candidat;02;ZAOUI Patrick;20;3,61;0;0954;candidat;02;ZAOUI Patrick;17;3,44;0
+liste_bv;detail_bv;0953;candidat;03;COLOMB Nicole;20;3,61;0;0954;candidat;03;COLOMB Nicole;21;4,25;0
+liste_bv;detail_bv;0953;candidat;04;OLMETA Rene;166;29,96;0;0954;candidat;04;OLMETA Rene;193;39,07;0
+liste_bv;detail_bv;0953;candidat;05;COMAS Laurent;57;10,29;0;0954;candidat;05;COMAS Laurent;55;11,13;0
+liste_bv;total_bv;982;564;57,43;554;56,42;10;1,77;872;504;57,80;494;56,65;10;1,98
+liste_bv;detail_bv;0955;candidat;01;TEISSIER Guy;410;55,26;1;0956;candidat;01;TEISSIER Guy;212;34,47;0
+liste_bv;detail_bv;0955;candidat;02;ZAOUI Patrick;51;6,87;0;0956;candidat;02;ZAOUI Patrick;35;5,69;0
+liste_bv;detail_bv;0955;candidat;03;COLOMB Nicole;23;3,10;0;0956;candidat;03;COLOMB Nicole;28;4,55;0
+liste_bv;detail_bv;0955;candidat;04;OLMETA Rene;215;28,98;0;0956;candidat;04;OLMETA Rene;290;47,15;1
+liste_bv;detail_bv;0955;candidat;05;COMAS Laurent;43;5,80;0;0956;candidat;05;COMAS Laurent;50;8,13;0
+liste_bv;total_bv;1 140;756;66,32;742;65,09;14;1,85;1 215;627;51,60;615;50,62;12;1,91
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0957;candidat;01;TEISSIER Guy;344;52,04;1;0958;candidat;01;TEISSIER Guy;261;52,83;1
+liste_bv;detail_bv;0957;candidat;02;ZAOUI Patrick;31;4,69;0;0958;candidat;02;ZAOUI Patrick;24;4,86;0
+liste_bv;detail_bv;0957;candidat;03;COLOMB Nicole;47;7,11;0;0958;candidat;03;COLOMB Nicole;15;3,04;0
+liste_bv;detail_bv;0957;candidat;04;OLMETA Rene;174;26,32;0;0958;candidat;04;OLMETA Rene;165;33,40;0
+liste_bv;detail_bv;0957;candidat;05;COMAS Laurent;65;9,83;0;0958;candidat;05;COMAS Laurent;29;5,87;0
+liste_bv;total_bv;1 074;671;62,48;661;61,55;10;1,49;793;498;62,80;494;62,30;4;0,80
+liste_bv;detail_bv;0959;candidat;01;TEISSIER Guy;348;52,33;1;0960;candidat;01;TEISSIER Guy;404;52,95;1
+liste_bv;detail_bv;0959;candidat;02;ZAOUI Patrick;32;4,81;0;0960;candidat;02;ZAOUI Patrick;41;5,37;0
+liste_bv;detail_bv;0959;candidat;03;COLOMB Nicole;36;5,41;0;0960;candidat;03;COLOMB Nicole;25;3,28;0
+liste_bv;detail_bv;0959;candidat;04;OLMETA Rene;188;28,27;0;0960;candidat;04;OLMETA Rene;249;32,63;0
+liste_bv;detail_bv;0959;candidat;05;COMAS Laurent;61;9,17;0;0960;candidat;05;COMAS Laurent;44;5,77;0
+liste_bv;total_bv;1 064;678;63,72;665;62,50;13;1,92;1 215;769;63,29;763;62,80;6;0,78
+liste_bv;detail_bv;0961;candidat;01;TEISSIER Guy;317;60,04;1;0962;candidat;01;TEISSIER Guy;426;56,57;1
+liste_bv;detail_bv;0961;candidat;02;ZAOUI Patrick;32;6,06;0;0962;candidat;02;ZAOUI Patrick;55;7,30;0
+liste_bv;detail_bv;0961;candidat;03;COLOMB Nicole;17;3,22;0;0962;candidat;03;COLOMB Nicole;20;2,66;0
+liste_bv;detail_bv;0961;candidat;04;OLMETA Rene;124;23,48;0;0962;candidat;04;OLMETA Rene;215;28,55;0
+liste_bv;detail_bv;0961;candidat;05;COMAS Laurent;38;7,20;0;0962;candidat;05;COMAS Laurent;37;4,91;0
+liste_bv;total_bv;877;538;61,35;528;60,21;10;1,86;1 261;762;60,43;753;59,71;9;1,18
+liste_bv;detail_bv;0963;candidat;01;TEISSIER Guy;382;64,75;1;0964;candidat;01;TEISSIER Guy;318;59,44;1
+liste_bv;detail_bv;0963;candidat;02;ZAOUI Patrick;42;7,12;0;0964;candidat;02;ZAOUI Patrick;27;5,05;0
+liste_bv;detail_bv;0963;candidat;03;COLOMB Nicole;7;1,19;0;0964;candidat;03;COLOMB Nicole;14;2,62;0
+liste_bv;detail_bv;0963;candidat;04;OLMETA Rene;123;20,85;0;0964;candidat;04;OLMETA Rene;143;26,73;0
+liste_bv;detail_bv;0963;candidat;05;COMAS Laurent;36;6,10;0;0964;candidat;05;COMAS Laurent;33;6,17;0
+liste_bv;total_bv;900;601;66,78;590;65,56;11;1,83;857;542;63,24;535;62,43;7;1,29
+liste_bv;detail_bv;0965;candidat;01;TEISSIER Guy;477;60,53;1;0966;candidat;01;TEISSIER Guy;515;62,42;1
+liste_bv;detail_bv;0965;candidat;02;ZAOUI Patrick;40;5,08;0;0966;candidat;02;ZAOUI Patrick;56;6,79;0
+liste_bv;detail_bv;0965;candidat;03;COLOMB Nicole;15;1,90;0;0966;candidat;03;COLOMB Nicole;24;2,91;0
+liste_bv;detail_bv;0965;candidat;04;OLMETA Rene;192;24,37;0;0966;candidat;04;OLMETA Rene;183;22,18;0
+liste_bv;detail_bv;0965;candidat;05;COMAS Laurent;64;8,12;0;0966;candidat;05;COMAS Laurent;47;5,70;0
+liste_bv;total_bv;1 264;803;63,53;788;62,34;15;1,87;1 292;832;64,40;825;63,85;7;0,84
+liste_bv;detail_bv;0967;candidat;01;TEISSIER Guy;251;59,20;1;0968;candidat;01;TEISSIER Guy;339;54,24;1
+liste_bv;detail_bv;0967;candidat;02;ZAOUI Patrick;24;5,66;0;0968;candidat;02;ZAOUI Patrick;43;6,88;0
+liste_bv;detail_bv;0967;candidat;03;COLOMB Nicole;9;2,12;0;0968;candidat;03;COLOMB Nicole;31;4,96;0
+liste_bv;detail_bv;0967;candidat;04;OLMETA Rene;121;28,54;0;0968;candidat;04;OLMETA Rene;183;29,28;0
+liste_bv;detail_bv;0967;candidat;05;COMAS Laurent;19;4,48;0;0968;candidat;05;COMAS Laurent;29;4,64;0
+liste_bv;total_bv;716;426;59,50;424;59,22;2;0,47;1 075;630;58,60;625;58,14;5;0,79
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;0969;candidat;01;TEISSIER Guy;242;50,95;1;0970;candidat;01;TEISSIER Guy;281;47,15;1
+liste_bv;detail_bv;0969;candidat;02;ZAOUI Patrick;35;7,37;0;0970;candidat;02;ZAOUI Patrick;38;6,38;0
+liste_bv;detail_bv;0969;candidat;03;COLOMB Nicole;19;4,00;0;0970;candidat;03;COLOMB Nicole;39;6,54;0
+liste_bv;detail_bv;0969;candidat;04;OLMETA Rene;144;30,32;0;0970;candidat;04;OLMETA Rene;185;31,04;0
+liste_bv;detail_bv;0969;candidat;05;COMAS Laurent;35;7,37;0;0970;candidat;05;COMAS Laurent;53;8,89;0
+liste_bv;total_bv;846;479;56,62;475;56,15;4;0,84;996;599;60,14;596;59,84;3;0,50
+liste_bv;detail_bv;0971;candidat;01;TEISSIER Guy;317;54,75;1;0972;candidat;01;TEISSIER Guy;361;50,14;1
+liste_bv;detail_bv;0971;candidat;02;ZAOUI Patrick;44;7,60;0;0972;candidat;02;ZAOUI Patrick;55;7,64;0
+liste_bv;detail_bv;0971;candidat;03;COLOMB Nicole;27;4,66;0;0972;candidat;03;COLOMB Nicole;29;4,03;0
+liste_bv;detail_bv;0971;candidat;04;OLMETA Rene;152;26,25;0;0972;candidat;04;OLMETA Rene;205;28,47;0
+liste_bv;detail_bv;0971;candidat;05;COMAS Laurent;39;6,74;0;0972;candidat;05;COMAS Laurent;70;9,72;0
+liste_bv;total_bv;980;588;60,00;579;59,08;9;1,53;1 295;734;56,68;720;55,60;14;1,91
+liste_bv;detail_bv;0973;candidat;01;TEISSIER Guy;279;53,24;1;0974;candidat;01;TEISSIER Guy;470;56,69;1
+liste_bv;detail_bv;0973;candidat;02;ZAOUI Patrick;32;6,11;0;0974;candidat;02;ZAOUI Patrick;54;6,51;0
+liste_bv;detail_bv;0973;candidat;03;COLOMB Nicole;16;3,05;0;0974;candidat;03;COLOMB Nicole;38;4,58;0
+liste_bv;detail_bv;0973;candidat;04;OLMETA Rene;156;29,77;0;0974;candidat;04;OLMETA Rene;211;25,45;0
+liste_bv;detail_bv;0973;candidat;05;COMAS Laurent;41;7,82;0;0974;candidat;05;COMAS Laurent;56;6,76;0
+liste_bv;total_bv;897;530;59,09;524;58,42;6;1,13;1 313;838;63,82;829;63,14;9;1,07
+liste_bv;detail_bv;0975;candidat;01;TEISSIER Guy;100;38,76;0;0976;candidat;01;TEISSIER Guy;240;42,40;1
+liste_bv;detail_bv;0975;candidat;02;ZAOUI Patrick;4;1,55;0;0976;candidat;02;ZAOUI Patrick;36;6,36;0
+liste_bv;detail_bv;0975;candidat;03;COLOMB Nicole;13;5,04;0;0976;candidat;03;COLOMB Nicole;22;3,89;0
+liste_bv;detail_bv;0975;candidat;04;OLMETA Rene;110;42,64;1;0976;candidat;04;OLMETA Rene;205;36,22;0
+liste_bv;detail_bv;0975;candidat;05;COMAS Laurent;31;12,02;0;0976;candidat;05;COMAS Laurent;63;11,13;0
+liste_bv;total_bv;466;260;55,79;258;55,36;2;0,77;1 041;577;55,43;566;54,37;11;1,91
+liste_bv;detail_bv;0977;candidat;01;TEISSIER Guy;414;62,63;1;0978;candidat;01;TEISSIER Guy;229;39,55;1
+liste_bv;detail_bv;0977;candidat;02;ZAOUI Patrick;51;7,72;0;0978;candidat;02;ZAOUI Patrick;40;6,91;0
+liste_bv;detail_bv;0977;candidat;03;COLOMB Nicole;16;2,42;0;0978;candidat;03;COLOMB Nicole;43;7,43;0
+liste_bv;detail_bv;0977;candidat;04;OLMETA Rene;141;21,33;0;0978;candidat;04;OLMETA Rene;200;34,54;0
+liste_bv;detail_bv;0977;candidat;05;COMAS Laurent;39;5,90;0;0978;candidat;05;COMAS Laurent;67;11,57;0
+liste_bv;total_bv;1 082;670;61,92;661;61,09;9;1,34;933;592;63,45;579;62,06;13;2,20
+liste_bv;detail_bv;0979;candidat;01;TEISSIER Guy;237;47,02;1;0980;candidat;01;TEISSIER Guy;300;57,47;1
+liste_bv;detail_bv;0979;candidat;02;ZAOUI Patrick;36;7,14;0;0980;candidat;02;ZAOUI Patrick;39;7,47;0
+liste_bv;detail_bv;0979;candidat;03;COLOMB Nicole;32;6,35;0;0980;candidat;03;COLOMB Nicole;13;2,49;0
+liste_bv;detail_bv;0979;candidat;04;OLMETA Rene;138;27,38;0;0980;candidat;04;OLMETA Rene;157;30,08;0
+liste_bv;detail_bv;0979;candidat;05;COMAS Laurent;61;12,10;0;0980;candidat;05;COMAS Laurent;13;2,49;0
+liste_bv;total_bv;895;515;57,54;504;56,31;11;2,14;802;528;65,84;522;65,09;6;1,14
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1001;candidat;01;TEISSIER Guy;139;40,76;1;1002;candidat;01;TEISSIER Guy;216;38,37;0
+liste_bv;detail_bv;1001;candidat;02;ZAOUI Patrick;23;6,74;0;1002;candidat;02;ZAOUI Patrick;24;4,26;0
+liste_bv;detail_bv;1001;candidat;03;COLOMB Nicole;12;3,52;0;1002;candidat;03;COLOMB Nicole;23;4,09;0
+liste_bv;detail_bv;1001;candidat;04;OLMETA Rene;130;38,12;0;1002;candidat;04;OLMETA Rene;254;45,12;1
+liste_bv;detail_bv;1001;candidat;05;COMAS Laurent;37;10,85;0;1002;candidat;05;COMAS Laurent;46;8,17;0
+liste_bv;total_bv;666;350;52,55;341;51,20;9;2,57;1 127;572;50,75;563;49,96;9;1,57
+liste_bv;detail_bv;1003;candidat;01;TEISSIER Guy;252;39,62;1;1004;candidat;01;TEISSIER Guy;225;40,25;1
+liste_bv;detail_bv;1003;candidat;02;ZAOUI Patrick;55;8,65;0;1004;candidat;02;ZAOUI Patrick;42;7,51;0
+liste_bv;detail_bv;1003;candidat;03;COLOMB Nicole;35;5,50;0;1004;candidat;03;COLOMB Nicole;15;2,68;0
+liste_bv;detail_bv;1003;candidat;04;OLMETA Rene;204;32,08;0;1004;candidat;04;OLMETA Rene;194;34,70;0
+liste_bv;detail_bv;1003;candidat;05;COMAS Laurent;90;14,15;0;1004;candidat;05;COMAS Laurent;83;14,85;0
+liste_bv;total_bv;1 217;647;53,16;636;52,26;11;1,70;973;571;58,68;559;57,45;12;2,10
+liste_bv;detail_bv;1005;candidat;01;TEISSIER Guy;139;37,27;0;1006;candidat;01;TEISSIER Guy;190;36,82;0
+liste_bv;detail_bv;1005;candidat;02;ZAOUI Patrick;23;6,17;0;1006;candidat;02;ZAOUI Patrick;25;4,84;0
+liste_bv;detail_bv;1005;candidat;03;COLOMB Nicole;18;4,83;0;1006;candidat;03;COLOMB Nicole;23;4,46;0
+liste_bv;detail_bv;1005;candidat;04;OLMETA Rene;146;39,14;1;1006;candidat;04;OLMETA Rene;202;39,15;1
+liste_bv;detail_bv;1005;candidat;05;COMAS Laurent;47;12,60;0;1006;candidat;05;COMAS Laurent;76;14,73;0
+liste_bv;total_bv;665;377;56,69;373;56,09;4;1,06;1 043;525;50,34;516;49,47;9;1,71
+liste_bv;detail_bv;1007;candidat;01;TEISSIER Guy;169;34,35;0;1008;candidat;01;TEISSIER Guy;234;44,66;1
+liste_bv;detail_bv;1007;candidat;02;ZAOUI Patrick;23;4,67;0;1008;candidat;02;ZAOUI Patrick;31;5,92;0
+liste_bv;detail_bv;1007;candidat;03;COLOMB Nicole;24;4,88;0;1008;candidat;03;COLOMB Nicole;21;4,01;0
+liste_bv;detail_bv;1007;candidat;04;OLMETA Rene;188;38,21;1;1008;candidat;04;OLMETA Rene;168;32,06;0
+liste_bv;detail_bv;1007;candidat;05;COMAS Laurent;88;17,89;0;1008;candidat;05;COMAS Laurent;70;13,36;0
+liste_bv;total_bv;814;504;61,92;492;60,44;12;2,38;979;535;54,65;524;53,52;11;2,06
+liste_bv;detail_bv;1021;candidat;01;TEISSIER Guy;217;40,11;1;1022;candidat;01;TEISSIER Guy;199;45,64;1
+liste_bv;detail_bv;1021;candidat;02;ZAOUI Patrick;19;3,51;0;1022;candidat;02;ZAOUI Patrick;30;6,88;0
+liste_bv;detail_bv;1021;candidat;03;COLOMB Nicole;29;5,36;0;1022;candidat;03;COLOMB Nicole;19;4,36;0
+liste_bv;detail_bv;1021;candidat;04;OLMETA Rene;212;39,19;0;1022;candidat;04;OLMETA Rene;140;32,11;0
+liste_bv;detail_bv;1021;candidat;05;COMAS Laurent;64;11,83;0;1022;candidat;05;COMAS Laurent;48;11,01;0
+liste_bv;total_bv;916;550;60,04;541;59,06;9;1,64;677;445;65,73;436;64,40;9;2,02
+liste_bv;detail_bv;1041;candidat;01;TEISSIER Guy;129;37,39;0;1061;candidat;01;TEISSIER Guy;294;45,58;1
+liste_bv;detail_bv;1041;candidat;02;ZAOUI Patrick;6;1,74;0;1061;candidat;02;ZAOUI Patrick;47;7,29;0
+liste_bv;detail_bv;1041;candidat;03;COLOMB Nicole;7;2,03;0;1061;candidat;03;COLOMB Nicole;29;4,50;0
+liste_bv;detail_bv;1041;candidat;04;OLMETA Rene;172;49,86;1;1061;candidat;04;OLMETA Rene;210;32,56;0
+liste_bv;detail_bv;1041;candidat;05;COMAS Laurent;31;8,99;0;1061;candidat;05;COMAS Laurent;65;10,08;0
+liste_bv;total_bv;565;352;62,30;345;61,06;7;1,99;1 121;663;59,14;645;57,54;18;2,71
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1062;candidat;01;TEISSIER Guy;195;38,09;0;1063;candidat;01;TEISSIER Guy;226;45,84;1
+liste_bv;detail_bv;1062;candidat;02;ZAOUI Patrick;20;3,91;0;1063;candidat;02;ZAOUI Patrick;19;3,85;0
+liste_bv;detail_bv;1062;candidat;03;COLOMB Nicole;22;4,30;0;1063;candidat;03;COLOMB Nicole;23;4,67;0
+liste_bv;detail_bv;1062;candidat;04;OLMETA Rene;222;43,36;1;1063;candidat;04;OLMETA Rene;173;35,09;0
+liste_bv;detail_bv;1062;candidat;05;COMAS Laurent;53;10,35;0;1063;candidat;05;COMAS Laurent;52;10,55;0
+liste_bv;total_bv;1 100;524;47,64;512;46,55;12;2,29;938;505;53,84;493;52,56;12;2,38
+liste_bv;detail_bv;1064;candidat;01;TEISSIER Guy;322;47,99;1;1065;candidat;01;TEISSIER Guy;121;30,63;0
+liste_bv;detail_bv;1064;candidat;02;ZAOUI Patrick;42;6,26;0;1065;candidat;02;ZAOUI Patrick;42;10,63;0
+liste_bv;detail_bv;1064;candidat;03;COLOMB Nicole;15;2,24;0;1065;candidat;03;COLOMB Nicole;23;5,82;0
+liste_bv;detail_bv;1064;candidat;04;OLMETA Rene;224;33,38;0;1065;candidat;04;OLMETA Rene;185;46,84;1
+liste_bv;detail_bv;1064;candidat;05;COMAS Laurent;68;10,13;0;1065;candidat;05;COMAS Laurent;24;6,08;0
+liste_bv;total_bv;1 231;683;55,48;671;54,51;12;1,76;856;407;47,55;395;46,14;12;2,95
+liste_bv;detail_bv;1066;candidat;01;TEISSIER Guy;314;51,39;1;1067;candidat;01;TEISSIER Guy;289;48,41;1
+liste_bv;detail_bv;1066;candidat;02;ZAOUI Patrick;26;4,26;0;1067;candidat;02;ZAOUI Patrick;34;5,70;0
+liste_bv;detail_bv;1066;candidat;03;COLOMB Nicole;32;5,24;0;1067;candidat;03;COLOMB Nicole;17;2,85;0
+liste_bv;detail_bv;1066;candidat;04;OLMETA Rene;186;30,44;0;1067;candidat;04;OLMETA Rene;187;31,32;0
+liste_bv;detail_bv;1066;candidat;05;COMAS Laurent;53;8,67;0;1067;candidat;05;COMAS Laurent;70;11,73;0
+liste_bv;total_bv;1 031;623;60,43;611;59,26;12;1,93;1 084;612;56,46;597;55,07;15;2,45
+liste_bv;detail_bv;1068;candidat;01;TEISSIER Guy;305;44,85;1;1069;candidat;01;TEISSIER Guy;325;47,79;1
+liste_bv;detail_bv;1068;candidat;02;ZAOUI Patrick;30;4,41;0;1069;candidat;02;ZAOUI Patrick;38;5,59;0
+liste_bv;detail_bv;1068;candidat;03;COLOMB Nicole;10;1,47;0;1069;candidat;03;COLOMB Nicole;26;3,82;0
+liste_bv;detail_bv;1068;candidat;04;OLMETA Rene;250;36,76;0;1069;candidat;04;OLMETA Rene;231;33,97;0
+liste_bv;detail_bv;1068;candidat;05;COMAS Laurent;85;12,50;0;1069;candidat;05;COMAS Laurent;60;8,82;0
+liste_bv;total_bv;1 163;695;59,76;680;58,47;15;2,16;1 190;691;58,07;680;57,14;11;1,59
+liste_bv;detail_bv;1070;candidat;01;TEISSIER Guy;294;54,24;1;1071;candidat;01;TEISSIER Guy;367;50,00;1
+liste_bv;detail_bv;1070;candidat;02;ZAOUI Patrick;26;4,80;0;1071;candidat;02;ZAOUI Patrick;36;4,90;0
+liste_bv;detail_bv;1070;candidat;03;COLOMB Nicole;17;3,14;0;1071;candidat;03;COLOMB Nicole;38;5,18;0
+liste_bv;detail_bv;1070;candidat;04;OLMETA Rene;167;30,81;0;1071;candidat;04;OLMETA Rene;219;29,84;0
+liste_bv;detail_bv;1070;candidat;05;COMAS Laurent;38;7,01;0;1071;candidat;05;COMAS Laurent;74;10,08;0
+liste_bv;total_bv;930;549;59,03;542;58,28;7;1,28;1 324;746;56,34;734;55,44;12;1,61
+liste_bv;detail_bv;1072;candidat;01;TEISSIER Guy;237;43,25;1;1073;candidat;01;TEISSIER Guy;352;42,56;1
+liste_bv;detail_bv;1072;candidat;02;ZAOUI Patrick;25;4,56;0;1073;candidat;02;ZAOUI Patrick;39;4,72;0
+liste_bv;detail_bv;1072;candidat;03;COLOMB Nicole;20;3,65;0;1073;candidat;03;COLOMB Nicole;29;3,51;0
+liste_bv;detail_bv;1072;candidat;04;OLMETA Rene;201;36,68;0;1073;candidat;04;OLMETA Rene;342;41,35;0
+liste_bv;detail_bv;1072;candidat;05;COMAS Laurent;65;11,86;0;1073;candidat;05;COMAS Laurent;65;7,86;0
+liste_bv;total_bv;1 059;563;53,16;548;51,75;15;2,66;1 348;840;62,31;827;61,35;13;1,55
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1074;candidat;01;TEISSIER Guy;189;53,85;1;1075;candidat;01;TEISSIER Guy;288;46,98;1
+liste_bv;detail_bv;1074;candidat;02;ZAOUI Patrick;24;6,84;0;1075;candidat;02;ZAOUI Patrick;44;7,18;0
+liste_bv;detail_bv;1074;candidat;03;COLOMB Nicole;12;3,42;0;1075;candidat;03;COLOMB Nicole;25;4,08;0
+liste_bv;detail_bv;1074;candidat;04;OLMETA Rene;81;23,08;0;1075;candidat;04;OLMETA Rene;201;32,79;0
+liste_bv;detail_bv;1074;candidat;05;COMAS Laurent;45;12,82;0;1075;candidat;05;COMAS Laurent;55;8,97;0
+liste_bv;total_bv;616;357;57,95;351;56,98;6;1,68;1 094;620;56,67;613;56,03;7;1,13
+liste_bv;detail_bv;1076;candidat;01;TEISSIER Guy;356;47,53;1;1077;candidat;01;TEISSIER Guy;188;35,54;0
+liste_bv;detail_bv;1076;candidat;02;ZAOUI Patrick;29;3,87;0;1077;candidat;02;ZAOUI Patrick;21;3,97;0
+liste_bv;detail_bv;1076;candidat;03;COLOMB Nicole;33;4,41;0;1077;candidat;03;COLOMB Nicole;44;8,32;0
+liste_bv;detail_bv;1076;candidat;04;OLMETA Rene;257;34,31;0;1077;candidat;04;OLMETA Rene;218;41,21;1
+liste_bv;detail_bv;1076;candidat;05;COMAS Laurent;74;9,88;0;1077;candidat;05;COMAS Laurent;58;10,96;0
+liste_bv;total_bv;1 297;757;58,37;749;57,75;8;1,06;1 052;554;52,66;529;50,29;25;4,51
+liste_bv;detail_bv;1078;candidat;01;TEISSIER Guy;187;39,37;0;1079;candidat;01;TEISSIER Guy;231;44,51;1
+liste_bv;detail_bv;1078;candidat;02;ZAOUI Patrick;25;5,26;0;1079;candidat;02;ZAOUI Patrick;30;5,78;0
+liste_bv;detail_bv;1078;candidat;03;COLOMB Nicole;16;3,37;0;1079;candidat;03;COLOMB Nicole;28;5,39;0
+liste_bv;detail_bv;1078;candidat;04;OLMETA Rene;195;41,05;1;1079;candidat;04;OLMETA Rene;177;34,10;0
+liste_bv;detail_bv;1078;candidat;05;COMAS Laurent;52;10,95;0;1079;candidat;05;COMAS Laurent;53;10,21;0
+liste_bv;total_bv;802;487;60,72;475;59,23;12;2,46;948;531;56,01;519;54,75;12;2,26
+liste_bv;detail_bv;1080;candidat;01;TEISSIER Guy;240;51,06;1;;;;;;;
+liste_bv;detail_bv;1080;candidat;02;ZAOUI Patrick;19;4,04;0;;;;;;;
+liste_bv;detail_bv;1080;candidat;03;COLOMB Nicole;17;3,62;0;;;;;;;
+liste_bv;detail_bv;1080;candidat;04;OLMETA Rene;151;32,13;0;;;;;;;
+liste_bv;detail_bv;1080;candidat;05;COMAS Laurent;43;9,15;0;;;;;;;
+liste_bv;total_bv;849;486;57,24;470;55,36;16;3,29;;;;;;;
+detail;SECTEUR;06;candidat;01;BLUM  Roland;18 014;43,38;1
+detail;SECTEUR;06;candidat;02;ROUVIERE Jacky;144;0,35;0
+detail;SECTEUR;06;candidat;03;BELOTTI Francis;292;0,70;0
+detail;SECTEUR;06;candidat;04;NOBILE Jeanne;2 064;4,97;0
+detail;SECTEUR;06;candidat;05;DURBEC Stephane;3 627;8,73;0
+detail;SECTEUR;06;candidat;06;MASSE Christophe;15 874;38,22;0
+detail;SECTEUR;06;candidat;07;MALVEZIN Bruno;1 514;3,65;0
+total;72 366;42 391;58,58;41 529;57,39;862;2,03
+liste_bv;detail_bv;1101;candidat;01;BLUM  Roland;239;35,89;0;1102;candidat;01;BLUM  Roland;195;35,07;0
+liste_bv;detail_bv;1101;candidat;02;ROUVIERE Jacky;3;0,45;0;1102;candidat;02;ROUVIERE Jacky;4;0,72;0
+liste_bv;detail_bv;1101;candidat;03;BELOTTI Francis;14;2,10;0;1102;candidat;03;BELOTTI Francis;4;0,72;0
+liste_bv;detail_bv;1101;candidat;04;NOBILE Jeanne;41;6,16;0;1102;candidat;04;NOBILE Jeanne;21;3,78;0
+liste_bv;detail_bv;1101;candidat;05;DURBEC Stephane;49;7,36;0;1102;candidat;05;DURBEC Stephane;68;12,23;0
+liste_bv;detail_bv;1101;candidat;06;MASSE Christophe;308;46,25;1;1102;candidat;06;MASSE Christophe;253;45,50;1
+liste_bv;detail_bv;1101;candidat;07;MALVEZIN Bruno;12;1,80;0;1102;candidat;07;MALVEZIN Bruno;11;1,98;0
+liste_bv;total_bv;1 225;688;56,16;666;54,37;22;3,20;1 009;569;56,39;556;55,10;13;2,28
+liste_bv;detail_bv;1103;candidat;01;BLUM  Roland;84;20,79;0;1150;candidat;01;BLUM  Roland;95;24,36;0
+liste_bv;detail_bv;1103;candidat;02;ROUVIERE Jacky;1;0,25;0;1150;candidat;02;ROUVIERE Jacky;1;0,26;0
+liste_bv;detail_bv;1103;candidat;03;BELOTTI Francis;2;0,50;0;1150;candidat;03;BELOTTI Francis;3;0,77;0
+liste_bv;detail_bv;1103;candidat;04;NOBILE Jeanne;7;1,73;0;1150;candidat;04;NOBILE Jeanne;16;4,10;0
+liste_bv;detail_bv;1103;candidat;05;DURBEC Stephane;43;10,64;0;1150;candidat;05;DURBEC Stephane;52;13,33;0
+liste_bv;detail_bv;1103;candidat;06;MASSE Christophe;254;62,87;1;1150;candidat;06;MASSE Christophe;216;55,38;1
+liste_bv;detail_bv;1103;candidat;07;MALVEZIN Bruno;13;3,22;0;1150;candidat;07;MALVEZIN Bruno;7;1,79;0
+liste_bv;total_bv;834;417;50,00;404;48,44;13;3,12;729;405;55,56;390;53,50;15;3,70
+liste_bv;detail_bv;1151;candidat;01;BLUM  Roland;186;40,70;0;1152;candidat;01;BLUM  Roland;184;44,44;1
+liste_bv;detail_bv;1151;candidat;02;ROUVIERE Jacky;1;0,22;0;1152;candidat;02;ROUVIERE Jacky;3;0,72;0
+liste_bv;detail_bv;1151;candidat;03;BELOTTI Francis;1;0,22;0;1152;candidat;03;BELOTTI Francis;4;0,97;0
+liste_bv;detail_bv;1151;candidat;04;NOBILE Jeanne;25;5,47;0;1152;candidat;04;NOBILE Jeanne;21;5,07;0
+liste_bv;detail_bv;1151;candidat;05;DURBEC Stephane;39;8,53;0;1152;candidat;05;DURBEC Stephane;43;10,39;0
+liste_bv;detail_bv;1151;candidat;06;MASSE Christophe;190;41,58;1;1152;candidat;06;MASSE Christophe;150;36,23;0
+liste_bv;detail_bv;1151;candidat;07;MALVEZIN Bruno;15;3,28;0;1152;candidat;07;MALVEZIN Bruno;9;2,17;0
+liste_bv;total_bv;819;466;56,90;457;55,80;9;1,93;837;417;49,82;414;49,46;3;0,72
+liste_bv;detail_bv;1153;candidat;01;BLUM  Roland;85;25,99;0;1154;candidat;01;BLUM  Roland;157;37,29;0
+liste_bv;detail_bv;1153;candidat;02;ROUVIERE Jacky;1;0,31;0;1154;candidat;02;ROUVIERE Jacky;1;0,24;0
+liste_bv;detail_bv;1153;candidat;03;BELOTTI Francis;5;1,53;0;1154;candidat;03;BELOTTI Francis;3;0,71;0
+liste_bv;detail_bv;1153;candidat;04;NOBILE Jeanne;22;6,73;0;1154;candidat;04;NOBILE Jeanne;19;4,51;0
+liste_bv;detail_bv;1153;candidat;05;DURBEC Stephane;22;6,73;0;1154;candidat;05;DURBEC Stephane;48;11,40;0
+liste_bv;detail_bv;1153;candidat;06;MASSE Christophe;179;54,74;1;1154;candidat;06;MASSE Christophe;173;41,09;1
+liste_bv;detail_bv;1153;candidat;07;MALVEZIN Bruno;13;3,98;0;1154;candidat;07;MALVEZIN Bruno;20;4,75;0
+liste_bv;total_bv;886;333;37,58;327;36,91;6;1,80;815;432;53,01;421;51,66;11;2,55
+liste_bv;detail_bv;1155;candidat;01;BLUM  Roland;261;43,72;1;1156;candidat;01;BLUM  Roland;185;30,48;0
+liste_bv;detail_bv;1155;candidat;02;ROUVIERE Jacky;3;0,50;0;1156;candidat;02;ROUVIERE Jacky;6;0,99;0
+liste_bv;detail_bv;1155;candidat;03;BELOTTI Francis;3;0,50;0;1156;candidat;03;BELOTTI Francis;8;1,32;0
+liste_bv;detail_bv;1155;candidat;04;NOBILE Jeanne;28;4,69;0;1156;candidat;04;NOBILE Jeanne;22;3,62;0
+liste_bv;detail_bv;1155;candidat;05;DURBEC Stephane;61;10,22;0;1156;candidat;05;DURBEC Stephane;66;10,87;0
+liste_bv;detail_bv;1155;candidat;06;MASSE Christophe;215;36,01;0;1156;candidat;06;MASSE Christophe;291;47,94;1
+liste_bv;detail_bv;1155;candidat;07;MALVEZIN Bruno;26;4,36;0;1156;candidat;07;MALVEZIN Bruno;29;4,78;0
+liste_bv;total_bv;1 008;609;60,42;597;59,23;12;1,97;1 176;624;53,06;607;51,62;17;2,72
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1157;candidat;01;BLUM  Roland;156;32,84;0;1158;candidat;01;BLUM  Roland;210;39,92;0
+liste_bv;detail_bv;1157;candidat;02;ROUVIERE Jacky;7;1,47;0;1158;candidat;02;ROUVIERE Jacky;3;0,57;0
+liste_bv;detail_bv;1157;candidat;03;BELOTTI Francis;4;0,84;0;1158;candidat;03;BELOTTI Francis;8;1,52;0
+liste_bv;detail_bv;1157;candidat;04;NOBILE Jeanne;18;3,79;0;1158;candidat;04;NOBILE Jeanne;27;5,13;0
+liste_bv;detail_bv;1157;candidat;05;DURBEC Stephane;49;10,32;0;1158;candidat;05;DURBEC Stephane;39;7,41;0
+liste_bv;detail_bv;1157;candidat;06;MASSE Christophe;213;44,84;1;1158;candidat;06;MASSE Christophe;222;42,21;1
+liste_bv;detail_bv;1157;candidat;07;MALVEZIN Bruno;28;5,89;0;1158;candidat;07;MALVEZIN Bruno;17;3,23;0
+liste_bv;total_bv;935;487;52,09;475;50,80;12;2,46;900;539;59,89;526;58,44;13;2,41
+liste_bv;detail_bv;1159;candidat;01;BLUM  Roland;155;31,12;0;1160;candidat;01;BLUM  Roland;236;30,93;0
+liste_bv;detail_bv;1159;candidat;02;ROUVIERE Jacky;0;0,00;0;1160;candidat;02;ROUVIERE Jacky;4;0,52;0
+liste_bv;detail_bv;1159;candidat;03;BELOTTI Francis;1;0,20;0;1160;candidat;03;BELOTTI Francis;21;2,75;0
+liste_bv;detail_bv;1159;candidat;04;NOBILE Jeanne;16;3,21;0;1160;candidat;04;NOBILE Jeanne;28;3,67;0
+liste_bv;detail_bv;1159;candidat;05;DURBEC Stephane;47;9,44;0;1160;candidat;05;DURBEC Stephane;81;10,62;0
+liste_bv;detail_bv;1159;candidat;06;MASSE Christophe;268;53,82;1;1160;candidat;06;MASSE Christophe;364;47,71;1
+liste_bv;detail_bv;1159;candidat;07;MALVEZIN Bruno;11;2,21;0;1160;candidat;07;MALVEZIN Bruno;29;3,80;0
+liste_bv;total_bv;927;510;55,02;498;53,72;12;2,35;1 355;781;57,64;763;56,31;18;2,30
+liste_bv;detail_bv;1161;candidat;01;BLUM  Roland;192;30,72;0;1162;candidat;01;BLUM  Roland;160;37,83;0
+liste_bv;detail_bv;1161;candidat;02;ROUVIERE Jacky;5;0,80;0;1162;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1161;candidat;03;BELOTTI Francis;11;1,76;0;1162;candidat;03;BELOTTI Francis;5;1,18;0
+liste_bv;detail_bv;1161;candidat;04;NOBILE Jeanne;26;4,16;0;1162;candidat;04;NOBILE Jeanne;25;5,91;0
+liste_bv;detail_bv;1161;candidat;05;DURBEC Stephane;63;10,08;0;1162;candidat;05;DURBEC Stephane;34;8,04;0
+liste_bv;detail_bv;1161;candidat;06;MASSE Christophe;295;47,20;1;1162;candidat;06;MASSE Christophe;183;43,26;1
+liste_bv;detail_bv;1161;candidat;07;MALVEZIN Bruno;33;5,28;0;1162;candidat;07;MALVEZIN Bruno;16;3,78;0
+liste_bv;total_bv;1 268;644;50,79;625;49,29;19;2,95;721;430;59,64;423;58,67;7;1,63
+liste_bv;detail_bv;1163;candidat;01;BLUM  Roland;224;39,86;0;1164;candidat;01;BLUM  Roland;146;26,89;0
+liste_bv;detail_bv;1163;candidat;02;ROUVIERE Jacky;3;0,53;0;1164;candidat;02;ROUVIERE Jacky;3;0,55;0
+liste_bv;detail_bv;1163;candidat;03;BELOTTI Francis;4;0,71;0;1164;candidat;03;BELOTTI Francis;4;0,74;0
+liste_bv;detail_bv;1163;candidat;04;NOBILE Jeanne;24;4,27;0;1164;candidat;04;NOBILE Jeanne;6;1,10;0
+liste_bv;detail_bv;1163;candidat;05;DURBEC Stephane;51;9,07;0;1164;candidat;05;DURBEC Stephane;48;8,84;0
+liste_bv;detail_bv;1163;candidat;06;MASSE Christophe;238;42,35;1;1164;candidat;06;MASSE Christophe;307;56,54;1
+liste_bv;detail_bv;1163;candidat;07;MALVEZIN Bruno;18;3,20;0;1164;candidat;07;MALVEZIN Bruno;29;5,34;0
+liste_bv;total_bv;1 132;571;50,44;562;49,65;9;1,58;1 138;568;49,91;543;47,72;25;4,40
+liste_bv;detail_bv;1165;candidat;01;BLUM  Roland;254;34,56;0;1166;candidat;01;BLUM  Roland;164;34,53;0
+liste_bv;detail_bv;1165;candidat;02;ROUVIERE Jacky;4;0,54;0;1166;candidat;02;ROUVIERE Jacky;2;0,42;0
+liste_bv;detail_bv;1165;candidat;03;BELOTTI Francis;5;0,68;0;1166;candidat;03;BELOTTI Francis;6;1,26;0
+liste_bv;detail_bv;1165;candidat;04;NOBILE Jeanne;19;2,59;0;1166;candidat;04;NOBILE Jeanne;22;4,63;0
+liste_bv;detail_bv;1165;candidat;05;DURBEC Stephane;72;9,80;0;1166;candidat;05;DURBEC Stephane;44;9,26;0
+liste_bv;detail_bv;1165;candidat;06;MASSE Christophe;327;44,49;1;1166;candidat;06;MASSE Christophe;213;44,84;1
+liste_bv;detail_bv;1165;candidat;07;MALVEZIN Bruno;54;7,35;0;1166;candidat;07;MALVEZIN Bruno;24;5,05;0
+liste_bv;total_bv;1 328;744;56,02;735;55,35;9;1,21;991;490;49,45;475;47,93;15;3,06
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1167;candidat;01;BLUM  Roland;294;48,60;1;1168;candidat;01;BLUM  Roland;215;40,87;1
+liste_bv;detail_bv;1167;candidat;02;ROUVIERE Jacky;0;0,00;0;1168;candidat;02;ROUVIERE Jacky;4;0,76;0
+liste_bv;detail_bv;1167;candidat;03;BELOTTI Francis;1;0,17;0;1168;candidat;03;BELOTTI Francis;5;0,95;0
+liste_bv;detail_bv;1167;candidat;04;NOBILE Jeanne;42;6,94;0;1168;candidat;04;NOBILE Jeanne;17;3,23;0
+liste_bv;detail_bv;1167;candidat;05;DURBEC Stephane;46;7,60;0;1168;candidat;05;DURBEC Stephane;73;13,88;0
+liste_bv;detail_bv;1167;candidat;06;MASSE Christophe;204;33,72;0;1168;candidat;06;MASSE Christophe;198;37,64;0
+liste_bv;detail_bv;1167;candidat;07;MALVEZIN Bruno;18;2,98;0;1168;candidat;07;MALVEZIN Bruno;14;2,66;0
+liste_bv;total_bv;1 080;610;56,48;605;56,02;5;0,82;968;539;55,68;526;54,34;13;2,41
+liste_bv;detail_bv;1169;candidat;01;BLUM  Roland;299;44,49;1;1170;candidat;01;BLUM  Roland;373;47,28;1
+liste_bv;detail_bv;1169;candidat;02;ROUVIERE Jacky;1;0,15;0;1170;candidat;02;ROUVIERE Jacky;4;0,51;0
+liste_bv;detail_bv;1169;candidat;03;BELOTTI Francis;4;0,60;0;1170;candidat;03;BELOTTI Francis;3;0,38;0
+liste_bv;detail_bv;1169;candidat;04;NOBILE Jeanne;24;3,57;0;1170;candidat;04;NOBILE Jeanne;38;4,82;0
+liste_bv;detail_bv;1169;candidat;05;DURBEC Stephane;57;8,48;0;1170;candidat;05;DURBEC Stephane;53;6,72;0
+liste_bv;detail_bv;1169;candidat;06;MASSE Christophe;268;39,88;0;1170;candidat;06;MASSE Christophe;287;36,38;0
+liste_bv;detail_bv;1169;candidat;07;MALVEZIN Bruno;19;2,83;0;1170;candidat;07;MALVEZIN Bruno;31;3,93;0
+liste_bv;total_bv;1 186;683;57,59;672;56,66;11;1,61;1 257;802;63,80;789;62,77;13;1,62
+liste_bv;detail_bv;1171;candidat;01;BLUM  Roland;312;46,36;1;1172;candidat;01;BLUM  Roland;345;45,22;1
+liste_bv;detail_bv;1171;candidat;02;ROUVIERE Jacky;0;0,00;0;1172;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1171;candidat;03;BELOTTI Francis;1;0,15;0;1172;candidat;03;BELOTTI Francis;2;0,26;0
+liste_bv;detail_bv;1171;candidat;04;NOBILE Jeanne;37;5,50;0;1172;candidat;04;NOBILE Jeanne;40;5,24;0
+liste_bv;detail_bv;1171;candidat;05;DURBEC Stephane;45;6,69;0;1172;candidat;05;DURBEC Stephane;62;8,13;0
+liste_bv;detail_bv;1171;candidat;06;MASSE Christophe;245;36,40;0;1172;candidat;06;MASSE Christophe;283;37,09;0
+liste_bv;detail_bv;1171;candidat;07;MALVEZIN Bruno;33;4,90;0;1172;candidat;07;MALVEZIN Bruno;31;4,06;0
+liste_bv;total_bv;1 092;686;62,82;673;61,63;13;1,90;1 184;778;65,71;763;64,44;15;1,93
+liste_bv;detail_bv;1173;candidat;01;BLUM  Roland;279;43,32;1;1174;candidat;01;BLUM  Roland;256;41,76;1
+liste_bv;detail_bv;1173;candidat;02;ROUVIERE Jacky;1;0,16;0;1174;candidat;02;ROUVIERE Jacky;3;0,49;0
+liste_bv;detail_bv;1173;candidat;03;BELOTTI Francis;2;0,31;0;1174;candidat;03;BELOTTI Francis;1;0,16;0
+liste_bv;detail_bv;1173;candidat;04;NOBILE Jeanne;29;4,50;0;1174;candidat;04;NOBILE Jeanne;41;6,69;0
+liste_bv;detail_bv;1173;candidat;05;DURBEC Stephane;62;9,63;0;1174;candidat;05;DURBEC Stephane;52;8,48;0
+liste_bv;detail_bv;1173;candidat;06;MASSE Christophe;258;40,06;0;1174;candidat;06;MASSE Christophe;230;37,52;0
+liste_bv;detail_bv;1173;candidat;07;MALVEZIN Bruno;13;2,02;0;1174;candidat;07;MALVEZIN Bruno;30;4,89;0
+liste_bv;total_bv;1 101;654;59,40;644;58,49;10;1,53;989;624;63,09;613;61,98;11;1,76
+liste_bv;detail_bv;1175;candidat;01;BLUM  Roland;231;40,10;0;1176;candidat;01;BLUM  Roland;147;29,34;0
+liste_bv;detail_bv;1175;candidat;02;ROUVIERE Jacky;4;0,69;0;1176;candidat;02;ROUVIERE Jacky;3;0,60;0
+liste_bv;detail_bv;1175;candidat;03;BELOTTI Francis;6;1,04;0;1176;candidat;03;BELOTTI Francis;5;1,00;0
+liste_bv;detail_bv;1175;candidat;04;NOBILE Jeanne;23;3,99;0;1176;candidat;04;NOBILE Jeanne;16;3,19;0
+liste_bv;detail_bv;1175;candidat;05;DURBEC Stephane;46;7,99;0;1176;candidat;05;DURBEC Stephane;58;11,58;0
+liste_bv;detail_bv;1175;candidat;06;MASSE Christophe;237;41,15;1;1176;candidat;06;MASSE Christophe;236;47,11;1
+liste_bv;detail_bv;1175;candidat;07;MALVEZIN Bruno;29;5,03;0;1176;candidat;07;MALVEZIN Bruno;36;7,19;0
+liste_bv;total_bv;1 000;592;59,20;576;57,60;16;2,70;953;511;53,62;501;52,57;10;1,96
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1177;candidat;01;BLUM  Roland;371;45,58;1;1178;candidat;01;BLUM  Roland;196;35,57;0
+liste_bv;detail_bv;1177;candidat;02;ROUVIERE Jacky;4;0,49;0;1178;candidat;02;ROUVIERE Jacky;2;0,36;0
+liste_bv;detail_bv;1177;candidat;03;BELOTTI Francis;6;0,74;0;1178;candidat;03;BELOTTI Francis;9;1,63;0
+liste_bv;detail_bv;1177;candidat;04;NOBILE Jeanne;51;6,27;0;1178;candidat;04;NOBILE Jeanne;32;5,81;0
+liste_bv;detail_bv;1177;candidat;05;DURBEC Stephane;64;7,86;0;1178;candidat;05;DURBEC Stephane;56;10,16;0
+liste_bv;detail_bv;1177;candidat;06;MASSE Christophe;307;37,71;0;1178;candidat;06;MASSE Christophe;235;42,65;1
+liste_bv;detail_bv;1177;candidat;07;MALVEZIN Bruno;11;1,35;0;1178;candidat;07;MALVEZIN Bruno;21;3,81;0
+liste_bv;total_bv;1 330;834;62,71;814;61,20;20;2,40;980;562;57,35;551;56,22;11;1,96
+liste_bv;detail_bv;1179;candidat;01;BLUM  Roland;92;22,94;0;1201;candidat;01;BLUM  Roland;191;50,80;1
+liste_bv;detail_bv;1179;candidat;02;ROUVIERE Jacky;1;0,25;0;1201;candidat;02;ROUVIERE Jacky;2;0,53;0
+liste_bv;detail_bv;1179;candidat;03;BELOTTI Francis;0;0,00;0;1201;candidat;03;BELOTTI Francis;3;0,80;0
+liste_bv;detail_bv;1179;candidat;04;NOBILE Jeanne;8;2,00;0;1201;candidat;04;NOBILE Jeanne;30;7,98;0
+liste_bv;detail_bv;1179;candidat;05;DURBEC Stephane;10;2,49;0;1201;candidat;05;DURBEC Stephane;24;6,38;0
+liste_bv;detail_bv;1179;candidat;06;MASSE Christophe;283;70,57;1;1201;candidat;06;MASSE Christophe;113;30,05;0
+liste_bv;detail_bv;1179;candidat;07;MALVEZIN Bruno;7;1,75;0;1201;candidat;07;MALVEZIN Bruno;13;3,46;0
+liste_bv;total_bv;838;409;48,81;401;47,85;8;1,96;642;380;59,19;376;58,57;4;1,05
+liste_bv;detail_bv;1202;candidat;01;BLUM  Roland;328;49,32;1;1203;candidat;01;BLUM  Roland;423;52,74;1
+liste_bv;detail_bv;1202;candidat;02;ROUVIERE Jacky;1;0,15;0;1203;candidat;02;ROUVIERE Jacky;2;0,25;0
+liste_bv;detail_bv;1202;candidat;03;BELOTTI Francis;2;0,30;0;1203;candidat;03;BELOTTI Francis;4;0,50;0
+liste_bv;detail_bv;1202;candidat;04;NOBILE Jeanne;50;7,52;0;1203;candidat;04;NOBILE Jeanne;35;4,36;0
+liste_bv;detail_bv;1202;candidat;05;DURBEC Stephane;50;7,52;0;1203;candidat;05;DURBEC Stephane;76;9,48;0
+liste_bv;detail_bv;1202;candidat;06;MASSE Christophe;220;33,08;0;1203;candidat;06;MASSE Christophe;236;29,43;0
+liste_bv;detail_bv;1202;candidat;07;MALVEZIN Bruno;14;2,11;0;1203;candidat;07;MALVEZIN Bruno;26;3,24;0
+liste_bv;total_bv;1 053;681;64,67;665;63,15;16;2,35;1 396;820;58,74;802;57,45;18;2,20
+liste_bv;detail_bv;1204;candidat;01;BLUM  Roland;496;60,49;1;1205;candidat;01;BLUM  Roland;290;44,21;1
+liste_bv;detail_bv;1204;candidat;02;ROUVIERE Jacky;2;0,24;0;1205;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1204;candidat;03;BELOTTI Francis;6;0,73;0;1205;candidat;03;BELOTTI Francis;5;0,76;0
+liste_bv;detail_bv;1204;candidat;04;NOBILE Jeanne;52;6,34;0;1205;candidat;04;NOBILE Jeanne;23;3,51;0
+liste_bv;detail_bv;1204;candidat;05;DURBEC Stephane;57;6,95;0;1205;candidat;05;DURBEC Stephane;52;7,93;0
+liste_bv;detail_bv;1204;candidat;06;MASSE Christophe;180;21,95;0;1205;candidat;06;MASSE Christophe;269;41,01;0
+liste_bv;detail_bv;1204;candidat;07;MALVEZIN Bruno;27;3,29;0;1205;candidat;07;MALVEZIN Bruno;17;2,59;0
+liste_bv;total_bv;1 319;832;63,08;820;62,17;12;1,44;1 100;665;60,45;656;59,64;9;1,35
+liste_bv;detail_bv;1206;candidat;01;BLUM  Roland;428;54,38;1;1207;candidat;01;BLUM  Roland;243;49,49;1
+liste_bv;detail_bv;1206;candidat;02;ROUVIERE Jacky;1;0,13;0;1207;candidat;02;ROUVIERE Jacky;1;0,20;0
+liste_bv;detail_bv;1206;candidat;03;BELOTTI Francis;6;0,76;0;1207;candidat;03;BELOTTI Francis;1;0,20;0
+liste_bv;detail_bv;1206;candidat;04;NOBILE Jeanne;36;4,57;0;1207;candidat;04;NOBILE Jeanne;29;5,91;0
+liste_bv;detail_bv;1206;candidat;05;DURBEC Stephane;46;5,84;0;1207;candidat;05;DURBEC Stephane;32;6,52;0
+liste_bv;detail_bv;1206;candidat;06;MASSE Christophe;244;31,00;0;1207;candidat;06;MASSE Christophe;167;34,01;0
+liste_bv;detail_bv;1206;candidat;07;MALVEZIN Bruno;26;3,30;0;1207;candidat;07;MALVEZIN Bruno;18;3,67;0
+liste_bv;total_bv;1 253;802;64,01;787;62,81;15;1,87;796;500;62,81;491;61,68;9;1,80
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1208;candidat;01;BLUM  Roland;440;54,86;1;1209;candidat;01;BLUM  Roland;332;53,90;1
+liste_bv;detail_bv;1208;candidat;02;ROUVIERE Jacky;5;0,62;0;1209;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1208;candidat;03;BELOTTI Francis;7;0,87;0;1209;candidat;03;BELOTTI Francis;2;0,32;0
+liste_bv;detail_bv;1208;candidat;04;NOBILE Jeanne;39;4,86;0;1209;candidat;04;NOBILE Jeanne;43;6,98;0
+liste_bv;detail_bv;1208;candidat;05;DURBEC Stephane;48;5,99;0;1209;candidat;05;DURBEC Stephane;46;7,47;0
+liste_bv;detail_bv;1208;candidat;06;MASSE Christophe;246;30,67;0;1209;candidat;06;MASSE Christophe;167;27,11;0
+liste_bv;detail_bv;1208;candidat;07;MALVEZIN Bruno;17;2,12;0;1209;candidat;07;MALVEZIN Bruno;26;4,22;0
+liste_bv;total_bv;1 270;809;63,70;802;63,15;7;0,87;1 002;621;61,98;616;61,48;5;0,81
+liste_bv;detail_bv;1210;candidat;01;BLUM  Roland;342;54,98;1;1211;candidat;01;BLUM  Roland;365;49,73;1
+liste_bv;detail_bv;1210;candidat;02;ROUVIERE Jacky;3;0,48;0;1211;candidat;02;ROUVIERE Jacky;1;0,14;0
+liste_bv;detail_bv;1210;candidat;03;BELOTTI Francis;7;1,13;0;1211;candidat;03;BELOTTI Francis;6;0,82;0
+liste_bv;detail_bv;1210;candidat;04;NOBILE Jeanne;31;4,98;0;1211;candidat;04;NOBILE Jeanne;36;4,90;0
+liste_bv;detail_bv;1210;candidat;05;DURBEC Stephane;46;7,40;0;1211;candidat;05;DURBEC Stephane;50;6,81;0
+liste_bv;detail_bv;1210;candidat;06;MASSE Christophe;176;28,30;0;1211;candidat;06;MASSE Christophe;243;33,11;0
+liste_bv;detail_bv;1210;candidat;07;MALVEZIN Bruno;17;2,73;0;1211;candidat;07;MALVEZIN Bruno;33;4,50;0
+liste_bv;total_bv;1 007;641;63,65;622;61,77;19;2,96;1 103;754;68,36;734;66,55;20;2,65
+liste_bv;detail_bv;1212;candidat;01;BLUM  Roland;299;52,92;1;1221;candidat;01;BLUM  Roland;303;46,47;1
+liste_bv;detail_bv;1212;candidat;02;ROUVIERE Jacky;2;0,35;0;1221;candidat;02;ROUVIERE Jacky;9;1,38;0
+liste_bv;detail_bv;1212;candidat;03;BELOTTI Francis;2;0,35;0;1221;candidat;03;BELOTTI Francis;6;0,92;0
+liste_bv;detail_bv;1212;candidat;04;NOBILE Jeanne;29;5,13;0;1221;candidat;04;NOBILE Jeanne;46;7,06;0
+liste_bv;detail_bv;1212;candidat;05;DURBEC Stephane;37;6,55;0;1221;candidat;05;DURBEC Stephane;64;9,82;0
+liste_bv;detail_bv;1212;candidat;06;MASSE Christophe;177;31,33;0;1221;candidat;06;MASSE Christophe;201;30,83;0
+liste_bv;detail_bv;1212;candidat;07;MALVEZIN Bruno;19;3,36;0;1221;candidat;07;MALVEZIN Bruno;23;3,53;0
+liste_bv;total_bv;959;573;59,75;565;58,92;8;1,40;1 102;665;60,34;652;59,17;13;1,95
+liste_bv;detail_bv;1241;candidat;01;BLUM  Roland;279;53,24;1;1242;candidat;01;BLUM  Roland;433;53,59;1
+liste_bv;detail_bv;1241;candidat;02;ROUVIERE Jacky;0;0,00;0;1242;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1241;candidat;03;BELOTTI Francis;6;1,15;0;1242;candidat;03;BELOTTI Francis;4;0,50;0
+liste_bv;detail_bv;1241;candidat;04;NOBILE Jeanne;27;5,15;0;1242;candidat;04;NOBILE Jeanne;64;7,92;0
+liste_bv;detail_bv;1241;candidat;05;DURBEC Stephane;42;8,02;0;1242;candidat;05;DURBEC Stephane;56;6,93;0
+liste_bv;detail_bv;1241;candidat;06;MASSE Christophe;156;29,77;0;1242;candidat;06;MASSE Christophe;210;25,99;0
+liste_bv;detail_bv;1241;candidat;07;MALVEZIN Bruno;14;2,67;0;1242;candidat;07;MALVEZIN Bruno;41;5,07;0
+liste_bv;total_bv;836;531;63,52;524;62,68;7;1,32;1 263;821;65,00;808;63,97;13;1,58
+liste_bv;detail_bv;1243;candidat;01;BLUM  Roland;352;46,44;1;1244;candidat;01;BLUM  Roland;202;40,24;1
+liste_bv;detail_bv;1243;candidat;02;ROUVIERE Jacky;2;0,26;0;1244;candidat;02;ROUVIERE Jacky;1;0,20;0
+liste_bv;detail_bv;1243;candidat;03;BELOTTI Francis;6;0,79;0;1244;candidat;03;BELOTTI Francis;1;0,20;0
+liste_bv;detail_bv;1243;candidat;04;NOBILE Jeanne;48;6,33;0;1244;candidat;04;NOBILE Jeanne;17;3,39;0
+liste_bv;detail_bv;1243;candidat;05;DURBEC Stephane;74;9,76;0;1244;candidat;05;DURBEC Stephane;66;13,15;0
+liste_bv;detail_bv;1243;candidat;06;MASSE Christophe;244;32,19;0;1244;candidat;06;MASSE Christophe;192;38,25;0
+liste_bv;detail_bv;1243;candidat;07;MALVEZIN Bruno;32;4,22;0;1244;candidat;07;MALVEZIN Bruno;23;4,58;0
+liste_bv;total_bv;1 180;775;65,68;758;64,24;17;2,19;900;506;56,22;502;55,78;4;0,79
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1245;candidat;01;BLUM  Roland;218;36,33;0;1261;candidat;01;BLUM  Roland;421;54,53;1
+liste_bv;detail_bv;1245;candidat;02;ROUVIERE Jacky;0;0,00;0;1261;candidat;02;ROUVIERE Jacky;3;0,39;0
+liste_bv;detail_bv;1245;candidat;03;BELOTTI Francis;8;1,33;0;1261;candidat;03;BELOTTI Francis;4;0,52;0
+liste_bv;detail_bv;1245;candidat;04;NOBILE Jeanne;30;5,00;0;1261;candidat;04;NOBILE Jeanne;45;5,83;0
+liste_bv;detail_bv;1245;candidat;05;DURBEC Stephane;83;13,83;0;1261;candidat;05;DURBEC Stephane;55;7,12;0
+liste_bv;detail_bv;1245;candidat;06;MASSE Christophe;245;40,83;1;1261;candidat;06;MASSE Christophe;229;29,66;0
+liste_bv;detail_bv;1245;candidat;07;MALVEZIN Bruno;16;2,67;0;1261;candidat;07;MALVEZIN Bruno;15;1,94;0
+liste_bv;total_bv;1 107;614;55,47;600;54,20;14;2,28;1 259;789;62,67;772;61,32;17;2,15
+liste_bv;detail_bv;1262;candidat;01;BLUM  Roland;329;50,69;1;1263;candidat;01;BLUM  Roland;216;41,86;1
+liste_bv;detail_bv;1262;candidat;02;ROUVIERE Jacky;1;0,15;0;1263;candidat;02;ROUVIERE Jacky;1;0,19;0
+liste_bv;detail_bv;1262;candidat;03;BELOTTI Francis;5;0,77;0;1263;candidat;03;BELOTTI Francis;3;0,58;0
+liste_bv;detail_bv;1262;candidat;04;NOBILE Jeanne;48;7,40;0;1263;candidat;04;NOBILE Jeanne;12;2,33;0
+liste_bv;detail_bv;1262;candidat;05;DURBEC Stephane;43;6,63;0;1263;candidat;05;DURBEC Stephane;75;14,53;0
+liste_bv;detail_bv;1262;candidat;06;MASSE Christophe;199;30,66;0;1263;candidat;06;MASSE Christophe;194;37,60;0
+liste_bv;detail_bv;1262;candidat;07;MALVEZIN Bruno;24;3,70;0;1263;candidat;07;MALVEZIN Bruno;15;2,91;0
+liste_bv;total_bv;1 084;657;60,61;649;59,87;8;1,22;914;526;57,55;516;56,46;10;1,90
+liste_bv;detail_bv;1264;candidat;01;BLUM  Roland;226;43,97;1;1265;candidat;01;BLUM  Roland;377;52,51;1
+liste_bv;detail_bv;1264;candidat;02;ROUVIERE Jacky;1;0,19;0;1265;candidat;02;ROUVIERE Jacky;2;0,28;0
+liste_bv;detail_bv;1264;candidat;03;BELOTTI Francis;2;0,39;0;1265;candidat;03;BELOTTI Francis;2;0,28;0
+liste_bv;detail_bv;1264;candidat;04;NOBILE Jeanne;27;5,25;0;1265;candidat;04;NOBILE Jeanne;32;4,46;0
+liste_bv;detail_bv;1264;candidat;05;DURBEC Stephane;64;12,45;0;1265;candidat;05;DURBEC Stephane;73;10,17;0
+liste_bv;detail_bv;1264;candidat;06;MASSE Christophe;172;33,46;0;1265;candidat;06;MASSE Christophe;217;30,22;0
+liste_bv;detail_bv;1264;candidat;07;MALVEZIN Bruno;22;4,28;0;1265;candidat;07;MALVEZIN Bruno;15;2,09;0
+liste_bv;total_bv;972;527;54,22;514;52,88;13;2,47;1 225;730;59,59;718;58,61;12;1,64
+liste_bv;detail_bv;1266;candidat;01;BLUM  Roland;274;48,84;1;1267;candidat;01;BLUM  Roland;204;39,08;1
+liste_bv;detail_bv;1266;candidat;02;ROUVIERE Jacky;0;0,00;0;1267;candidat;02;ROUVIERE Jacky;1;0,19;0
+liste_bv;detail_bv;1266;candidat;03;BELOTTI Francis;0;0,00;0;1267;candidat;03;BELOTTI Francis;4;0,77;0
+liste_bv;detail_bv;1266;candidat;04;NOBILE Jeanne;26;4,63;0;1267;candidat;04;NOBILE Jeanne;19;3,64;0
+liste_bv;detail_bv;1266;candidat;05;DURBEC Stephane;33;5,88;0;1267;candidat;05;DURBEC Stephane;52;9,96;0
+liste_bv;detail_bv;1266;candidat;06;MASSE Christophe;209;37,25;0;1267;candidat;06;MASSE Christophe;198;37,93;0
+liste_bv;detail_bv;1266;candidat;07;MALVEZIN Bruno;19;3,39;0;1267;candidat;07;MALVEZIN Bruno;44;8,43;0
+liste_bv;total_bv;941;573;60,89;561;59,62;12;2,09;975;538;55,18;522;53,54;16;2,97
+liste_bv;detail_bv;1268;candidat;01;BLUM  Roland;240;31,62;0;1269;candidat;01;BLUM  Roland;259;45,44;1
+liste_bv;detail_bv;1268;candidat;02;ROUVIERE Jacky;1;0,13;0;1269;candidat;02;ROUVIERE Jacky;2;0,35;0
+liste_bv;detail_bv;1268;candidat;03;BELOTTI Francis;7;0,92;0;1269;candidat;03;BELOTTI Francis;2;0,35;0
+liste_bv;detail_bv;1268;candidat;04;NOBILE Jeanne;22;2,90;0;1269;candidat;04;NOBILE Jeanne;38;6,67;0
+liste_bv;detail_bv;1268;candidat;05;DURBEC Stephane;61;8,04;0;1269;candidat;05;DURBEC Stephane;42;7,37;0
+liste_bv;detail_bv;1268;candidat;06;MASSE Christophe;395;52,04;1;1269;candidat;06;MASSE Christophe;204;35,79;0
+liste_bv;detail_bv;1268;candidat;07;MALVEZIN Bruno;33;4,35;0;1269;candidat;07;MALVEZIN Bruno;23;4,04;0
+liste_bv;total_bv;1 370;786;57,37;759;55,40;27;3,44;939;583;62,09;570;60,70;13;2,23
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1270;candidat;01;BLUM  Roland;325;52,76;1;1271;candidat;01;BLUM  Roland;332;52,37;1
+liste_bv;detail_bv;1270;candidat;02;ROUVIERE Jacky;2;0,32;0;1271;candidat;02;ROUVIERE Jacky;0;0,00;0
+liste_bv;detail_bv;1270;candidat;03;BELOTTI Francis;3;0,49;0;1271;candidat;03;BELOTTI Francis;6;0,95;0
+liste_bv;detail_bv;1270;candidat;04;NOBILE Jeanne;33;5,36;0;1271;candidat;04;NOBILE Jeanne;43;6,78;0
+liste_bv;detail_bv;1270;candidat;05;DURBEC Stephane;54;8,77;0;1271;candidat;05;DURBEC Stephane;56;8,83;0
+liste_bv;detail_bv;1270;candidat;06;MASSE Christophe;188;30,52;0;1271;candidat;06;MASSE Christophe;181;28,55;0
+liste_bv;detail_bv;1270;candidat;07;MALVEZIN Bruno;11;1,79;0;1271;candidat;07;MALVEZIN Bruno;16;2,52;0
+liste_bv;total_bv;1 025;632;61,66;616;60,10;16;2,53;1 062;641;60,36;634;59,70;7;1,09
+liste_bv;detail_bv;1272;candidat;01;BLUM  Roland;315;48,54;1;1281;candidat;01;BLUM  Roland;335;48,20;1
+liste_bv;detail_bv;1272;candidat;02;ROUVIERE Jacky;0;0,00;0;1281;candidat;02;ROUVIERE Jacky;1;0,14;0
+liste_bv;detail_bv;1272;candidat;03;BELOTTI Francis;1;0,15;0;1281;candidat;03;BELOTTI Francis;1;0,14;0
+liste_bv;detail_bv;1272;candidat;04;NOBILE Jeanne;41;6,32;0;1281;candidat;04;NOBILE Jeanne;33;4,75;0
+liste_bv;detail_bv;1272;candidat;05;DURBEC Stephane;59;9,09;0;1281;candidat;05;DURBEC Stephane;49;7,05;0
+liste_bv;detail_bv;1272;candidat;06;MASSE Christophe;204;31,43;0;1281;candidat;06;MASSE Christophe;256;36,83;0
+liste_bv;detail_bv;1272;candidat;07;MALVEZIN Bruno;29;4,47;0;1281;candidat;07;MALVEZIN Bruno;20;2,88;0
+liste_bv;total_bv;993;651;65,56;649;65,36;2;0,31;1 291;706;54,69;695;53,83;11;1,56
+liste_bv;detail_bv;1282;candidat;01;BLUM  Roland;219;39,60;0;1283;candidat;01;BLUM  Roland;195;30,14;0
+liste_bv;detail_bv;1282;candidat;02;ROUVIERE Jacky;1;0,18;0;1283;candidat;02;ROUVIERE Jacky;6;0,93;0
+liste_bv;detail_bv;1282;candidat;03;BELOTTI Francis;3;0,54;0;1283;candidat;03;BELOTTI Francis;1;0,15;0
+liste_bv;detail_bv;1282;candidat;04;NOBILE Jeanne;30;5,42;0;1283;candidat;04;NOBILE Jeanne;24;3,71;0
+liste_bv;detail_bv;1282;candidat;05;DURBEC Stephane;54;9,76;0;1283;candidat;05;DURBEC Stephane;67;10,36;0
+liste_bv;detail_bv;1282;candidat;06;MASSE Christophe;230;41,59;1;1283;candidat;06;MASSE Christophe;322;49,77;1
+liste_bv;detail_bv;1282;candidat;07;MALVEZIN Bruno;16;2,89;0;1283;candidat;07;MALVEZIN Bruno;32;4,95;0
+liste_bv;total_bv;897;568;63,32;553;61,65;15;2,64;1 114;664;59,61;647;58,08;17;2,56
+liste_bv;detail_bv;1284;candidat;01;BLUM  Roland;257;39,42;0;1285;candidat;01;BLUM  Roland;362;50,14;1
+liste_bv;detail_bv;1284;candidat;02;ROUVIERE Jacky;2;0,31;0;1285;candidat;02;ROUVIERE Jacky;4;0,55;0
+liste_bv;detail_bv;1284;candidat;03;BELOTTI Francis;2;0,31;0;1285;candidat;03;BELOTTI Francis;2;0,28;0
+liste_bv;detail_bv;1284;candidat;04;NOBILE Jeanne;29;4,45;0;1285;candidat;04;NOBILE Jeanne;47;6,51;0
+liste_bv;detail_bv;1284;candidat;05;DURBEC Stephane;68;10,43;0;1285;candidat;05;DURBEC Stephane;45;6,23;0
+liste_bv;detail_bv;1284;candidat;06;MASSE Christophe;273;41,87;1;1285;candidat;06;MASSE Christophe;224;31,02;0
+liste_bv;detail_bv;1284;candidat;07;MALVEZIN Bruno;21;3,22;0;1285;candidat;07;MALVEZIN Bruno;38;5,26;0
+liste_bv;total_bv;1 151;669;58,12;652;56,65;17;2,54;1 210;740;61,16;722;59,67;18;2,43
+liste_bv;detail_bv;1286;candidat;01;BLUM  Roland;186;45,59;1;;;;;;;
+liste_bv;detail_bv;1286;candidat;02;ROUVIERE Jacky;2;0,49;0;;;;;;;
+liste_bv;detail_bv;1286;candidat;03;BELOTTI Francis;1;0,25;0;;;;;;;
+liste_bv;detail_bv;1286;candidat;04;NOBILE Jeanne;19;4,66;0;;;;;;;
+liste_bv;detail_bv;1286;candidat;05;DURBEC Stephane;25;6,13;0;;;;;;;
+liste_bv;detail_bv;1286;candidat;06;MASSE Christophe;163;39,95;0;;;;;;;
+liste_bv;detail_bv;1286;candidat;07;MALVEZIN Bruno;12;2,94;0;;;;;;;
+liste_bv;total_bv;665;413;62,11;408;61,35;5;1,21;;;;;;;
+detail;SECTEUR;07;candidat;01;LE PAGE Jean-Claude;477;1,16;0
+detail;SECTEUR;07;candidat;02;RAVIER Stephane;4 847;11,80;0
+detail;SECTEUR;07;candidat;03;BOYER Valerie;13 250;32,26;0
+detail;SECTEUR;07;candidat;04;LAQHILA Mohamed;1 579;3,84;0
+detail;SECTEUR;07;candidat;05;ANDRIEUX Sylvie;19 462;47,38;1
+detail;SECTEUR;07;candidat;06;JOHSUA Babette;1 459;3,55;0
+total;76 575;42 135;55,02;41 074;53,64;1 061;2,52
+liste_bv;detail_bv;1301;candidat;01;LE PAGE Jean-Claude;5;1,35;0;1302;candidat;01;LE PAGE Jean-Claude;6;1,11;0
+liste_bv;detail_bv;1301;candidat;02;RAVIER Stephane;56;15,14;0;1302;candidat;02;RAVIER Stephane;75;13,86;0
+liste_bv;detail_bv;1301;candidat;03;BOYER Valerie;139;37,57;1;1302;candidat;03;BOYER Valerie;195;36,04;0
+liste_bv;detail_bv;1301;candidat;04;LAQHILA Mohamed;24;6,49;0;1302;candidat;04;LAQHILA Mohamed;20;3,70;0
+liste_bv;detail_bv;1301;candidat;05;ANDRIEUX Sylvie;135;36,49;0;1302;candidat;05;ANDRIEUX Sylvie;229;42,33;1
+liste_bv;detail_bv;1301;candidat;06;JOHSUA Babette;11;2,97;0;1302;candidat;06;JOHSUA Babette;16;2,96;0
+liste_bv;total_bv;659;380;57,66;370;56,15;10;2,63;961;548;57,02;541;56,30;7;1,28
+liste_bv;detail_bv;1303;candidat;01;LE PAGE Jean-Claude;4;0,71;0;1304;candidat;01;LE PAGE Jean-Claude;1;0,24;0
+liste_bv;detail_bv;1303;candidat;02;RAVIER Stephane;73;12,92;0;1304;candidat;02;RAVIER Stephane;62;14,98;0
+liste_bv;detail_bv;1303;candidat;03;BOYER Valerie;238;42,12;1;1304;candidat;03;BOYER Valerie;164;39,61;1
+liste_bv;detail_bv;1303;candidat;04;LAQHILA Mohamed;12;2,12;0;1304;candidat;04;LAQHILA Mohamed;11;2,66;0
+liste_bv;detail_bv;1303;candidat;05;ANDRIEUX Sylvie;215;38,05;0;1304;candidat;05;ANDRIEUX Sylvie;160;38,65;0
+liste_bv;detail_bv;1303;candidat;06;JOHSUA Babette;23;4,07;0;1304;candidat;06;JOHSUA Babette;16;3,86;0
+liste_bv;total_bv;1 053;578;54,89;565;53,66;13;2,25;780;431;55,26;414;53,08;17;3,94
+liste_bv;detail_bv;1305;candidat;01;LE PAGE Jean-Claude;4;1,06;0;1306;candidat;01;LE PAGE Jean-Claude;3;0,73;0
+liste_bv;detail_bv;1305;candidat;02;RAVIER Stephane;40;10,61;0;1306;candidat;02;RAVIER Stephane;44;10,73;0
+liste_bv;detail_bv;1305;candidat;03;BOYER Valerie;162;42,97;1;1306;candidat;03;BOYER Valerie;97;23,66;0
+liste_bv;detail_bv;1305;candidat;04;LAQHILA Mohamed;8;2,12;0;1306;candidat;04;LAQHILA Mohamed;15;3,66;0
+liste_bv;detail_bv;1305;candidat;05;ANDRIEUX Sylvie;152;40,32;0;1306;candidat;05;ANDRIEUX Sylvie;241;58,78;1
+liste_bv;detail_bv;1305;candidat;06;JOHSUA Babette;11;2,92;0;1306;candidat;06;JOHSUA Babette;10;2,44;0
+liste_bv;total_bv;710;383;53,94;377;53,10;6;1,57;842;418;49,64;410;48,69;8;1,91
+liste_bv;detail_bv;1307;candidat;01;LE PAGE Jean-Claude;6;1,32;0;1308;candidat;01;LE PAGE Jean-Claude;6;1,81;0
+liste_bv;detail_bv;1307;candidat;02;RAVIER Stephane;31;6,80;0;1308;candidat;02;RAVIER Stephane;24;7,25;0
+liste_bv;detail_bv;1307;candidat;03;BOYER Valerie;100;21,93;0;1308;candidat;03;BOYER Valerie;153;46,22;1
+liste_bv;detail_bv;1307;candidat;04;LAQHILA Mohamed;22;4,82;0;1308;candidat;04;LAQHILA Mohamed;8;2,42;0
+liste_bv;detail_bv;1307;candidat;05;ANDRIEUX Sylvie;286;62,72;1;1308;candidat;05;ANDRIEUX Sylvie;129;38,97;0
+liste_bv;detail_bv;1307;candidat;06;JOHSUA Babette;11;2,41;0;1308;candidat;06;JOHSUA Babette;11;3,32;0
+liste_bv;total_bv;940;462;49,15;456;48,51;6;1,30;630;340;53,97;331;52,54;9;2,65
+liste_bv;detail_bv;1331;candidat;01;LE PAGE Jean-Claude;7;0,94;0;1332;candidat;01;LE PAGE Jean-Claude;8;1,62;0
+liste_bv;detail_bv;1331;candidat;02;RAVIER Stephane;89;12,01;0;1332;candidat;02;RAVIER Stephane;56;11,34;0
+liste_bv;detail_bv;1331;candidat;03;BOYER Valerie;260;35,09;0;1332;candidat;03;BOYER Valerie;173;35,02;0
+liste_bv;detail_bv;1331;candidat;04;LAQHILA Mohamed;22;2,97;0;1332;candidat;04;LAQHILA Mohamed;23;4,66;0
+liste_bv;detail_bv;1331;candidat;05;ANDRIEUX Sylvie;340;45,88;1;1332;candidat;05;ANDRIEUX Sylvie;212;42,91;1
+liste_bv;detail_bv;1331;candidat;06;JOHSUA Babette;23;3,10;0;1332;candidat;06;JOHSUA Babette;22;4,45;0
+liste_bv;total_bv;1 247;747;59,90;741;59,42;6;0,80;891;515;57,80;494;55,44;21;4,08
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1333;candidat;01;LE PAGE Jean-Claude;14;2,50;0;1335;candidat;01;LE PAGE Jean-Claude;10;1,63;0
+liste_bv;detail_bv;1333;candidat;02;RAVIER Stephane;23;4,11;0;1335;candidat;02;RAVIER Stephane;31;5,04;0
+liste_bv;detail_bv;1333;candidat;03;BOYER Valerie;96;17,14;0;1335;candidat;03;BOYER Valerie;117;19,02;0
+liste_bv;detail_bv;1333;candidat;04;LAQHILA Mohamed;17;3,04;0;1335;candidat;04;LAQHILA Mohamed;25;4,07;0
+liste_bv;detail_bv;1333;candidat;05;ANDRIEUX Sylvie;402;71,79;1;1335;candidat;05;ANDRIEUX Sylvie;413;67,15;1
+liste_bv;detail_bv;1333;candidat;06;JOHSUA Babette;8;1,43;0;1335;candidat;06;JOHSUA Babette;19;3,09;0
+liste_bv;total_bv;1 199;576;48,04;560;46,71;16;2,78;1 267;627;49,49;615;48,54;12;1,91
+liste_bv;detail_bv;1336;candidat;01;LE PAGE Jean-Claude;6;1,43;0;1337;candidat;01;LE PAGE Jean-Claude;11;2,48;0
+liste_bv;detail_bv;1336;candidat;02;RAVIER Stephane;46;10,95;0;1337;candidat;02;RAVIER Stephane;22;4,95;0
+liste_bv;detail_bv;1336;candidat;03;BOYER Valerie;126;30,00;0;1337;candidat;03;BOYER Valerie;94;21,17;0
+liste_bv;detail_bv;1336;candidat;04;LAQHILA Mohamed;17;4,05;0;1337;candidat;04;LAQHILA Mohamed;19;4,28;0
+liste_bv;detail_bv;1336;candidat;05;ANDRIEUX Sylvie;209;49,76;1;1337;candidat;05;ANDRIEUX Sylvie;287;64,64;1
+liste_bv;detail_bv;1336;candidat;06;JOHSUA Babette;16;3,81;0;1337;candidat;06;JOHSUA Babette;11;2,48;0
+liste_bv;total_bv;863;436;50,52;420;48,67;16;3,67;896;455;50,78;444;49,55;11;2,42
+liste_bv;detail_bv;1338;candidat;01;LE PAGE Jean-Claude;10;1,35;0;1339;candidat;01;LE PAGE Jean-Claude;7;1,41;0
+liste_bv;detail_bv;1338;candidat;02;RAVIER Stephane;68;9,20;0;1339;candidat;02;RAVIER Stephane;48;9,66;0
+liste_bv;detail_bv;1338;candidat;03;BOYER Valerie;248;33,56;0;1339;candidat;03;BOYER Valerie;157;31,59;0
+liste_bv;detail_bv;1338;candidat;04;LAQHILA Mohamed;34;4,60;0;1339;candidat;04;LAQHILA Mohamed;16;3,22;0
+liste_bv;detail_bv;1338;candidat;05;ANDRIEUX Sylvie;342;46,28;1;1339;candidat;05;ANDRIEUX Sylvie;244;49,09;1
+liste_bv;detail_bv;1338;candidat;06;JOHSUA Babette;37;5,01;0;1339;candidat;06;JOHSUA Babette;25;5,03;0
+liste_bv;total_bv;1 341;766;57,12;739;55,11;27;3,52;1 012;515;50,89;497;49,11;18;3,50
+liste_bv;detail_bv;1340;candidat;01;LE PAGE Jean-Claude;6;0,83;0;1341;candidat;01;LE PAGE Jean-Claude;4;0,99;0
+liste_bv;detail_bv;1340;candidat;02;RAVIER Stephane;85;11,71;0;1341;candidat;02;RAVIER Stephane;47;11,58;0
+liste_bv;detail_bv;1340;candidat;03;BOYER Valerie;284;39,12;0;1341;candidat;03;BOYER Valerie;162;39,90;0
+liste_bv;detail_bv;1340;candidat;04;LAQHILA Mohamed;28;3,86;0;1341;candidat;04;LAQHILA Mohamed;12;2,96;0
+liste_bv;detail_bv;1340;candidat;05;ANDRIEUX Sylvie;305;42,01;1;1341;candidat;05;ANDRIEUX Sylvie;168;41,38;1
+liste_bv;detail_bv;1340;candidat;06;JOHSUA Babette;18;2,48;0;1341;candidat;06;JOHSUA Babette;13;3,20;0
+liste_bv;total_bv;1 267;757;59,75;726;57,30;31;4,10;868;422;48,62;406;46,77;16;3,79
+liste_bv;detail_bv;1342;candidat;01;LE PAGE Jean-Claude;7;1,11;0;1343;candidat;01;LE PAGE Jean-Claude;4;0,64;0
+liste_bv;detail_bv;1342;candidat;02;RAVIER Stephane;51;8,12;0;1343;candidat;02;RAVIER Stephane;37;5,90;0
+liste_bv;detail_bv;1342;candidat;03;BOYER Valerie;155;24,68;0;1343;candidat;03;BOYER Valerie;96;15,31;0
+liste_bv;detail_bv;1342;candidat;04;LAQHILA Mohamed;23;3,66;0;1343;candidat;04;LAQHILA Mohamed;22;3,51;0
+liste_bv;detail_bv;1342;candidat;05;ANDRIEUX Sylvie;377;60,03;1;1343;candidat;05;ANDRIEUX Sylvie;463;73,84;1
+liste_bv;detail_bv;1342;candidat;06;JOHSUA Babette;15;2,39;0;1343;candidat;06;JOHSUA Babette;5;0,80;0
+liste_bv;total_bv;1 331;661;49,66;628;47,18;33;4,99;1 265;638;50,43;627;49,57;11;1,72
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1344;candidat;01;LE PAGE Jean-Claude;1;0,19;0;1345;candidat;01;LE PAGE Jean-Claude;7;1,61;0
+liste_bv;detail_bv;1344;candidat;02;RAVIER Stephane;71;13,79;0;1345;candidat;02;RAVIER Stephane;45;10,34;0
+liste_bv;detail_bv;1344;candidat;03;BOYER Valerie;191;37,09;0;1345;candidat;03;BOYER Valerie;132;30,34;0
+liste_bv;detail_bv;1344;candidat;04;LAQHILA Mohamed;11;2,14;0;1345;candidat;04;LAQHILA Mohamed;18;4,14;0
+liste_bv;detail_bv;1344;candidat;05;ANDRIEUX Sylvie;208;40,39;1;1345;candidat;05;ANDRIEUX Sylvie;207;47,59;1
+liste_bv;detail_bv;1344;candidat;06;JOHSUA Babette;33;6,41;0;1345;candidat;06;JOHSUA Babette;26;5,98;0
+liste_bv;total_bv;1 032;538;52,13;515;49,90;23;4,28;825;444;53,82;435;52,73;9;2,03
+liste_bv;detail_bv;1346;candidat;01;LE PAGE Jean-Claude;8;1,79;0;1347;candidat;01;LE PAGE Jean-Claude;8;1,45;0
+liste_bv;detail_bv;1346;candidat;02;RAVIER Stephane;37;8,28;0;1347;candidat;02;RAVIER Stephane;68;12,36;0
+liste_bv;detail_bv;1346;candidat;03;BOYER Valerie;121;27,07;0;1347;candidat;03;BOYER Valerie;174;31,64;0
+liste_bv;detail_bv;1346;candidat;04;LAQHILA Mohamed;10;2,24;0;1347;candidat;04;LAQHILA Mohamed;16;2,91;0
+liste_bv;detail_bv;1346;candidat;05;ANDRIEUX Sylvie;259;57,94;1;1347;candidat;05;ANDRIEUX Sylvie;264;48,00;1
+liste_bv;detail_bv;1346;candidat;06;JOHSUA Babette;12;2,68;0;1347;candidat;06;JOHSUA Babette;20;3,64;0
+liste_bv;total_bv;1 015;482;47,49;447;44,04;35;7,26;1 092;577;52,84;550;50,37;27;4,68
+liste_bv;detail_bv;1348;candidat;01;LE PAGE Jean-Claude;3;0,72;0;1349;candidat;01;LE PAGE Jean-Claude;10;1,26;0
+liste_bv;detail_bv;1348;candidat;02;RAVIER Stephane;50;12,05;0;1349;candidat;02;RAVIER Stephane;112;14,14;0
+liste_bv;detail_bv;1348;candidat;03;BOYER Valerie;127;30,60;0;1349;candidat;03;BOYER Valerie;295;37,25;0
+liste_bv;detail_bv;1348;candidat;04;LAQHILA Mohamed;8;1,93;0;1349;candidat;04;LAQHILA Mohamed;22;2,78;0
+liste_bv;detail_bv;1348;candidat;05;ANDRIEUX Sylvie;195;46,99;1;1349;candidat;05;ANDRIEUX Sylvie;318;40,15;1
+liste_bv;detail_bv;1348;candidat;06;JOHSUA Babette;32;7,71;0;1349;candidat;06;JOHSUA Babette;35;4,42;0
+liste_bv;total_bv;768;425;55,34;415;54,04;10;2,35;1 387;822;59,26;792;57,10;30;3,65
+liste_bv;detail_bv;1350;candidat;01;LE PAGE Jean-Claude;8;1,13;0;1351;candidat;01;LE PAGE Jean-Claude;5;0,71;0
+liste_bv;detail_bv;1350;candidat;02;RAVIER Stephane;80;11,28;0;1351;candidat;02;RAVIER Stephane;102;14,39;0
+liste_bv;detail_bv;1350;candidat;03;BOYER Valerie;297;41,89;1;1351;candidat;03;BOYER Valerie;220;31,03;0
+liste_bv;detail_bv;1350;candidat;04;LAQHILA Mohamed;24;3,39;0;1351;candidat;04;LAQHILA Mohamed;28;3,95;0
+liste_bv;detail_bv;1350;candidat;05;ANDRIEUX Sylvie;272;38,36;0;1351;candidat;05;ANDRIEUX Sylvie;329;46,40;1
+liste_bv;detail_bv;1350;candidat;06;JOHSUA Babette;28;3,95;0;1351;candidat;06;JOHSUA Babette;25;3,53;0
+liste_bv;total_bv;1 352;720;53,25;709;52,44;11;1,53;1 333;724;54,31;709;53,19;15;2,07
+liste_bv;detail_bv;1360;candidat;01;LE PAGE Jean-Claude;9;1,98;0;1361;candidat;01;LE PAGE Jean-Claude;3;0,58;0
+liste_bv;detail_bv;1360;candidat;02;RAVIER Stephane;52;11,43;0;1361;candidat;02;RAVIER Stephane;80;15,47;0
+liste_bv;detail_bv;1360;candidat;03;BOYER Valerie;139;30,55;0;1361;candidat;03;BOYER Valerie;152;29,40;0
+liste_bv;detail_bv;1360;candidat;04;LAQHILA Mohamed;22;4,84;0;1361;candidat;04;LAQHILA Mohamed;14;2,71;0
+liste_bv;detail_bv;1360;candidat;05;ANDRIEUX Sylvie;218;47,91;1;1361;candidat;05;ANDRIEUX Sylvie;247;47,78;1
+liste_bv;detail_bv;1360;candidat;06;JOHSUA Babette;15;3,30;0;1361;candidat;06;JOHSUA Babette;21;4,06;0
+liste_bv;total_bv;828;467;56,40;455;54,95;12;2,57;1 028;527;51,26;517;50,29;10;1,90
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1362;candidat;01;LE PAGE Jean-Claude;3;0,54;0;1363;candidat;01;LE PAGE Jean-Claude;4;0,70;0
+liste_bv;detail_bv;1362;candidat;02;RAVIER Stephane;75;13,42;0;1363;candidat;02;RAVIER Stephane;75;13,20;0
+liste_bv;detail_bv;1362;candidat;03;BOYER Valerie;250;44,72;1;1363;candidat;03;BOYER Valerie;252;44,37;1
+liste_bv;detail_bv;1362;candidat;04;LAQHILA Mohamed;13;2,33;0;1363;candidat;04;LAQHILA Mohamed;16;2,82;0
+liste_bv;detail_bv;1362;candidat;05;ANDRIEUX Sylvie;214;38,28;0;1363;candidat;05;ANDRIEUX Sylvie;194;34,15;0
+liste_bv;detail_bv;1362;candidat;06;JOHSUA Babette;4;0,72;0;1363;candidat;06;JOHSUA Babette;27;4,75;0
+liste_bv;total_bv;910;569;62,53;559;61,43;10;1,76;992;579;58,37;568;57,26;11;1,90
+liste_bv;detail_bv;1364;candidat;01;LE PAGE Jean-Claude;10;1,51;0;1365;candidat;01;LE PAGE Jean-Claude;4;0,60;0
+liste_bv;detail_bv;1364;candidat;02;RAVIER Stephane;63;9,49;0;1365;candidat;02;RAVIER Stephane;69;10,30;0
+liste_bv;detail_bv;1364;candidat;03;BOYER Valerie;257;38,70;0;1365;candidat;03;BOYER Valerie;271;40,45;0
+liste_bv;detail_bv;1364;candidat;04;LAQHILA Mohamed;23;3,46;0;1365;candidat;04;LAQHILA Mohamed;31;4,63;0
+liste_bv;detail_bv;1364;candidat;05;ANDRIEUX Sylvie;293;44,13;1;1365;candidat;05;ANDRIEUX Sylvie;276;41,19;1
+liste_bv;detail_bv;1364;candidat;06;JOHSUA Babette;18;2,71;0;1365;candidat;06;JOHSUA Babette;19;2,84;0
+liste_bv;total_bv;1 105;679;61,45;664;60,09;15;2,21;1 278;685;53,60;670;52,43;15;2,19
+liste_bv;detail_bv;1366;candidat;01;LE PAGE Jean-Claude;9;1,71;0;1367;candidat;01;LE PAGE Jean-Claude;2;0,43;0
+liste_bv;detail_bv;1366;candidat;02;RAVIER Stephane;73;13,85;0;1367;candidat;02;RAVIER Stephane;45;9,72;0
+liste_bv;detail_bv;1366;candidat;03;BOYER Valerie;139;26,38;0;1367;candidat;03;BOYER Valerie;196;42,33;1
+liste_bv;detail_bv;1366;candidat;04;LAQHILA Mohamed;9;1,71;0;1367;candidat;04;LAQHILA Mohamed;23;4,97;0
+liste_bv;detail_bv;1366;candidat;05;ANDRIEUX Sylvie;282;53,51;1;1367;candidat;05;ANDRIEUX Sylvie;177;38,23;0
+liste_bv;detail_bv;1366;candidat;06;JOHSUA Babette;15;2,85;0;1367;candidat;06;JOHSUA Babette;20;4,32;0
+liste_bv;total_bv;1 021;545;53,38;527;51,62;18;3,30;856;476;55,61;463;54,09;13;2,73
+liste_bv;detail_bv;1368;candidat;01;LE PAGE Jean-Claude;11;1,52;0;1369;candidat;01;LE PAGE Jean-Claude;8;1,16;0
+liste_bv;detail_bv;1368;candidat;02;RAVIER Stephane;92;12,71;0;1369;candidat;02;RAVIER Stephane;73;10,58;0
+liste_bv;detail_bv;1368;candidat;03;BOYER Valerie;225;31,08;0;1369;candidat;03;BOYER Valerie;334;48,41;1
+liste_bv;detail_bv;1368;candidat;04;LAQHILA Mohamed;20;2,76;0;1369;candidat;04;LAQHILA Mohamed;28;4,06;0
+liste_bv;detail_bv;1368;candidat;05;ANDRIEUX Sylvie;341;47,10;1;1369;candidat;05;ANDRIEUX Sylvie;220;31,88;0
+liste_bv;detail_bv;1368;candidat;06;JOHSUA Babette;35;4,83;0;1369;candidat;06;JOHSUA Babette;27;3,91;0
+liste_bv;total_bv;1 255;743;59,20;724;57,69;19;2,56;1 106;711;64,29;690;62,39;21;2,95
+liste_bv;detail_bv;1370;candidat;01;LE PAGE Jean-Claude;4;0,55;0;1371;candidat;01;LE PAGE Jean-Claude;5;0,68;0
+liste_bv;detail_bv;1370;candidat;02;RAVIER Stephane;100;13,64;0;1371;candidat;02;RAVIER Stephane;86;11,62;0
+liste_bv;detail_bv;1370;candidat;03;BOYER Valerie;282;38,47;0;1371;candidat;03;BOYER Valerie;327;44,19;1
+liste_bv;detail_bv;1370;candidat;04;LAQHILA Mohamed;25;3,41;0;1371;candidat;04;LAQHILA Mohamed;41;5,54;0
+liste_bv;detail_bv;1370;candidat;05;ANDRIEUX Sylvie;296;40,38;1;1371;candidat;05;ANDRIEUX Sylvie;259;35,00;0
+liste_bv;detail_bv;1370;candidat;06;JOHSUA Babette;26;3,55;0;1371;candidat;06;JOHSUA Babette;22;2,97;0
+liste_bv;total_bv;1 178;748;63,50;733;62,22;15;2,01;1 147;753;65,65;740;64,52;13;1,73
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1372;candidat;01;LE PAGE Jean-Claude;7;0,72;0;1373;candidat;01;LE PAGE Jean-Claude;5;0,67;0
+liste_bv;detail_bv;1372;candidat;02;RAVIER Stephane;109;11,16;0;1373;candidat;02;RAVIER Stephane;118;15,73;0
+liste_bv;detail_bv;1372;candidat;03;BOYER Valerie;390;39,92;1;1373;candidat;03;BOYER Valerie;278;37,07;0
+liste_bv;detail_bv;1372;candidat;04;LAQHILA Mohamed;59;6,04;0;1373;candidat;04;LAQHILA Mohamed;27;3,60;0
+liste_bv;detail_bv;1372;candidat;05;ANDRIEUX Sylvie;382;39,10;0;1373;candidat;05;ANDRIEUX Sylvie;301;40,13;1
+liste_bv;detail_bv;1372;candidat;06;JOHSUA Babette;30;3,07;0;1373;candidat;06;JOHSUA Babette;21;2,80;0
+liste_bv;total_bv;1 493;999;66,91;977;65,44;22;2,20;1 203;770;64,01;750;62,34;20;2,60
+liste_bv;detail_bv;1374;candidat;01;LE PAGE Jean-Claude;9;1,21;0;1375;candidat;01;LE PAGE Jean-Claude;7;0,90;0
+liste_bv;detail_bv;1374;candidat;02;RAVIER Stephane;103;13,90;0;1375;candidat;02;RAVIER Stephane;89;11,47;0
+liste_bv;detail_bv;1374;candidat;03;BOYER Valerie;315;42,51;1;1375;candidat;03;BOYER Valerie;301;38,79;0
+liste_bv;detail_bv;1374;candidat;04;LAQHILA Mohamed;24;3,24;0;1375;candidat;04;LAQHILA Mohamed;37;4,77;0
+liste_bv;detail_bv;1374;candidat;05;ANDRIEUX Sylvie;263;35,49;0;1375;candidat;05;ANDRIEUX Sylvie;313;40,34;1
+liste_bv;detail_bv;1374;candidat;06;JOHSUA Babette;27;3,64;0;1375;candidat;06;JOHSUA Babette;29;3,74;0
+liste_bv;total_bv;1 145;759;66,29;741;64,72;18;2,37;1 257;795;63,25;776;61,73;19;2,39
+liste_bv;detail_bv;1376;candidat;01;LE PAGE Jean-Claude;7;1,80;0;1377;candidat;01;LE PAGE Jean-Claude;2;0,51;0
+liste_bv;detail_bv;1376;candidat;02;RAVIER Stephane;42;10,82;0;1377;candidat;02;RAVIER Stephane;30;7,69;0
+liste_bv;detail_bv;1376;candidat;03;BOYER Valerie;133;34,28;0;1377;candidat;03;BOYER Valerie;75;19,23;0
+liste_bv;detail_bv;1376;candidat;04;LAQHILA Mohamed;11;2,84;0;1377;candidat;04;LAQHILA Mohamed;15;3,85;0
+liste_bv;detail_bv;1376;candidat;05;ANDRIEUX Sylvie;179;46,13;1;1377;candidat;05;ANDRIEUX Sylvie;258;66,15;1
+liste_bv;detail_bv;1376;candidat;06;JOHSUA Babette;16;4,12;0;1377;candidat;06;JOHSUA Babette;10;2,56;0
+liste_bv;total_bv;687;397;57,79;388;56,48;9;2,27;785;403;51,34;390;49,68;13;3,23
+liste_bv;detail_bv;1401;candidat;01;LE PAGE Jean-Claude;15;2,89;0;1402;candidat;01;LE PAGE Jean-Claude;4;0,69;0
+liste_bv;detail_bv;1401;candidat;02;RAVIER Stephane;102;19,65;0;1402;candidat;02;RAVIER Stephane;118;20,24;0
+liste_bv;detail_bv;1401;candidat;03;BOYER Valerie;135;26,01;0;1402;candidat;03;BOYER Valerie;171;29,33;0
+liste_bv;detail_bv;1401;candidat;04;LAQHILA Mohamed;11;2,12;0;1402;candidat;04;LAQHILA Mohamed;10;1,72;0
+liste_bv;detail_bv;1401;candidat;05;ANDRIEUX Sylvie;241;46,44;1;1402;candidat;05;ANDRIEUX Sylvie;265;45,45;1
+liste_bv;detail_bv;1401;candidat;06;JOHSUA Babette;15;2,89;0;1402;candidat;06;JOHSUA Babette;15;2,57;0
+liste_bv;total_bv;970;530;54,64;519;53,51;11;2,08;1 116;595;53,32;583;52,24;12;2,02
+liste_bv;detail_bv;1404;candidat;01;LE PAGE Jean-Claude;8;1,35;0;1405;candidat;01;LE PAGE Jean-Claude;10;1,87;0
+liste_bv;detail_bv;1404;candidat;02;RAVIER Stephane;94;15,85;0;1405;candidat;02;RAVIER Stephane;63;11,75;0
+liste_bv;detail_bv;1404;candidat;03;BOYER Valerie;145;24,45;0;1405;candidat;03;BOYER Valerie;106;19,78;0
+liste_bv;detail_bv;1404;candidat;04;LAQHILA Mohamed;8;1,35;0;1405;candidat;04;LAQHILA Mohamed;17;3,17;0
+liste_bv;detail_bv;1404;candidat;05;ANDRIEUX Sylvie;322;54,30;1;1405;candidat;05;ANDRIEUX Sylvie;324;60,45;1
+liste_bv;detail_bv;1404;candidat;06;JOHSUA Babette;16;2,70;0;1405;candidat;06;JOHSUA Babette;16;2,99;0
+liste_bv;total_bv;1 384;607;43,86;593;42,85;14;2,31;1 123;541;48,17;536;47,73;5;0,92
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1407;candidat;01;LE PAGE Jean-Claude;8;1,30;0;1408;candidat;01;LE PAGE Jean-Claude;5;1,07;0
+liste_bv;detail_bv;1407;candidat;02;RAVIER Stephane;82;13,36;0;1408;candidat;02;RAVIER Stephane;76;16,24;0
+liste_bv;detail_bv;1407;candidat;03;BOYER Valerie;157;25,57;0;1408;candidat;03;BOYER Valerie;153;32,69;0
+liste_bv;detail_bv;1407;candidat;04;LAQHILA Mohamed;34;5,54;0;1408;candidat;04;LAQHILA Mohamed;12;2,56;0
+liste_bv;detail_bv;1407;candidat;05;ANDRIEUX Sylvie;319;51,95;1;1408;candidat;05;ANDRIEUX Sylvie;201;42,95;1
+liste_bv;detail_bv;1407;candidat;06;JOHSUA Babette;14;2,28;0;1408;candidat;06;JOHSUA Babette;21;4,49;0
+liste_bv;total_bv;1 218;629;51,64;614;50,41;15;2,38;864;484;56,02;468;54,17;16;3,31
+liste_bv;detail_bv;1409;candidat;01;LE PAGE Jean-Claude;7;1,85;0;1410;candidat;01;LE PAGE Jean-Claude;10;1,73;0
+liste_bv;detail_bv;1409;candidat;02;RAVIER Stephane;49;12,96;0;1410;candidat;02;RAVIER Stephane;73;12,65;0
+liste_bv;detail_bv;1409;candidat;03;BOYER Valerie;108;28,57;0;1410;candidat;03;BOYER Valerie;109;18,89;0
+liste_bv;detail_bv;1409;candidat;04;LAQHILA Mohamed;13;3,44;0;1410;candidat;04;LAQHILA Mohamed;11;1,91;0
+liste_bv;detail_bv;1409;candidat;05;ANDRIEUX Sylvie;194;51,32;1;1410;candidat;05;ANDRIEUX Sylvie;355;61,53;1
+liste_bv;detail_bv;1409;candidat;06;JOHSUA Babette;7;1,85;0;1410;candidat;06;JOHSUA Babette;19;3,29;0
+liste_bv;total_bv;750;385;51,33;378;50,40;7;1,82;945;588;62,22;577;61,06;11;1,87
+liste_bv;detail_bv;1411;candidat;01;LE PAGE Jean-Claude;8;1,72;0;1414;candidat;01;LE PAGE Jean-Claude;8;1,50;0
+liste_bv;detail_bv;1411;candidat;02;RAVIER Stephane;59;12,72;0;1414;candidat;02;RAVIER Stephane;123;22,99;0
+liste_bv;detail_bv;1411;candidat;03;BOYER Valerie;139;29,96;0;1414;candidat;03;BOYER Valerie;129;24,11;0
+liste_bv;detail_bv;1411;candidat;04;LAQHILA Mohamed;11;2,37;0;1414;candidat;04;LAQHILA Mohamed;11;2,06;0
+liste_bv;detail_bv;1411;candidat;05;ANDRIEUX Sylvie;230;49,57;1;1414;candidat;05;ANDRIEUX Sylvie;237;44,30;1
+liste_bv;detail_bv;1411;candidat;06;JOHSUA Babette;17;3,66;0;1414;candidat;06;JOHSUA Babette;27;5,05;0
+liste_bv;total_bv;873;477;54,64;464;53,15;13;2,73;1 059;552;52,12;535;50,52;17;3,08
+liste_bv;detail_bv;1415;candidat;01;LE PAGE Jean-Claude;3;0,68;0;1416;candidat;01;LE PAGE Jean-Claude;0;0,00;0
+liste_bv;detail_bv;1415;candidat;02;RAVIER Stephane;59;13,38;0;1416;candidat;02;RAVIER Stephane;40;10,15;0
+liste_bv;detail_bv;1415;candidat;03;BOYER Valerie;141;31,97;0;1416;candidat;03;BOYER Valerie;140;35,53;0
+liste_bv;detail_bv;1415;candidat;04;LAQHILA Mohamed;6;1,36;0;1416;candidat;04;LAQHILA Mohamed;14;3,55;0
+liste_bv;detail_bv;1415;candidat;05;ANDRIEUX Sylvie;205;46,49;1;1416;candidat;05;ANDRIEUX Sylvie;180;45,69;1
+liste_bv;detail_bv;1415;candidat;06;JOHSUA Babette;27;6,12;0;1416;candidat;06;JOHSUA Babette;20;5,08;0
+liste_bv;total_bv;923;452;48,97;441;47,78;11;2,43;850;404;47,53;394;46,35;10;2,48
+liste_bv;detail_bv;1417;candidat;01;LE PAGE Jean-Claude;9;2,47;0;1450;candidat;01;LE PAGE Jean-Claude;6;1,74;0
+liste_bv;detail_bv;1417;candidat;02;RAVIER Stephane;22;6,04;0;1450;candidat;02;RAVIER Stephane;12;3,49;0
+liste_bv;detail_bv;1417;candidat;03;BOYER Valerie;101;27,75;0;1450;candidat;03;BOYER Valerie;57;16,57;0
+liste_bv;detail_bv;1417;candidat;04;LAQHILA Mohamed;16;4,40;0;1450;candidat;04;LAQHILA Mohamed;26;7,56;0
+liste_bv;detail_bv;1417;candidat;05;ANDRIEUX Sylvie;200;54,95;1;1450;candidat;05;ANDRIEUX Sylvie;235;68,31;1
+liste_bv;detail_bv;1417;candidat;06;JOHSUA Babette;16;4,40;0;1450;candidat;06;JOHSUA Babette;8;2,33;0
+liste_bv;total_bv;794;368;46,35;364;45,84;4;1,09;783;353;45,08;344;43,93;9;2,55
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1451;candidat;01;LE PAGE Jean-Claude;6;0,96;0;1452;candidat;01;LE PAGE Jean-Claude;5;1,59;0
+liste_bv;detail_bv;1451;candidat;02;RAVIER Stephane;97;15,47;0;1452;candidat;02;RAVIER Stephane;5;1,59;0
+liste_bv;detail_bv;1451;candidat;03;BOYER Valerie;217;34,61;0;1452;candidat;03;BOYER Valerie;93;29,62;0
+liste_bv;detail_bv;1451;candidat;04;LAQHILA Mohamed;25;3,99;0;1452;candidat;04;LAQHILA Mohamed;24;7,64;0
+liste_bv;detail_bv;1451;candidat;05;ANDRIEUX Sylvie;239;38,12;1;1452;candidat;05;ANDRIEUX Sylvie;180;57,32;1
+liste_bv;detail_bv;1451;candidat;06;JOHSUA Babette;43;6,86;0;1452;candidat;06;JOHSUA Babette;7;2,23;0
+liste_bv;total_bv;1 199;639;53,29;627;52,29;12;1,88;585;316;54,02;314;53,68;2;0,63
+liste_bv;detail_bv;1453;candidat;01;LE PAGE Jean-Claude;12;2,31;0;1454;candidat;01;LE PAGE Jean-Claude;6;1,31;0
+liste_bv;detail_bv;1453;candidat;02;RAVIER Stephane;16;3,08;0;1454;candidat;02;RAVIER Stephane;27;5,88;0
+liste_bv;detail_bv;1453;candidat;03;BOYER Valerie;119;22,93;0;1454;candidat;03;BOYER Valerie;102;22,22;0
+liste_bv;detail_bv;1453;candidat;04;LAQHILA Mohamed;42;8,09;0;1454;candidat;04;LAQHILA Mohamed;24;5,23;0
+liste_bv;detail_bv;1453;candidat;05;ANDRIEUX Sylvie;320;61,66;1;1454;candidat;05;ANDRIEUX Sylvie;281;61,22;1
+liste_bv;detail_bv;1453;candidat;06;JOHSUA Babette;10;1,93;0;1454;candidat;06;JOHSUA Babette;19;4,14;0
+liste_bv;total_bv;1 066;526;49,34;519;48,69;7;1,33;900;475;52,78;459;51,00;16;3,37
+liste_bv;detail_bv;1455;candidat;01;LE PAGE Jean-Claude;5;1,40;0;1456;candidat;01;LE PAGE Jean-Claude;6;1,20;0
+liste_bv;detail_bv;1455;candidat;02;RAVIER Stephane;21;5,90;0;1456;candidat;02;RAVIER Stephane;63;12,57;0
+liste_bv;detail_bv;1455;candidat;03;BOYER Valerie;76;21,35;0;1456;candidat;03;BOYER Valerie;172;34,33;0
+liste_bv;detail_bv;1455;candidat;04;LAQHILA Mohamed;20;5,62;0;1456;candidat;04;LAQHILA Mohamed;16;3,19;0
+liste_bv;detail_bv;1455;candidat;05;ANDRIEUX Sylvie;226;63,48;1;1456;candidat;05;ANDRIEUX Sylvie;215;42,91;1
+liste_bv;detail_bv;1455;candidat;06;JOHSUA Babette;8;2,25;0;1456;candidat;06;JOHSUA Babette;29;5,79;0
+liste_bv;total_bv;774;360;46,51;356;45,99;4;1,11;868;512;58,99;501;57,72;11;2,15
+liste_bv;detail_bv;1457;candidat;01;LE PAGE Jean-Claude;6;0,99;0;1458;candidat;01;LE PAGE Jean-Claude;6;1,01;0
+liste_bv;detail_bv;1457;candidat;02;RAVIER Stephane;70;11,53;0;1458;candidat;02;RAVIER Stephane;115;19,39;0
+liste_bv;detail_bv;1457;candidat;03;BOYER Valerie;141;23,23;0;1458;candidat;03;BOYER Valerie;188;31,70;0
+liste_bv;detail_bv;1457;candidat;04;LAQHILA Mohamed;32;5,27;0;1458;candidat;04;LAQHILA Mohamed;12;2,02;0
+liste_bv;detail_bv;1457;candidat;05;ANDRIEUX Sylvie;346;57,00;1;1458;candidat;05;ANDRIEUX Sylvie;250;42,16;1
+liste_bv;detail_bv;1457;candidat;06;JOHSUA Babette;12;1,98;0;1458;candidat;06;JOHSUA Babette;22;3,71;0
+liste_bv;total_bv;1 127;619;54,92;607;53,86;12;1,94;1 098;608;55,37;593;54,01;15;2,47
+liste_bv;detail_bv;1459;candidat;01;LE PAGE Jean-Claude;6;0,82;0;1460;candidat;01;LE PAGE Jean-Claude;5;0,78;0
+liste_bv;detail_bv;1459;candidat;02;RAVIER Stephane;108;14,81;0;1460;candidat;02;RAVIER Stephane;105;16,38;0
+liste_bv;detail_bv;1459;candidat;03;BOYER Valerie;261;35,80;0;1460;candidat;03;BOYER Valerie;234;36,51;0
+liste_bv;detail_bv;1459;candidat;04;LAQHILA Mohamed;33;4,53;0;1460;candidat;04;LAQHILA Mohamed;29;4,52;0
+liste_bv;detail_bv;1459;candidat;05;ANDRIEUX Sylvie;298;40,88;1;1460;candidat;05;ANDRIEUX Sylvie;243;37,91;1
+liste_bv;detail_bv;1459;candidat;06;JOHSUA Babette;23;3,16;0;1460;candidat;06;JOHSUA Babette;25;3,90;0
+liste_bv;total_bv;1 227;743;60,55;729;59,41;14;1,88;1 036;655;63,22;641;61,87;14;2,14
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1461;candidat;01;LE PAGE Jean-Claude;5;0,93;0;1462;candidat;01;LE PAGE Jean-Claude;6;0,92;0
+liste_bv;detail_bv;1461;candidat;02;RAVIER Stephane;48;8,89;0;1462;candidat;02;RAVIER Stephane;72;10,99;0
+liste_bv;detail_bv;1461;candidat;03;BOYER Valerie;125;23,15;0;1462;candidat;03;BOYER Valerie;162;24,73;0
+liste_bv;detail_bv;1461;candidat;04;LAQHILA Mohamed;30;5,56;0;1462;candidat;04;LAQHILA Mohamed;81;12,37;0
+liste_bv;detail_bv;1461;candidat;05;ANDRIEUX Sylvie;316;58,52;1;1462;candidat;05;ANDRIEUX Sylvie;308;47,02;1
+liste_bv;detail_bv;1461;candidat;06;JOHSUA Babette;16;2,96;0;1462;candidat;06;JOHSUA Babette;26;3,97;0
+liste_bv;total_bv;1 163;561;48,24;540;46,43;21;3,74;1 183;671;56,72;655;55,37;16;2,38
+liste_bv;detail_bv;1463;candidat;01;LE PAGE Jean-Claude;4;0,88;0;1464;candidat;01;LE PAGE Jean-Claude;3;0,67;0
+liste_bv;detail_bv;1463;candidat;02;RAVIER Stephane;46;10,18;0;1464;candidat;02;RAVIER Stephane;61;13,71;0
+liste_bv;detail_bv;1463;candidat;03;BOYER Valerie;118;26,11;0;1464;candidat;03;BOYER Valerie;179;40,22;1
+liste_bv;detail_bv;1463;candidat;04;LAQHILA Mohamed;33;7,30;0;1464;candidat;04;LAQHILA Mohamed;9;2,02;0
+liste_bv;detail_bv;1463;candidat;05;ANDRIEUX Sylvie;233;51,55;1;1464;candidat;05;ANDRIEUX Sylvie;172;38,65;0
+liste_bv;detail_bv;1463;candidat;06;JOHSUA Babette;18;3,98;0;1464;candidat;06;JOHSUA Babette;21;4,72;0
+liste_bv;total_bv;968;462;47,73;452;46,69;10;2,16;723;455;62,93;445;61,55;10;2,20
+liste_bv;detail_bv;1465;candidat;01;LE PAGE Jean-Claude;7;1,25;0;;;;;;;
+liste_bv;detail_bv;1465;candidat;02;RAVIER Stephane;74;13,19;0;;;;;;;
+liste_bv;detail_bv;1465;candidat;03;BOYER Valerie;183;32,62;0;;;;;;;
+liste_bv;detail_bv;1465;candidat;04;LAQHILA Mohamed;16;2,85;0;;;;;;;
+liste_bv;detail_bv;1465;candidat;05;ANDRIEUX Sylvie;253;45,10;1;;;;;;;
+liste_bv;detail_bv;1465;candidat;06;JOHSUA Babette;28;4,99;0;;;;;;;
+liste_bv;total_bv;906;576;63,58;561;61,92;15;2,60;;;;;;;
+detail;SECTEUR;08;candidat;01;SUSINI Bernard;5 612;25,21;0
+detail;SECTEUR;08;candidat;02;SAINT JEAN Henri;1 021;4,59;0
+detail;SECTEUR;08;candidat;03;GHALI Samia;11 643;52,30;1
+detail;SECTEUR;08;candidat;04;MARANDAT Bernard;2 818;12,66;0
+detail;SECTEUR;08;candidat;05;ROGIER Daniel;209;0,94;0
+detail;SECTEUR;08;candidat;06;AHAMADA Saïd;957;4,30;0
+total;43 761;23 007;52,57;22 260;50,87;747;3,25
+liste_bv;detail_bv;1501;candidat;01;SUSINI Bernard;72;20,11;0;1503;candidat;01;SUSINI Bernard;48;16,33;0
+liste_bv;detail_bv;1501;candidat;02;SAINT JEAN Henri;7;1,96;0;1503;candidat;02;SAINT JEAN Henri;18;6,12;0
+liste_bv;detail_bv;1501;candidat;03;GHALI Samia;231;64,53;1;1503;candidat;03;GHALI Samia;175;59,52;1
+liste_bv;detail_bv;1501;candidat;04;MARANDAT Bernard;28;7,82;0;1503;candidat;04;MARANDAT Bernard;35;11,90;0
+liste_bv;detail_bv;1501;candidat;05;ROGIER Daniel;6;1,68;0;1503;candidat;05;ROGIER Daniel;1;0,34;0
+liste_bv;detail_bv;1501;candidat;06;AHAMADA Saïd;14;3,91;0;1503;candidat;06;AHAMADA Saïd;17;5,78;0
+liste_bv;total_bv;816;366;44,85;358;43,87;8;2,19;617;306;49,59;294;47,65;12;3,92
+liste_bv;detail_bv;1504;candidat;01;SUSINI Bernard;88;24,93;0;1505;candidat;01;SUSINI Bernard;126;20,13;0
+liste_bv;detail_bv;1504;candidat;02;SAINT JEAN Henri;13;3,68;0;1505;candidat;02;SAINT JEAN Henri;28;4,47;0
+liste_bv;detail_bv;1504;candidat;03;GHALI Samia;189;53,54;1;1505;candidat;03;GHALI Samia;378;60,38;1
+liste_bv;detail_bv;1504;candidat;04;MARANDAT Bernard;45;12,75;0;1505;candidat;04;MARANDAT Bernard;64;10,22;0
+liste_bv;detail_bv;1504;candidat;05;ROGIER Daniel;2;0,57;0;1505;candidat;05;ROGIER Daniel;3;0,48;0
+liste_bv;detail_bv;1504;candidat;06;AHAMADA Saïd;16;4,53;0;1505;candidat;06;AHAMADA Saïd;27;4,31;0
+liste_bv;total_bv;833;365;43,82;353;42,38;12;3,29;1 289;641;49,73;626;48,56;15;2,34
+liste_bv;detail_bv;1507;candidat;01;SUSINI Bernard;91;22,36;0;1508;candidat;01;SUSINI Bernard;109;21,93;0
+liste_bv;detail_bv;1507;candidat;02;SAINT JEAN Henri;13;3,19;0;1508;candidat;02;SAINT JEAN Henri;19;3,82;0
+liste_bv;detail_bv;1507;candidat;03;GHALI Samia;210;51,60;1;1508;candidat;03;GHALI Samia;252;50,70;1
+liste_bv;detail_bv;1507;candidat;04;MARANDAT Bernard;76;18,67;0;1508;candidat;04;MARANDAT Bernard;93;18,71;0
+liste_bv;detail_bv;1507;candidat;05;ROGIER Daniel;3;0,74;0;1508;candidat;05;ROGIER Daniel;3;0,60;0
+liste_bv;detail_bv;1507;candidat;06;AHAMADA Saïd;14;3,44;0;1508;candidat;06;AHAMADA Saïd;21;4,23;0
+liste_bv;total_bv;790;421;53,29;407;51,52;14;3,33;980;511;52,14;497;50,71;14;2,74
+liste_bv;detail_bv;1531;candidat;01;SUSINI Bernard;86;16,44;0;1532;candidat;01;SUSINI Bernard;143;27,13;0
+liste_bv;detail_bv;1531;candidat;02;SAINT JEAN Henri;12;2,29;0;1532;candidat;02;SAINT JEAN Henri;21;3,98;0
+liste_bv;detail_bv;1531;candidat;03;GHALI Samia;343;65,58;1;1532;candidat;03;GHALI Samia;274;51,99;1
+liste_bv;detail_bv;1531;candidat;04;MARANDAT Bernard;61;11,66;0;1532;candidat;04;MARANDAT Bernard;69;13,09;0
+liste_bv;detail_bv;1531;candidat;05;ROGIER Daniel;0;0,00;0;1532;candidat;05;ROGIER Daniel;7;1,33;0
+liste_bv;detail_bv;1531;candidat;06;AHAMADA Saïd;21;4,02;0;1532;candidat;06;AHAMADA Saïd;13;2,47;0
+liste_bv;total_bv;996;540;54,22;523;52,51;17;3,15;1 048;540;51,53;527;50,29;13;2,41
+liste_bv;detail_bv;1533;candidat;01;SUSINI Bernard;135;22,58;0;1535;candidat;01;SUSINI Bernard;105;25,67;0
+liste_bv;detail_bv;1533;candidat;02;SAINT JEAN Henri;19;3,18;0;1535;candidat;02;SAINT JEAN Henri;26;6,36;0
+liste_bv;detail_bv;1533;candidat;03;GHALI Samia;324;54,18;1;1535;candidat;03;GHALI Samia;179;43,77;1
+liste_bv;detail_bv;1533;candidat;04;MARANDAT Bernard;85;14,21;0;1535;candidat;04;MARANDAT Bernard;89;21,76;0
+liste_bv;detail_bv;1533;candidat;05;ROGIER Daniel;12;2,01;0;1535;candidat;05;ROGIER Daniel;4;0,98;0
+liste_bv;detail_bv;1533;candidat;06;AHAMADA Saïd;23;3,85;0;1535;candidat;06;AHAMADA Saïd;6;1,47;0
+liste_bv;total_bv;1 162;618;53,18;598;51,46;20;3,24;823;429;52,13;409;49,70;20;4,66
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1536;candidat;01;SUSINI Bernard;88;26,59;0;1537;candidat;01;SUSINI Bernard;92;17,66;0
+liste_bv;detail_bv;1536;candidat;02;SAINT JEAN Henri;7;2,11;0;1537;candidat;02;SAINT JEAN Henri;16;3,07;0
+liste_bv;detail_bv;1536;candidat;03;GHALI Samia;163;49,24;1;1537;candidat;03;GHALI Samia;330;63,34;1
+liste_bv;detail_bv;1536;candidat;04;MARANDAT Bernard;68;20,54;0;1537;candidat;04;MARANDAT Bernard;65;12,48;0
+liste_bv;detail_bv;1536;candidat;05;ROGIER Daniel;1;0,30;0;1537;candidat;05;ROGIER Daniel;2;0,38;0
+liste_bv;detail_bv;1536;candidat;06;AHAMADA Saïd;4;1,21;0;1537;candidat;06;AHAMADA Saïd;16;3,07;0
+liste_bv;total_bv;706;339;48,02;331;46,88;8;2,36;1 137;547;48,11;521;45,82;26;4,75
+liste_bv;detail_bv;1538;candidat;01;SUSINI Bernard;146;24,83;0;1539;candidat;01;SUSINI Bernard;126;25,15;0
+liste_bv;detail_bv;1538;candidat;02;SAINT JEAN Henri;30;5,10;0;1539;candidat;02;SAINT JEAN Henri;13;2,59;0
+liste_bv;detail_bv;1538;candidat;03;GHALI Samia;309;52,55;1;1539;candidat;03;GHALI Samia;272;54,29;1
+liste_bv;detail_bv;1538;candidat;04;MARANDAT Bernard;81;13,78;0;1539;candidat;04;MARANDAT Bernard;50;9,98;0
+liste_bv;detail_bv;1538;candidat;05;ROGIER Daniel;3;0,51;0;1539;candidat;05;ROGIER Daniel;4;0,80;0
+liste_bv;detail_bv;1538;candidat;06;AHAMADA Saïd;19;3,23;0;1539;candidat;06;AHAMADA Saïd;36;7,19;0
+liste_bv;total_bv;1 098;605;55,10;588;53,55;17;2,81;1 061;518;48,82;501;47,22;17;3,28
+liste_bv;detail_bv;1540;candidat;01;SUSINI Bernard;133;22,66;0;1541;candidat;01;SUSINI Bernard;79;26,69;0
+liste_bv;detail_bv;1540;candidat;02;SAINT JEAN Henri;17;2,90;0;1541;candidat;02;SAINT JEAN Henri;8;2,70;0
+liste_bv;detail_bv;1540;candidat;03;GHALI Samia;346;58,94;1;1541;candidat;03;GHALI Samia;162;54,73;1
+liste_bv;detail_bv;1540;candidat;04;MARANDAT Bernard;60;10,22;0;1541;candidat;04;MARANDAT Bernard;30;10,14;0
+liste_bv;detail_bv;1540;candidat;05;ROGIER Daniel;6;1,02;0;1541;candidat;05;ROGIER Daniel;0;0,00;0
+liste_bv;detail_bv;1540;candidat;06;AHAMADA Saïd;25;4,26;0;1541;candidat;06;AHAMADA Saïd;17;5,74;0
+liste_bv;total_bv;1 177;610;51,83;587;49,87;23;3,77;560;306;54,64;296;52,86;10;3,27
+liste_bv;detail_bv;1542;candidat;01;SUSINI Bernard;122;20,44;0;1543;candidat;01;SUSINI Bernard;234;36,11;0
+liste_bv;detail_bv;1542;candidat;02;SAINT JEAN Henri;13;2,18;0;1543;candidat;02;SAINT JEAN Henri;31;4,78;0
+liste_bv;detail_bv;1542;candidat;03;GHALI Samia;361;60,47;1;1543;candidat;03;GHALI Samia;245;37,81;1
+liste_bv;detail_bv;1542;candidat;04;MARANDAT Bernard;77;12,90;0;1543;candidat;04;MARANDAT Bernard;117;18,06;0
+liste_bv;detail_bv;1542;candidat;05;ROGIER Daniel;4;0,67;0;1543;candidat;05;ROGIER Daniel;7;1,08;0
+liste_bv;detail_bv;1542;candidat;06;AHAMADA Saïd;20;3,35;0;1543;candidat;06;AHAMADA Saïd;14;2,16;0
+liste_bv;total_bv;1 247;611;49,00;597;47,87;14;2,29;1 097;671;61,17;648;59,07;23;3,43
+liste_bv;detail_bv;1571;candidat;01;SUSINI Bernard;193;35,61;0;1572;candidat;01;SUSINI Bernard;129;21,75;0
+liste_bv;detail_bv;1571;candidat;02;SAINT JEAN Henri;25;4,61;0;1572;candidat;02;SAINT JEAN Henri;12;2,02;0
+liste_bv;detail_bv;1571;candidat;03;GHALI Samia;223;41,14;1;1572;candidat;03;GHALI Samia;343;57,84;1
+liste_bv;detail_bv;1571;candidat;04;MARANDAT Bernard;82;15,13;0;1572;candidat;04;MARANDAT Bernard;69;11,64;0
+liste_bv;detail_bv;1571;candidat;05;ROGIER Daniel;6;1,11;0;1572;candidat;05;ROGIER Daniel;8;1,35;0
+liste_bv;detail_bv;1571;candidat;06;AHAMADA Saïd;13;2,40;0;1572;candidat;06;AHAMADA Saïd;32;5,40;0
+liste_bv;total_bv;981;564;57,49;542;55,25;22;3,90;1 152;605;52,52;593;51,48;12;1,98
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1574;candidat;01;SUSINI Bernard;189;27,84;0;1575;candidat;01;SUSINI Bernard;112;34,36;0
+liste_bv;detail_bv;1574;candidat;02;SAINT JEAN Henri;28;4,12;0;1575;candidat;02;SAINT JEAN Henri;22;6,75;0
+liste_bv;detail_bv;1574;candidat;03;GHALI Samia;339;49,93;1;1575;candidat;03;GHALI Samia;140;42,94;1
+liste_bv;detail_bv;1574;candidat;04;MARANDAT Bernard;59;8,69;0;1575;candidat;04;MARANDAT Bernard;41;12,58;0
+liste_bv;detail_bv;1574;candidat;05;ROGIER Daniel;0;0,00;0;1575;candidat;05;ROGIER Daniel;0;0,00;0
+liste_bv;detail_bv;1574;candidat;06;AHAMADA Saïd;64;9,43;0;1575;candidat;06;AHAMADA Saïd;11;3,37;0
+liste_bv;total_bv;1 302;695;53,38;679;52,15;16;2,30;596;341;57,21;326;54,70;15;4,40
+liste_bv;detail_bv;1576;candidat;01;SUSINI Bernard;176;28,34;0;1577;candidat;01;SUSINI Bernard;130;19,97;0
+liste_bv;detail_bv;1576;candidat;02;SAINT JEAN Henri;31;4,99;0;1577;candidat;02;SAINT JEAN Henri;16;2,46;0
+liste_bv;detail_bv;1576;candidat;03;GHALI Samia;270;43,48;1;1577;candidat;03;GHALI Samia;390;59,91;1
+liste_bv;detail_bv;1576;candidat;04;MARANDAT Bernard;121;19,48;0;1577;candidat;04;MARANDAT Bernard;42;6,45;0
+liste_bv;detail_bv;1576;candidat;05;ROGIER Daniel;3;0,48;0;1577;candidat;05;ROGIER Daniel;12;1,84;0
+liste_bv;detail_bv;1576;candidat;06;AHAMADA Saïd;20;3,22;0;1577;candidat;06;AHAMADA Saïd;61;9,37;0
+liste_bv;total_bv;1 121;644;57,45;621;55,40;23;3,57;1 352;684;50,59;651;48,15;33;4,82
+liste_bv;detail_bv;1578;candidat;01;SUSINI Bernard;136;34,17;0;1579;candidat;01;SUSINI Bernard;152;30,83;0
+liste_bv;detail_bv;1578;candidat;02;SAINT JEAN Henri;13;3,27;0;1579;candidat;02;SAINT JEAN Henri;14;2,84;0
+liste_bv;detail_bv;1578;candidat;03;GHALI Samia;160;40,20;1;1579;candidat;03;GHALI Samia;202;40,97;1
+liste_bv;detail_bv;1578;candidat;04;MARANDAT Bernard;79;19,85;0;1579;candidat;04;MARANDAT Bernard;110;22,31;0
+liste_bv;detail_bv;1578;candidat;05;ROGIER Daniel;2;0,50;0;1579;candidat;05;ROGIER Daniel;5;1,01;0
+liste_bv;detail_bv;1578;candidat;06;AHAMADA Saïd;8;2,01;0;1579;candidat;06;AHAMADA Saïd;10;2,03;0
+liste_bv;total_bv;773;413;53,43;398;51,49;15;3,63;984;512;52,03;493;50,10;19;3,71
+liste_bv;detail_bv;1580;candidat;01;SUSINI Bernard;96;18,50;0;1581;candidat;01;SUSINI Bernard;88;24,24;0
+liste_bv;detail_bv;1580;candidat;02;SAINT JEAN Henri;20;3,85;0;1581;candidat;02;SAINT JEAN Henri;8;2,20;0
+liste_bv;detail_bv;1580;candidat;03;GHALI Samia;306;58,96;1;1581;candidat;03;GHALI Samia;209;57,58;1
+liste_bv;detail_bv;1580;candidat;04;MARANDAT Bernard;75;14,45;0;1581;candidat;04;MARANDAT Bernard;28;7,71;0
+liste_bv;detail_bv;1580;candidat;05;ROGIER Daniel;4;0,77;0;1581;candidat;05;ROGIER Daniel;2;0,55;0
+liste_bv;detail_bv;1580;candidat;06;AHAMADA Saïd;18;3,47;0;1581;candidat;06;AHAMADA Saïd;28;7,71;0
+liste_bv;total_bv;1 046;530;50,67;519;49,62;11;2,08;863;378;43,80;363;42,06;15;3,97
+liste_bv;detail_bv;1582;candidat;01;SUSINI Bernard;187;27,62;0;1583;candidat;01;SUSINI Bernard;120;32,61;0
+liste_bv;detail_bv;1582;candidat;02;SAINT JEAN Henri;23;3,40;0;1583;candidat;02;SAINT JEAN Henri;16;4,35;0
+liste_bv;detail_bv;1582;candidat;03;GHALI Samia;341;50,37;1;1583;candidat;03;GHALI Samia;142;38,59;1
+liste_bv;detail_bv;1582;candidat;04;MARANDAT Bernard;88;13,00;0;1583;candidat;04;MARANDAT Bernard;70;19,02;0
+liste_bv;detail_bv;1582;candidat;05;ROGIER Daniel;7;1,03;0;1583;candidat;05;ROGIER Daniel;6;1,63;0
+liste_bv;detail_bv;1582;candidat;06;AHAMADA Saïd;31;4,58;0;1583;candidat;06;AHAMADA Saïd;14;3,80;0
+liste_bv;total_bv;1 358;696;51,25;677;49,85;19;2,73;740;376;50,81;368;49,73;8;2,13
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1584;candidat;01;SUSINI Bernard;140;31,32;0;1585;candidat;01;SUSINI Bernard;108;22,98;0
+liste_bv;detail_bv;1584;candidat;02;SAINT JEAN Henri;47;10,51;0;1585;candidat;02;SAINT JEAN Henri;18;3,83;0
+liste_bv;detail_bv;1584;candidat;03;GHALI Samia;172;38,48;1;1585;candidat;03;GHALI Samia;275;58,51;1
+liste_bv;detail_bv;1584;candidat;04;MARANDAT Bernard;64;14,32;0;1585;candidat;04;MARANDAT Bernard;47;10,00;0
+liste_bv;detail_bv;1584;candidat;05;ROGIER Daniel;5;1,12;0;1585;candidat;05;ROGIER Daniel;5;1,06;0
+liste_bv;detail_bv;1584;candidat;06;AHAMADA Saïd;19;4,25;0;1585;candidat;06;AHAMADA Saïd;17;3,62;0
+liste_bv;total_bv;740;457;61,76;447;60,41;10;2,19;1 081;479;44,31;470;43,48;9;1,88
+liste_bv;detail_bv;1586;candidat;01;SUSINI Bernard;81;21,37;0;1587;candidat;01;SUSINI Bernard;88;17,53;0
+liste_bv;detail_bv;1586;candidat;02;SAINT JEAN Henri;18;4,75;0;1587;candidat;02;SAINT JEAN Henri;6;1,20;0
+liste_bv;detail_bv;1586;candidat;03;GHALI Samia;214;56,46;1;1587;candidat;03;GHALI Samia;313;62,35;1
+liste_bv;detail_bv;1586;candidat;04;MARANDAT Bernard;30;7,92;0;1587;candidat;04;MARANDAT Bernard;25;4,98;0
+liste_bv;detail_bv;1586;candidat;05;ROGIER Daniel;4;1,06;0;1587;candidat;05;ROGIER Daniel;8;1,59;0
+liste_bv;detail_bv;1586;candidat;06;AHAMADA Saïd;32;8,44;0;1587;candidat;06;AHAMADA Saïd;62;12,35;0
+liste_bv;total_bv;899;394;43,83;379;42,16;15;3,81;1 083;517;47,74;502;46,35;15;2,90
+liste_bv;detail_bv;1588;candidat;01;SUSINI Bernard;57;13,19;0;1601;candidat;01;SUSINI Bernard;141;27,76;0
+liste_bv;detail_bv;1588;candidat;02;SAINT JEAN Henri;7;1,62;0;1601;candidat;02;SAINT JEAN Henri;31;6,10;0
+liste_bv;detail_bv;1588;candidat;03;GHALI Samia;305;70,60;1;1601;candidat;03;GHALI Samia;271;53,35;1
+liste_bv;detail_bv;1588;candidat;04;MARANDAT Bernard;29;6,71;0;1601;candidat;04;MARANDAT Bernard;53;10,43;0
+liste_bv;detail_bv;1588;candidat;05;ROGIER Daniel;4;0,93;0;1601;candidat;05;ROGIER Daniel;5;0,98;0
+liste_bv;detail_bv;1588;candidat;06;AHAMADA Saïd;30;6,94;0;1601;candidat;06;AHAMADA Saïd;7;1,38;0
+liste_bv;total_bv;928;445;47,95;432;46,55;13;2,92;1 031;530;51,41;508;49,27;22;4,15
+liste_bv;detail_bv;1602;candidat;01;SUSINI Bernard;133;31,89;0;1606;candidat;01;SUSINI Bernard;78;20,86;0
+liste_bv;detail_bv;1602;candidat;02;SAINT JEAN Henri;22;5,28;0;1606;candidat;02;SAINT JEAN Henri;20;5,35;0
+liste_bv;detail_bv;1602;candidat;03;GHALI Samia;180;43,17;1;1606;candidat;03;GHALI Samia;192;51,34;1
+liste_bv;detail_bv;1602;candidat;04;MARANDAT Bernard;50;11,99;0;1606;candidat;04;MARANDAT Bernard;63;16,84;0
+liste_bv;detail_bv;1602;candidat;05;ROGIER Daniel;6;1,44;0;1606;candidat;05;ROGIER Daniel;8;2,14;0
+liste_bv;detail_bv;1602;candidat;06;AHAMADA Saïd;26;6,24;0;1606;candidat;06;AHAMADA Saïd;13;3,48;0
+liste_bv;total_bv;763;434;56,88;417;54,65;17;3,92;758;393;51,85;374;49,34;19;4,83
+liste_bv;detail_bv;1607;candidat;01;SUSINI Bernard;127;30,46;0;1608;candidat;01;SUSINI Bernard;160;27,92;0
+liste_bv;detail_bv;1607;candidat;02;SAINT JEAN Henri;46;11,03;0;1608;candidat;02;SAINT JEAN Henri;35;6,11;0
+liste_bv;detail_bv;1607;candidat;03;GHALI Samia;185;44,36;1;1608;candidat;03;GHALI Samia;265;46,25;1
+liste_bv;detail_bv;1607;candidat;04;MARANDAT Bernard;45;10,79;0;1608;candidat;04;MARANDAT Bernard;87;15,18;0
+liste_bv;detail_bv;1607;candidat;05;ROGIER Daniel;4;0,96;0;1608;candidat;05;ROGIER Daniel;5;0,87;0
+liste_bv;detail_bv;1607;candidat;06;AHAMADA Saïd;10;2,40;0;1608;candidat;06;AHAMADA Saïd;21;3,66;0
+liste_bv;total_bv;665;428;64,36;417;62,71;11;2,57;1 242;598;48,15;573;46,14;25;4,18
+detail;rupture_bv;;;;;;;
+liste_bv;detail_bv;1609;candidat;01;SUSINI Bernard;109;26,98;0;1610;candidat;01;SUSINI Bernard;118;23,89;0
+liste_bv;detail_bv;1609;candidat;02;SAINT JEAN Henri;24;5,94;0;1610;candidat;02;SAINT JEAN Henri;41;8,30;0
+liste_bv;detail_bv;1609;candidat;03;GHALI Samia;207;51,24;1;1610;candidat;03;GHALI Samia;254;51,42;1
+liste_bv;detail_bv;1609;candidat;04;MARANDAT Bernard;37;9,16;0;1610;candidat;04;MARANDAT Bernard;57;11,54;0
+liste_bv;detail_bv;1609;candidat;05;ROGIER Daniel;8;1,98;0;1610;candidat;05;ROGIER Daniel;9;1,82;0
+liste_bv;detail_bv;1609;candidat;06;AHAMADA Saïd;19;4,70;0;1610;candidat;06;AHAMADA Saïd;15;3,04;0
+liste_bv;total_bv;756;411;54,37;404;53,44;7;1,70;830;516;62,17;494;59,52;22;4,26
+liste_bv;detail_bv;1611;candidat;01;SUSINI Bernard;188;35,07;0;1612;candidat;01;SUSINI Bernard;173;31,23;0
+liste_bv;detail_bv;1611;candidat;02;SAINT JEAN Henri;39;7,28;0;1612;candidat;02;SAINT JEAN Henri;48;8,66;0
+liste_bv;detail_bv;1611;candidat;03;GHALI Samia;242;45,15;1;1612;candidat;03;GHALI Samia;269;48,56;1
+liste_bv;detail_bv;1611;candidat;04;MARANDAT Bernard;51;9,51;0;1612;candidat;04;MARANDAT Bernard;42;7,58;0
+liste_bv;detail_bv;1611;candidat;05;ROGIER Daniel;2;0,37;0;1612;candidat;05;ROGIER Daniel;5;0,90;0
+liste_bv;detail_bv;1611;candidat;06;AHAMADA Saïd;14;2,61;0;1612;candidat;06;AHAMADA Saïd;17;3,07;0
+liste_bv;total_bv;918;567;61,76;536;58,39;31;5,47;904;575;63,61;554;61,28;21;3,65
+liste_bv;detail_bv;1613;candidat;01;SUSINI Bernard;57;15,24;0;1614;candidat;01;SUSINI Bernard;123;25,20;0
+liste_bv;detail_bv;1613;candidat;02;SAINT JEAN Henri;34;9,09;0;1614;candidat;02;SAINT JEAN Henri;46;9,43;0
+liste_bv;detail_bv;1613;candidat;03;GHALI Samia;253;67,65;1;1614;candidat;03;GHALI Samia;238;48,77;1
+liste_bv;detail_bv;1613;candidat;04;MARANDAT Bernard;23;6,15;0;1614;candidat;04;MARANDAT Bernard;58;11,89;0
+liste_bv;detail_bv;1613;candidat;05;ROGIER Daniel;1;0,27;0;1614;candidat;05;ROGIER Daniel;7;1,43;0
+liste_bv;detail_bv;1613;candidat;06;AHAMADA Saïd;6;1,60;0;1614;candidat;06;AHAMADA Saïd;16;3,28;0
+liste_bv;total_bv;635;384;60,47;374;58,90;10;2,60;823;497;60,39;488;59,30;9;1,81
+detail;ARRONDISSEMENT;01;candidat;01;CHEVASSU Armelle;1 203;11,91;0
+detail;ARRONDISSEMENT;01;candidat;02;BRUN-POTHIN Stephanie;110;1,09;0
+detail;ARRONDISSEMENT;01;candidat;03;BLANC Jackie;561;5,56;0
+detail;ARRONDISSEMENT;01;candidat;04;MULLER Childeric;691;6,84;0
+detail;ARRONDISSEMENT;01;candidat;05;MENNUCCI Patrick;4 569;45,25;1
+detail;ARRONDISSEMENT;01;candidat;06;ROATTA Jean;2 963;29,35;0
+total;18 167;10 322;56,82;10 097;55,58;225;2,18
+detail;ARRONDISSEMENT;02;candidat;01;ROCCASERRA Jacques;1 968;28,38;0
+detail;ARRONDISSEMENT;02;candidat;02;LOMBARDI Roland;456;6,58;0
+detail;ARRONDISSEMENT;02;candidat;03;ARVOIS Emmanuel;488;7,04;0
+detail;ARRONDISSEMENT;02;candidat;04;BISTAGNE Florence;241;3,48;0
+detail;ARRONDISSEMENT;02;candidat;05;NARDUCCI Lisette;3 782;54,53;1
+total;12 270;7 129;58,10;6 935;56,52;194;2,72
+detail;ARRONDISSEMENT;03;candidat;01;ROCCASERRA Jacques;2 294;24,77;0
+detail;ARRONDISSEMENT;03;candidat;02;LOMBARDI Roland;983;10,61;0
+detail;ARRONDISSEMENT;03;candidat;03;ARVOIS Emmanuel;499;5,39;0
+detail;ARRONDISSEMENT;03;candidat;04;BISTAGNE Florence;375;4,05;0
+detail;ARRONDISSEMENT;03;candidat;05;NARDUCCI Lisette;5 110;55,18;1
+total;18 754;9 535;50,84;9 261;49,38;274;2,87
+detail;ARRONDISSEMENT;04;candidat;01;MADROLLE Christophe;1 002;5,78;0
+detail;ARRONDISSEMENT;04;candidat;02;RAYNAUD Corinne;66;0,38;0
+detail;ARRONDISSEMENT;04;candidat;03;MIH Gilda;1 164;6,72;0
+detail;ARRONDISSEMENT;04;candidat;04;GUERINI Jean-Noël;6 415;37,04;0
+detail;ARRONDISSEMENT;04;candidat;05;CANTREL Nicole;116;0,67;0
+detail;ARRONDISSEMENT;04;candidat;06;ROUX MOUMANE Camille;872;5,03;0
+detail;ARRONDISSEMENT;04;candidat;07;SAVON Hubert;183;1,06;0
+detail;ARRONDISSEMENT;04;candidat;08;MUSELIER Renaud;7 503;43,32;1
+total;29 261;17 722;60,57;17 321;59,19;401;2,26
+detail;ARRONDISSEMENT;05;candidat;01;MADROLLE Christophe;1 036;6,90;0
+detail;ARRONDISSEMENT;05;candidat;02;RAYNAUD Corinne;65;0,43;0
+detail;ARRONDISSEMENT;05;candidat;03;MIH Gilda;866;5,77;0
+detail;ARRONDISSEMENT;05;candidat;04;GUERINI Jean-Noël;5 712;38,05;0
+detail;ARRONDISSEMENT;05;candidat;05;CANTREL Nicole;81;0,54;0
+detail;ARRONDISSEMENT;05;candidat;06;ROUX MOUMANE Camille;992;6,61;0
+detail;ARRONDISSEMENT;05;candidat;07;SAVON Hubert;133;0,89;0
+detail;ARRONDISSEMENT;05;candidat;08;MUSELIER Renaud;6 127;40,81;1
+total;24 706;15 300;61,93;15 012;60,76;288;1,88
+detail;ARRONDISSEMENT;06;candidat;01;BENNAHMIAS Jean-Luc;1 305;9,19;0
+detail;ARRONDISSEMENT;06;candidat;02;GAUDIN Jean-Claude;6 068;42,74;1
+detail;ARRONDISSEMENT;06;candidat;03;FRANCESCHI François;4 774;33,63;0
+detail;ARRONDISSEMENT;06;candidat;04;BARDE Mireille;904;6,37;0
+detail;ARRONDISSEMENT;06;candidat;05;PIRROTTINA Louis-Michel;1 146;8,07;0
+total;24 742;14 461;58,45;14 197;57,38;264;1,83
+detail;ARRONDISSEMENT;07;candidat;01;CHEVASSU Armelle;706;4,67;0
+detail;ARRONDISSEMENT;07;candidat;02;BRUN-POTHIN Stephanie;35;0,23;0
+detail;ARRONDISSEMENT;07;candidat;03;BLANC Jackie;1 110;7,34;0
+detail;ARRONDISSEMENT;07;candidat;04;MULLER Childeric;842;5,57;0
+detail;ARRONDISSEMENT;07;candidat;05;MENNUCCI Patrick;5 317;35,17;0
+detail;ARRONDISSEMENT;07;candidat;06;ROATTA Jean;7 106;47,01;1
+total;24 715;15 479;62,63;15 116;61,16;363;2,35
+detail;ARRONDISSEMENT;08;candidat;01;BENNAHMIAS Jean-Luc;2 206;7,09;0
+detail;ARRONDISSEMENT;08;candidat;02;GAUDIN Jean-Claude;17 532;56,35;1
+detail;ARRONDISSEMENT;08;candidat;03;FRANCESCHI François;8 121;26,10;0
+detail;ARRONDISSEMENT;08;candidat;04;BARDE Mireille;2 023;6,50;0
+detail;ARRONDISSEMENT;08;candidat;05;PIRROTTINA Louis-Michel;1 230;3,95;0
+total;52 759;31 829;60,33;31 112;58,97;717;2,25
+detail;ARRONDISSEMENT;09;candidat;01;TEISSIER Guy;14 064;51,96;1
+detail;ARRONDISSEMENT;09;candidat;02;ZAOUI Patrick;1 629;6,02;0
+detail;ARRONDISSEMENT;09;candidat;03;COLOMB Nicole;1 082;4,00;0
+detail;ARRONDISSEMENT;09;candidat;04;OLMETA Rene;8 010;29,59;0
+detail;ARRONDISSEMENT;09;candidat;05;COMAS Laurent;2 284;8,44;0
+total;46 055;27 520;59,75;27 069;58,78;451;1,64
+detail;ARRONDISSEMENT;10;candidat;01;TEISSIER Guy;7 429;43,78;1
+detail;ARRONDISSEMENT;10;candidat;02;ZAOUI Patrick;917;5,40;0
+detail;ARRONDISSEMENT;10;candidat;03;COLOMB Nicole;702;4,14;0
+detail;ARRONDISSEMENT;10;candidat;04;OLMETA Rene;6 087;35,88;0
+detail;ARRONDISSEMENT;10;candidat;05;COMAS Laurent;1 832;10,80;0
+total;30 675;17 321;56,47;16 967;55,31;354;2,04
+detail;ARRONDISSEMENT;11;candidat;01;BLUM  Roland;6 978;37,53;0
+detail;ARRONDISSEMENT;11;candidat;02;ROUVIERE Jacky;82;0,44;0
+detail;ARRONDISSEMENT;11;candidat;03;BELOTTI Francis;161;0,87;0
+detail;ARRONDISSEMENT;11;candidat;04;NOBILE Jeanne;831;4,47;0
+detail;ARRONDISSEMENT;11;candidat;05;DURBEC Stephane;1 703;9,16;0
+detail;ARRONDISSEMENT;11;candidat;06;MASSE Christophe;8 130;43,73;1
+detail;ARRONDISSEMENT;11;candidat;07;MALVEZIN Bruno;707;3,80;0
+total;33 991;19 008;55,92;18 592;54,70;416;2,19
+detail;ARRONDISSEMENT;12;candidat;01;BLUM  Roland;11 036;48,11;1
+detail;ARRONDISSEMENT;12;candidat;02;ROUVIERE Jacky;62;0,27;0
+detail;ARRONDISSEMENT;12;candidat;03;BELOTTI Francis;131;0,57;0
+detail;ARRONDISSEMENT;12;candidat;04;NOBILE Jeanne;1 233;5,38;0
+detail;ARRONDISSEMENT;12;candidat;05;DURBEC Stephane;1 924;8,39;0
+detail;ARRONDISSEMENT;12;candidat;06;MASSE Christophe;7 744;33,76;0
+detail;ARRONDISSEMENT;12;candidat;07;MALVEZIN Bruno;807;3,52;0
+total;38 375;23 383;60,93;22 937;59,77;446;1,91
+detail;ARRONDISSEMENT;13;candidat;01;LE PAGE Jean-Claude;288;1,10;0
+detail;ARRONDISSEMENT;13;candidat;02;RAVIER Stephane;2 947;11,22;0
+detail;ARRONDISSEMENT;13;candidat;03;BOYER Valerie;9 089;34,60;0
+detail;ARRONDISSEMENT;13;candidat;04;LAQHILA Mohamed;953;3,63;0
+detail;ARRONDISSEMENT;13;candidat;05;ANDRIEUX Sylvie;12 074;45,97;1
+detail;ARRONDISSEMENT;13;candidat;06;JOHSUA Babette;914;3,48;0
+total;48 100;26 992;56,12;26 265;54,60;727;2,69
+detail;ARRONDISSEMENT;14;candidat;01;LE PAGE Jean-Claude;189;1,28;0
+detail;ARRONDISSEMENT;14;candidat;02;RAVIER Stephane;1 900;12,83;0
+detail;ARRONDISSEMENT;14;candidat;03;BOYER Valerie;4 161;28,10;0
+detail;ARRONDISSEMENT;14;candidat;04;LAQHILA Mohamed;626;4,23;0
+detail;ARRONDISSEMENT;14;candidat;05;ANDRIEUX Sylvie;7 388;49,89;1
+detail;ARRONDISSEMENT;14;candidat;06;JOHSUA Babette;545;3,68;0
+total;28 475;15 143;53,18;14 809;52,01;334;2,21
+detail;ARRONDISSEMENT;15;candidat;01;SUSINI Bernard;4 205;24,56;0
+detail;ARRONDISSEMENT;15;candidat;02;SAINT JEAN Henri;635;3,71;0
+detail;ARRONDISSEMENT;15;candidat;03;GHALI Samia;9 087;53,08;1
+detail;ARRONDISSEMENT;15;candidat;04;MARANDAT Bernard;2 252;13,15;0
+detail;ARRONDISSEMENT;15;candidat;05;ROGIER Daniel;149;0,87;0
+detail;ARRONDISSEMENT;15;candidat;06;AHAMADA Saïd;793;4,63;0
+total;34 436;17 674;51,32;17 121;49,72;553;3,13
+detail;ARRONDISSEMENT;16;candidat;01;SUSINI Bernard;1 407;27,38;0
+detail;ARRONDISSEMENT;16;candidat;02;SAINT JEAN Henri;386;7,51;0
+detail;ARRONDISSEMENT;16;candidat;03;GHALI Samia;2 556;49,74;1
+detail;ARRONDISSEMENT;16;candidat;04;MARANDAT Bernard;566;11,01;0
+detail;ARRONDISSEMENT;16;candidat;05;ROGIER Daniel;60;1,17;0
+detail;ARRONDISSEMENT;16;candidat;06;AHAMADA Saïd;164;3,19;0
+total;9 325;5 333;57,19;5 139;55,11;194;3,64
+detail;CIRCONSCRIPTION;01;liste;01;GAUDIN-MUSELIER;16 155;44,55;1
+detail;CIRCONSCRIPTION;01;liste;02;GUERINI;12 848;35,43;0
+detail;CIRCONSCRIPTION;01;liste;03;MODEM;2 160;5,96;0
+detail;CIRCONSCRIPTION;01;liste;04;FN;2 627;7,24;0
+detail;CIRCONSCRIPTION;01;liste;05;MNR;278;0,77;0
+detail;CIRCONSCRIPTION;01;liste;06;DIVERS DROITE;142;0,39;0
+detail;CIRCONSCRIPTION;01;liste;07;EXTREME GAUCHE;2 053;5,66;0
+total;60 735;37 001;60,92;36 263;59,71;738;1,99
+detail;CIRCONSCRIPTION;02;liste;01;GAUDIN-MUSELIER;20 963;54,66;1
+detail;CIRCONSCRIPTION;02;liste;02;GUERINI;10 431;27,20;0
+detail;CIRCONSCRIPTION;02;liste;03;MODEM;2 847;7,42;0
+detail;CIRCONSCRIPTION;02;liste;04;FN;2 497;6,51;0
+detail;CIRCONSCRIPTION;02;liste;05;MNR;0;0,00;0
+detail;CIRCONSCRIPTION;02;liste;06;DIVERS DROITE;0;0,00;0
+detail;CIRCONSCRIPTION;02;liste;07;EXTREME GAUCHE;1 615;4,21;0
+total;65 350;39 227;60,03;38 353;58,69;874;2,23
+detail;CIRCONSCRIPTION;03;liste;01;GAUDIN-MUSELIER;10 501;38,42;0
+detail;CIRCONSCRIPTION;03;liste;02;GUERINI;11 706;42,83;1
+detail;CIRCONSCRIPTION;03;liste;03;MODEM;1 405;5,14;0
+detail;CIRCONSCRIPTION;03;liste;04;FN;1 811;6,63;0
+detail;CIRCONSCRIPTION;03;liste;05;MNR;0;0,00;0
+detail;CIRCONSCRIPTION;03;liste;06;DIVERS DROITE;119;0,44;0
+detail;CIRCONSCRIPTION;03;liste;07;EXTREME GAUCHE;1 789;6,55;0
+total;46 888;28 026;59,77;27 331;58,29;695;2,48
+detail;CIRCONSCRIPTION;04;liste;01;GAUDIN-MUSELIER;6 049;24,62;0
+detail;CIRCONSCRIPTION;04;liste;02;GUERINI;13 255;53,95;1
+detail;CIRCONSCRIPTION;04;liste;03;MODEM;977;3,98;0
+detail;CIRCONSCRIPTION;04;liste;04;FN;2 865;11,66;0
+detail;CIRCONSCRIPTION;04;liste;05;MNR;0;0,00;0
+detail;CIRCONSCRIPTION;04;liste;06;DIVERS DROITE;0;0,00;0
+detail;CIRCONSCRIPTION;04;liste;07;EXTREME GAUCHE;1 425;5,80;0
+total;48 704;25 346;52,04;24 571;50,45;775;3,06
+detail;CIRCONSCRIPTION;05;liste;01;GAUDIN-MUSELIER;12 872;40,73;1
+detail;CIRCONSCRIPTION;05;liste;02;GUERINI;11 620;36,76;0
+detail;CIRCONSCRIPTION;05;liste;03;MODEM;2 261;7,15;0
+detail;CIRCONSCRIPTION;05;liste;04;FN;2 404;7,61;0
+detail;CIRCONSCRIPTION;05;liste;05;MNR;133;0,42;0
+detail;CIRCONSCRIPTION;05;liste;06;DIVERS DROITE;81;0,26;0
+detail;CIRCONSCRIPTION;05;liste;07;EXTREME GAUCHE;2 236;7,07;0
+total;54 619;32 202;58,96;31 607;57,87;595;1,85
+detail;CIRCONSCRIPTION;06;liste;01;GAUDIN-MUSELIER;19 622;48,33;1
+detail;CIRCONSCRIPTION;06;liste;02;GUERINI;13 420;33,05;0
+detail;CIRCONSCRIPTION;06;liste;03;MODEM;2 281;5,62;0
+detail;CIRCONSCRIPTION;06;liste;04;FN;3 578;8,81;0
+detail;CIRCONSCRIPTION;06;liste;05;MNR;61;0,15;0
+detail;CIRCONSCRIPTION;06;liste;06;DIVERS DROITE;0;0,00;0
+detail;CIRCONSCRIPTION;06;liste;07;EXTREME GAUCHE;1 639;4,04;0
+total;70 666;41 348;58,51;40 601;57,45;747;1,81
+detail;CIRCONSCRIPTION;07;liste;01;GAUDIN-MUSELIER;7 739;28,52;0
+detail;CIRCONSCRIPTION;07;liste;02;GUERINI;13 588;50,07;1
+detail;CIRCONSCRIPTION;07;liste;03;MODEM;1 165;4,29;0
+detail;CIRCONSCRIPTION;07;liste;04;FN;3 384;12,47;0
+detail;CIRCONSCRIPTION;07;liste;05;MNR;0;0,00;0
+detail;CIRCONSCRIPTION;07;liste;06;DIVERS DROITE;255;0,94;0
+detail;CIRCONSCRIPTION;07;liste;07;EXTREME GAUCHE;1 008;3,71;0
+total;52 574;27 829;52,93;27 139;51,62;690;2,48
+detail;CIRCONSCRIPTION;08;liste;01;GAUDIN-MUSELIER;16 029;38,09;0
+detail;CIRCONSCRIPTION;08;liste;02;GUERINI;18 008;42,79;1
+detail;CIRCONSCRIPTION;08;liste;03;MODEM;1 748;4,15;0
+detail;CIRCONSCRIPTION;08;liste;04;FN;4 309;10,24;0
+detail;CIRCONSCRIPTION;08;liste;05;MNR;136;0,32;0
+detail;CIRCONSCRIPTION;08;liste;06;DIVERS DROITE;222;0,53;0
+detail;CIRCONSCRIPTION;08;liste;07;EXTREME GAUCHE;1 633;3,88;0
+total;75 270;43 172;57,36;42 085;55,91;1 087;2,52
+detail;CANTON;LA BELLE DE MAI;liste;01;GAUDIN-MUSELIER;1 760;26,61;0
+detail;CANTON;LA BELLE DE MAI;liste;02;GUERINI;3 488;52,73;1
+detail;CANTON;LA BELLE DE MAI;liste;03;MODEM;268;4,05;0
+detail;CANTON;LA BELLE DE MAI;liste;04;FN;720;10,88;0
+detail;CANTON;LA BELLE DE MAI;liste;05;MNR;0;0,00;0
+detail;CANTON;LA BELLE DE MAI;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;LA BELLE DE MAI;liste;07;EXTREME GAUCHE;379;5,73;0
+total;12 962;6 807;52,52;6 615;51,03;192;2,82
+detail;CANTON;BELSUNCE;liste;01;GAUDIN-MUSELIER;2 998;36,30;0
+detail;CANTON;BELSUNCE;liste;02;GUERINI;3 519;42,61;1
+detail;CANTON;BELSUNCE;liste;03;MODEM;483;5,85;0
+detail;CANTON;BELSUNCE;liste;04;FN;522;6,32;0
+detail;CANTON;BELSUNCE;liste;05;MNR;0;0,00;0
+detail;CANTON;BELSUNCE;liste;06;DIVERS DROITE;63;0,76;0
+detail;CANTON;BELSUNCE;liste;07;EXTREME GAUCHE;674;8,16;0
+total;14 727;8 478;57,57;8 259;56,08;219;2,58
+detail;CANTON;LA BLANCARDE;liste;01;GAUDIN-MUSELIER;5 204;44,41;1
+detail;CANTON;LA BLANCARDE;liste;02;GUERINI;4 339;37,03;0
+detail;CANTON;LA BLANCARDE;liste;03;MODEM;628;5,36;0
+detail;CANTON;LA BLANCARDE;liste;04;FN;778;6,64;0
+detail;CANTON;LA BLANCARDE;liste;05;MNR;139;1,19;0
+detail;CANTON;LA BLANCARDE;liste;06;DIVERS DROITE;83;0,71;0
+detail;CANTON;LA BLANCARDE;liste;07;EXTREME GAUCHE;548;4,68;0
+total;20 045;12 002;59,88;11 719;58,46;283;2,36
+detail;CANTON;LE CAMAS;liste;01;GAUDIN-MUSELIER;4 270;40,54;1
+detail;CANTON;LE CAMAS;liste;02;GUERINI;4 014;38,11;0
+detail;CANTON;LE CAMAS;liste;03;MODEM;741;7,04;0
+detail;CANTON;LE CAMAS;liste;04;FN;582;5,53;0
+detail;CANTON;LE CAMAS;liste;05;MNR;90;0,85;0
+detail;CANTON;LE CAMAS;liste;06;DIVERS DROITE;51;0,48;0
+detail;CANTON;LE CAMAS;liste;07;EXTREME GAUCHE;785;7,45;0
+total;16 985;10 740;63,23;10 533;62,01;207;1,93
+detail;CANTON;LA CAPELETTE;liste;01;GAUDIN-MUSELIER;4 562;42,37;1
+detail;CANTON;LA CAPELETTE;liste;02;GUERINI;3 881;36,05;0
+detail;CANTON;LA CAPELETTE;liste;03;MODEM;629;5,84;0
+detail;CANTON;LA CAPELETTE;liste;04;FN;1 182;10,98;0
+detail;CANTON;LA CAPELETTE;liste;05;MNR;12;0,11;0
+detail;CANTON;LA CAPELETTE;liste;06;DIVERS DROITE;11;0,10;0
+detail;CANTON;LA CAPELETTE;liste;07;EXTREME GAUCHE;489;4,54;0
+total;19 712;10 992;55,76;10 766;54,62;226;2,06
+detail;CANTON;LES CINQ AVENUES;liste;01;GAUDIN-MUSELIER;4 269;37,83;0
+detail;CANTON;LES CINQ AVENUES;liste;02;GUERINI;4 318;38,26;1
+detail;CANTON;LES CINQ AVENUES;liste;03;MODEM;802;7,11;0
+detail;CANTON;LES CINQ AVENUES;liste;04;FN;758;6,72;0
+detail;CANTON;LES CINQ AVENUES;liste;05;MNR;48;0,43;0
+detail;CANTON;LES CINQ AVENUES;liste;06;DIVERS DROITE;59;0,52;0
+detail;CANTON;LES CINQ AVENUES;liste;07;EXTREME GAUCHE;1 032;9,14;0
+total;18 918;11 504;60,81;11 286;59,66;218;1,89
+detail;CANTON;LES GRANDS CARMES;liste;01;GAUDIN-MUSELIER;2 138;27,73;0
+detail;CANTON;LES GRANDS CARMES;liste;02;GUERINI;4 228;54,84;1
+detail;CANTON;LES GRANDS CARMES;liste;03;MODEM;274;3,55;0
+detail;CANTON;LES GRANDS CARMES;liste;04;FN;480;6,23;0
+detail;CANTON;LES GRANDS CARMES;liste;05;MNR;0;0,00;0
+detail;CANTON;LES GRANDS CARMES;liste;06;DIVERS DROITE;30;0,39;0
+detail;CANTON;LES GRANDS CARMES;liste;07;EXTREME GAUCHE;559;7,25;0
+total;13 792;7 932;57,51;7 709;55,89;223;2,81
+detail;CANTON;MAZARGUES;liste;01;GAUDIN-MUSELIER;7 147;51,00;1
+detail;CANTON;MAZARGUES;liste;02;GUERINI;4 268;30,45;0
+detail;CANTON;MAZARGUES;liste;03;MODEM;818;5,84;0
+detail;CANTON;MAZARGUES;liste;04;FN;1 175;8,38;0
+detail;CANTON;MAZARGUES;liste;05;MNR;0;0,00;0
+detail;CANTON;MAZARGUES;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;MAZARGUES;liste;07;EXTREME GAUCHE;607;4,33;0
+total;23 697;14 280;60,26;14 015;59,14;265;1,86
+detail;CANTON;MONTOLIVET;liste;01;GAUDIN-MUSELIER;6 682;50,40;1
+detail;CANTON;MONTOLIVET;liste;02;GUERINI;4 191;31,61;0
+detail;CANTON;MONTOLIVET;liste;03;MODEM;730;5,51;0
+detail;CANTON;MONTOLIVET;liste;04;FN;1 091;8,23;0
+detail;CANTON;MONTOLIVET;liste;05;MNR;91;0,69;0
+detail;CANTON;MONTOLIVET;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;MONTOLIVET;liste;07;EXTREME GAUCHE;473;3,57;0
+total;21 772;13 495;61,98;13 258;60,89;237;1,76
+detail;CANTON;NOTRE DAME DU MONT;liste;01;GAUDIN-MUSELIER;4 040;39,19;1
+detail;CANTON;NOTRE DAME DU MONT;liste;02;GUERINI;3 725;36,14;0
+detail;CANTON;NOTRE DAME DU MONT;liste;03;MODEM;891;8,64;0
+detail;CANTON;NOTRE DAME DU MONT;liste;04;FN;640;6,21;0
+detail;CANTON;NOTRE DAME DU MONT;liste;05;MNR;31;0,30;0
+detail;CANTON;NOTRE DAME DU MONT;liste;06;DIVERS DROITE;19;0,18;0
+detail;CANTON;NOTRE DAME DU MONT;liste;07;EXTREME GAUCHE;962;9,33;0
+total;17 922;10 470;58,42;10 308;57,52;162;1,55
+detail;CANTON;NOTRE DAME LIMITE;liste;01;GAUDIN-MUSELIER;2 262;26,31;0
+detail;CANTON;NOTRE DAME LIMITE;liste;02;GUERINI;4 355;50,66;1
+detail;CANTON;NOTRE DAME LIMITE;liste;03;MODEM;499;5,80;0
+detail;CANTON;NOTRE DAME LIMITE;liste;04;FN;1 102;12,82;0
+detail;CANTON;NOTRE DAME LIMITE;liste;05;MNR;0;0,00;0
+detail;CANTON;NOTRE DAME LIMITE;liste;06;DIVERS DROITE;15;0,17;0
+detail;CANTON;NOTRE DAME LIMITE;liste;07;EXTREME GAUCHE;364;4,23;0
+total;17 125;8 890;51,91;8 597;50,20;293;3,30
+detail;CANTON;LES OLIVES;liste;01;GAUDIN-MUSELIER;4 316;38,09;0
+detail;CANTON;LES OLIVES;liste;02;GUERINI;4 713;41,59;1
+detail;CANTON;LES OLIVES;liste;03;MODEM;438;3,87;0
+detail;CANTON;LES OLIVES;liste;04;FN;1 374;12,12;0
+detail;CANTON;LES OLIVES;liste;05;MNR;0;0,00;0
+detail;CANTON;LES OLIVES;liste;06;DIVERS DROITE;109;0,96;0
+detail;CANTON;LES OLIVES;liste;07;EXTREME GAUCHE;382;3,37;0
+total;19 274;11 605;60,21;11 332;58,79;273;2,35
+detail;CANTON;LA POINTE ROUGE;liste;01;GAUDIN-MUSELIER;7 245;51,35;1
+detail;CANTON;LA POINTE ROUGE;liste;02;GUERINI;4 123;29,22;0
+detail;CANTON;LA POINTE ROUGE;liste;03;MODEM;1 111;7,87;0
+detail;CANTON;LA POINTE ROUGE;liste;04;FN;953;6,75;0
+detail;CANTON;LA POINTE ROUGE;liste;05;MNR;0;0,00;0
+detail;CANTON;LA POINTE ROUGE;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;LA POINTE ROUGE;liste;07;EXTREME GAUCHE;678;4,81;0
+total;23 313;14 417;61,84;14 110;60,52;307;2,13
+detail;CANTON;LA POMME;liste;01;GAUDIN-MUSELIER;5 558;41,07;1
+detail;CANTON;LA POMME;liste;02;GUERINI;5 410;39,98;0
+detail;CANTON;LA POMME;liste;03;MODEM;652;4,82;0
+detail;CANTON;LA POMME;liste;04;FN;1 294;9,56;0
+detail;CANTON;LA POMME;liste;05;MNR;61;0,45;0
+detail;CANTON;LA POMME;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;LA POMME;liste;07;EXTREME GAUCHE;557;4,12;0
+total;24 611;13 828;56,19;13 532;54,98;296;2,14
+detail;CANTON;LA ROSE;liste;01;GAUDIN-MUSELIER;3 052;31,95;0
+detail;CANTON;LA ROSE;liste;02;GUERINI;4 659;48,77;1
+detail;CANTON;LA ROSE;liste;03;MODEM;331;3,46;0
+detail;CANTON;LA ROSE;liste;04;FN;1 025;10,73;0
+detail;CANTON;LA ROSE;liste;05;MNR;0;0,00;0
+detail;CANTON;LA ROSE;liste;06;DIVERS DROITE;113;1,18;0
+detail;CANTON;LA ROSE;liste;07;EXTREME GAUCHE;373;3,90;0
+total;18 538;9 897;53,39;9 553;51,53;344;3,48
+detail;CANTON;SAINT BARTHELEMY;liste;01;GAUDIN-MUSELIER;2 736;28,68;0
+detail;CANTON;SAINT BARTHELEMY;liste;02;GUERINI;4 729;49,57;1
+detail;CANTON;SAINT BARTHELEMY;liste;03;MODEM;388;4,07;0
+detail;CANTON;SAINT BARTHELEMY;liste;04;FN;1 233;12,92;0
+detail;CANTON;SAINT BARTHELEMY;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINT BARTHELEMY;liste;06;DIVERS DROITE;124;1,30;0
+detail;CANTON;SAINT BARTHELEMY;liste;07;EXTREME GAUCHE;331;3,47;0
+total;18 103;9 739;53,80;9 541;52,70;198;2,03
+detail;CANTON;SAINT GINIEZ;liste;01;GAUDIN-MUSELIER;7 985;60,94;1
+detail;CANTON;SAINT GINIEZ;liste;02;GUERINI;3 036;23,17;0
+detail;CANTON;SAINT GINIEZ;liste;03;MODEM;800;6,11;0
+detail;CANTON;SAINT GINIEZ;liste;04;FN;852;6,50;0
+detail;CANTON;SAINT GINIEZ;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINT GINIEZ;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;SAINT GINIEZ;liste;07;EXTREME GAUCHE;431;3,29;0
+total;22 460;13 427;59,78;13 104;58,34;323;2,41
+detail;CANTON;SAINT JUST;liste;01;GAUDIN-MUSELIER;2 741;30,45;0
+detail;CANTON;SAINT JUST;liste;02;GUERINI;4 504;50,04;1
+detail;CANTON;SAINT JUST;liste;03;MODEM;278;3,09;0
+detail;CANTON;SAINT JUST;liste;04;FN;1 049;11,65;0
+detail;CANTON;SAINT JUST;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINT JUST;liste;06;DIVERS DROITE;116;1,29;0
+detail;CANTON;SAINT JUST;liste;07;EXTREME GAUCHE;313;3,48;0
+total;17 346;9 200;53,04;9 001;51,89;199;2,16
+detail;CANTON;SAINT LAMBERT;liste;01;GAUDIN-MUSELIER;5 365;47,21;1
+detail;CANTON;SAINT LAMBERT;liste;02;GUERINI;3 959;34,84;0
+detail;CANTON;SAINT LAMBERT;liste;03;MODEM;648;5,70;0
+detail;CANTON;SAINT LAMBERT;liste;04;FN;809;7,12;0
+detail;CANTON;SAINT LAMBERT;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINT LAMBERT;liste;06;DIVERS DROITE;26;0,23;0
+detail;CANTON;SAINT LAMBERT;liste;07;EXTREME GAUCHE;556;4,89;0
+total;18 369;11 616;63,24;11 363;61,86;253;2,18
+detail;CANTON;SAINT MARCEL;liste;01;GAUDIN-MUSELIER;3 107;33,21;0
+detail;CANTON;SAINT MARCEL;liste;02;GUERINI;4 426;47,31;1
+detail;CANTON;SAINT MARCEL;liste;03;MODEM;339;3,62;0
+detail;CANTON;SAINT MARCEL;liste;04;FN;924;9,88;0
+detail;CANTON;SAINT MARCEL;liste;05;MNR;93;0,99;0
+detail;CANTON;SAINT MARCEL;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;SAINT MARCEL;liste;07;EXTREME GAUCHE;467;4,99;0
+total;17 522;9 603;54,81;9 356;53,40;247;2,57
+detail;CANTON;SAINT MAURONT;liste;01;GAUDIN-MUSELIER;1 707;20,94;0
+detail;CANTON;SAINT MAURONT;liste;02;GUERINI;4 742;58,18;1
+detail;CANTON;SAINT MAURONT;liste;03;MODEM;302;3,71;0
+detail;CANTON;SAINT MAURONT;liste;04;FN;1 045;12,82;0
+detail;CANTON;SAINT MAURONT;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINT MAURONT;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;SAINT MAURONT;liste;07;EXTREME GAUCHE;354;4,34;0
+total;17 124;8 409;49,11;8 150;47,59;259;3,08
+detail;CANTON;SAINTE MARGUERITE;liste;01;GAUDIN-MUSELIER;6 917;52,99;1
+detail;CANTON;SAINTE MARGUERITE;liste;02;GUERINI;3 742;28,67;0
+detail;CANTON;SAINTE MARGUERITE;liste;03;MODEM;811;6,21;0
+detail;CANTON;SAINTE MARGUERITE;liste;04;FN;1 109;8,50;0
+detail;CANTON;SAINTE MARGUERITE;liste;05;MNR;0;0,00;0
+detail;CANTON;SAINTE MARGUERITE;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;SAINTE MARGUERITE;liste;07;EXTREME GAUCHE;475;3,64;0
+total;22 358;13 240;59,22;13 054;58,39;186;1,40
+detail;CANTON;LES TROIS LUCS;liste;01;GAUDIN-MUSELIER;5 554;46,89;1
+detail;CANTON;LES TROIS LUCS;liste;02;GUERINI;4 210;35,55;0
+detail;CANTON;LES TROIS LUCS;liste;03;MODEM;640;5,40;0
+detail;CANTON;LES TROIS LUCS;liste;04;FN;986;8,32;0
+detail;CANTON;LES TROIS LUCS;liste;05;MNR;43;0,36;0
+detail;CANTON;LES TROIS LUCS;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;LES TROIS LUCS;liste;07;EXTREME GAUCHE;411;3,47;0
+total;19 936;12 067;60,53;11 844;59,41;223;1,85
+detail;CANTON;VAUBAN;liste;01;GAUDIN-MUSELIER;5 733;51,47;1
+detail;CANTON;VAUBAN;liste;02;GUERINI;3 272;29,37;0
+detail;CANTON;VAUBAN;liste;03;MODEM;936;8,40;0
+detail;CANTON;VAUBAN;liste;04;FN;692;6,21;0
+detail;CANTON;VAUBAN;liste;05;MNR;0;0,00;0
+detail;CANTON;VAUBAN;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;VAUBAN;liste;07;EXTREME GAUCHE;506;4,54;0
+total;19 577;11 383;58,14;11 139;56,90;244;2,14
+detail;CANTON;VERDURON;liste;01;GAUDIN-MUSELIER;2 582;26,33;0
+detail;CANTON;VERDURON;liste;02;GUERINI;5 025;51,24;1
+detail;CANTON;VERDURON;liste;03;MODEM;407;4,15;0
+detail;CANTON;VERDURON;liste;04;FN;1 100;11,22;0
+detail;CANTON;VERDURON;liste;05;MNR;0;0,00;0
+detail;CANTON;VERDURON;liste;06;DIVERS DROITE;0;0,00;0
+detail;CANTON;VERDURON;liste;07;EXTREME GAUCHE;692;7,06;0
+total;18 618;10 130;54,41;9 806;52,67;324;3,20
