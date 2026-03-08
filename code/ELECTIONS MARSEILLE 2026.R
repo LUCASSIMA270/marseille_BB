@@ -1170,3 +1170,33 @@ ggplot(df_bulle, aes(x = Pred_2026_Gauche, y = Pred_2026_RN)) +
     y = "Score estimé RN (%)"
   ) +
   theme_minimal()
+
+##################################################
+
+library(tidyverse)
+library(Metrics)
+
+# 1. Préparation du Train Set (2014)
+# On utilise les variables socio de dataset_complet (ton fichier de référence)
+# et les résultats que tu as extraits de df_2014_t2
+train_backtest <- dataset_master %>%
+  select(SECTEUR, Revenu_Median_Moyen, Taux_Pauvrete_Moyen, Part_HLM, Part_Jeunes_Moins_30) %>%
+  left_join(df_2014_t2_propre, by = "SECTEUR") # df_2014_t2_secteur doit contenir 'Score_GAUCHE'
+
+# 2. Entraînement du modèle sur les données de 2014
+model_backtest <- lm(Score_GAUCHE ~ Revenu_Median_Moyen + Part_HLM + Part_Jeunes_Moins_30, 
+                     data = train_backtest)
+
+# 3. Prédiction sur 2020 (Test Set)
+# On applique le modèle de 2014 aux données socio de 2020
+backtest_results <- train_backtest %>%
+  mutate(
+    Score_GAUCHE_Pred = predict(model_backtest, newdata = . )
+  ) %>%
+  select(SECTEUR, Score_GAUCHE_Pred) %>%
+  left_join(df_2020_t2_secteur, by = "SECTEUR") # Comparaison avec le réel de 2020
+
+# 4. Calcul de l'erreur (MAE)
+erreur_mae <- mae(backtest_results$Score_GAUCHE_Reel, backtest_results$Score_GAUCHE_Pred)
+
+print(paste("L'erreur moyenne du modèle sur l'élection 2020 est de :", round(erreur_mae, 2), "points."))
