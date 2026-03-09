@@ -2,6 +2,7 @@
 
 🗳️ Marseille BB: Granular Electoral Mapping
 Micro-Modeling the 2026 Battle: Analysis at the Polling Station (Bureau de Vote) Level
+
 🧐 The Objective
 
 Global trends often hide local realities. The marseille_BB project aims to predict the 2026 Municipal Elections by mapping Marseille’s political landscape at its finest grain: the Bureau de Vote (BV). By connecting each station to its specific INSEE Iris (socio-economic) data, we can identify "micro-swings" and neighborhood-specific shifts that sector-wide averages miss.
